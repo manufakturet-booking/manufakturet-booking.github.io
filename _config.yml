@@ -91,7 +91,7 @@ By using the Booking system you confirm that you have read and understood Terms 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "peter@create.aau.dk"
-  email            : "jgr@create.aau.dk"
+  #email            : "jgr@create.aau.dk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
