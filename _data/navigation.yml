@@ -3,8 +3,11 @@ main:
   - title: "All of CREATE"
     url: /create/
 
-  - title: "Talks"
-    url: /talks/
+  - title: "Lighting Design"
+    url: /ld/
+
+  - title: "Samsung Media Innovation Lab (SMILE)"
+    url: /SMILE/   
 
   - title: "Teaching"
     url: /teaching/
