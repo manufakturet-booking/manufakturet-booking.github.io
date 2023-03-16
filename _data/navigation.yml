@@ -7,19 +7,16 @@ main:
     url: /ld/
 
   - title: "Samsung Media Innovation Lab (SMILE)"
-    url: /SMILE/   
-
-  - title: "Teaching"
-    url: /teaching/
+    url: /SMILE/
 
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "Blog Posts"
-    url: /year-archive/
+#  - title: "Blog Posts"
+#    url: /year-archive/
 
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
 
   - title: "Guide"
     url: /markdown/
