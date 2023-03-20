@@ -7,4 +7,4 @@ author_profile: true
 
 ---
 
-###I have added another heading above
+<h2>I have added another heading above</h2>
