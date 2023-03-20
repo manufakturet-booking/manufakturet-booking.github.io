@@ -7,3 +7,4 @@ author_profile: true
 # another heading
 ---
 <h1>The equipment listed here is only available to Lighting Design students and staff</h1>
+I have added another heading above 
