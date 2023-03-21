@@ -7,6 +7,6 @@ subtitle: SMILE
 
 A test smile page.
 
-_This text is in ld.md in the root folder_
+_This text is in smile.md in the root folder_
 
 !It uses the category layout!
