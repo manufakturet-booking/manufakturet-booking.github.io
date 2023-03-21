@@ -1,9 +1,11 @@
 # main links
 main:
-#  - title: "Quick-Start Guide"
-#    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-    - title: "Peter Williams"
-    url: https://peterwilliams.dk/
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Quick-Start Guide2"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+#    - title: "Peter Williams"
+#    url: https://peterwilliams.dk/
 #  - title: "About"
 #     url: about-md/
   # - title: "Sample Posts"
