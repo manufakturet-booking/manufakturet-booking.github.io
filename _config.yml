@@ -20,7 +20,7 @@ title                    : "Equipment Booking"
 subtitle                 : "AAU CPH CREATE"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-# name                     : "Your Name"
+name                     : "AAU CPH CREATE"
 description              : "An amazing website."
 url                      : https://manufakturet-booking.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"/manufakturet-booking" # the subpath of your site, e.g. "/blog"
