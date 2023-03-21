@@ -1,17 +1,17 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Manufakturet"
-    url: https://www.manufakturet.create.aau.dk/
+#  - title: "Quick-Start Guide"
+#    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: about/
+  - title: "All of Create"
+    url: create/
   - title: "Lighting Design"
     url: ld/
   - title: "SMILE"
     url: smile/
-  - title: "All of Create"
-    url: create/
+  - title: "Manufakturet"
+    url: https://www.manufakturet.create.aau.dk/
 #  - title: "About"
 #     url: about-md/
   # - title: "Sample Posts"
