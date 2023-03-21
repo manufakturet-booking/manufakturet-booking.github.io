@@ -6,6 +6,12 @@ main:
     url: https://www.manufakturet.create.aau.dk/
   - title: "About"
     url: about/
+  - title: "Lighting Design"
+    url: ld/
+  - title: "SMILE"
+    url: smile/
+  - title: "All of Create"
+    url: create/
 #  - title: "About"
 #     url: about-md/
   # - title: "Sample Posts"
