@@ -1,4 +1,6 @@
 ---
+header:
+teaser: /assets/images/equip.png
 layout: default
 title: Create
 ---
