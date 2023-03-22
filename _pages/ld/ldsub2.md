@@ -4,7 +4,7 @@ title: LD - sub2
 ---
 # A sub page of Lighting Design
 
-*_Only available to lighting design students and staff_*
+
 
 A test sub page.
 
