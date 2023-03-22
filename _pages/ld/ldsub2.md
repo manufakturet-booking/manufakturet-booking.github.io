@@ -1,5 +1,5 @@
 ---
-layout: compress
+layout: postsLd
 title: LD - sub2
 ---
 # A sub page of Lighting Design
