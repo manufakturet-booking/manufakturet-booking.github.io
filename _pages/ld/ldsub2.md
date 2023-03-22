@@ -8,6 +8,6 @@ title: LD - sub2
 
 A test sub page.
 
-_This text is in ldSub1.md in _pages/create in the root folder_
+_This text is in ldSub2.md in _pages/create in the root folder_
 
 **It uses the single layout**

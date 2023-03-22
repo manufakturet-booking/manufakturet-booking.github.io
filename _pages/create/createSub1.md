@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: LD - sub1
+title: create - sub1
 ---
 # A sub page of Create
 
