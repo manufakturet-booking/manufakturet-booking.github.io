@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: about/
   - title: "All of Create"
-    url: create/
+    url: _pages/create/
   - title: "Lighting Design"
     url: ld/
   - title: "SMILE"
