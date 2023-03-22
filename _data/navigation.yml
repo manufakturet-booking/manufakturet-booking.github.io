@@ -4,6 +4,7 @@ main:
 #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: about/
+    description: "Terms of Service, Opening Hours and User Guide"
   - title: "All of Create"
     url: _pages/create/
   - title: "Lighting Design"
