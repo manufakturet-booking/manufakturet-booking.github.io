@@ -7,9 +7,9 @@ main:
   - title: "All of Create"
     url: _pages/create/
   - title: "Lighting Design"
-    url: ld/
+    url: _pages/ld/
   - title: "SMILE"
-    url: smile/
+    url: _pages/smile/
   - title: "Manufakturet"
     url: https://www.manufakturet.create.aau.dk/
 #  - title: "About"
