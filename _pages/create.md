@@ -1,5 +1,6 @@
 ---
 layout: category
+permalink: /_pages/
 title: Create
 author_profile: true
 ---
