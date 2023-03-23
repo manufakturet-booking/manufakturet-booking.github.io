@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: category
 title: Create
 ---
 # My create pages
@@ -13,4 +13,4 @@ _This text is in create.md in the _pages folder_
 - a side menu not expanded
 - advisory text at top
 
-**It uses the default layout**
+**It uses the category layout**
