@@ -6,6 +6,6 @@ title: Lighting Design
 
 A test ld page.
 
-_This text is in ld.md in the root folder_
+_This text is in ld.md in the _pages folder_
 
 !It uses the categories layout!
