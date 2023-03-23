@@ -1,8 +1,8 @@
 ---
 layout: category
-permalink: /_pages/
 title: Create
 author_profile: true
+tags: video-cameras zoom-recorders
 ---
 # My create pages
 
