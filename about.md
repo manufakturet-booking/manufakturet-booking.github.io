@@ -1,5 +1,5 @@
 ---
-layout: splash default
+layout: default
 title: About
 ---
 # My about pages
