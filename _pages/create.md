@@ -6,6 +6,10 @@ tags: video-cameras zoom-recorders
 ---
 # My create pages
 
+{% for post in site.categories.create %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+
 A test create page.
 
 _This text is in create.md in the _pages folder_
