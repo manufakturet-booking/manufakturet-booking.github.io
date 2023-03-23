@@ -1,6 +1,7 @@
 ---
 layout: category
 title: Create
+author_profile: true
 ---
 # My create pages
 
