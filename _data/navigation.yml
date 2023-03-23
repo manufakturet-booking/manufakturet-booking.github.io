@@ -13,6 +13,8 @@ main:
     url: _pages/smile/
   - title: "Manufakturet"
     url: https://www.manufakturet.create.aau.dk/
+  - title: "Test Create Category"
+    url: categories/#create
 #  - title: "About"
 #     url: about-md/
   # - title: "Sample Posts"
