@@ -1,6 +1,7 @@
 ---
 layout: home
 title: About
+author_profile: true
 sidebar: "fyi"
 ---
 # My about pages
