@@ -27,10 +27,3 @@ main:
 fyi:
     - title: "About"
       url: about/
-      children:
-        - title: "Terms of Service"
-          url: _pages/create
-        - title: "Opening Hours"
-          url: _pages/ld
-        - title: "User Guide"
-          url: _pages/smile
