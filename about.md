@@ -2,7 +2,6 @@
 layout: home
 title: About
 author_profile: true
-id: about
 sidebar: "fyi"
 ---
 # My about pages
@@ -24,4 +23,7 @@ _This text is in about.md in the root folder_
 ### custom nav
 ** This is a sample custom nav, which is intended to be in the sidebar **
 <html>
-{% include nav_list nav="foo" %}</html>
+---
+{% include nav_list nav="foo" %}
+---
+</html>
