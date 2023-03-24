@@ -22,4 +22,5 @@ _This text is in about.md in the root folder_
 
 ### custom nav
 ** This is a sample custom nav, which is intended to be in the sidebar **
-{% include nav_list nav="foo" %}
+<html>
+{% include nav_list nav="foo" %}</html>
