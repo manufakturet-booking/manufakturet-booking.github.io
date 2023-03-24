@@ -1,32 +1,30 @@
 ---
 categories: create
-tags: video-cameras zoom-recorder
+tags: development-boards bela beaglebone
 ---
-![Zoom Q8](../../assets/images/equip/zoomq8.png)
+![Zoom Q8](../../assets/images/equip/bela.png)
 
+The original Bela board has everything you need to start creating beautifully interactive applications. With 8 16-bit analog I/O and 16 digital I/O you can hook up all your favourite sensors and devices, and get programming with our browser-based IDE. Bela is compatible with our multiplexer and audio expander capelets, and has on-board stereo amps, making this our most fully-featured system. Bela is available as a starter kit (full system including Bela cape + BeagleBone Black, USB cable, Bela cape and two audio adapter cables), or as a stand-alone cape.
 
-
-160° wide-angle lens with selectable viewing angles (F2.0/16.6mm). stereo X/Y microphone. Support for five HD video modes, up to 2304 x 1296 pixels (3M HD), as well as two WVGA modes. Frame rates of up to 60fps for capturing fast action video and slow motion playback. Records audio in AAC and WAV formats, up to 24-bit/96k. Up to four tracks of simultaneous audio recording. Two mic/line inputs with XLR/TRS combo connectors, each with selectable phantom power and -20dB pad.
+- 2 audio input and output channels
+- 8 channels of 16-bit analog input and output
+- 16 digital I/O
+- 2 on-board speaker amplifiers
 
 ## KIT INCLUDES:
-- Video Camera
-- Battery
-- Lens Cover
-- Lens Hood
-- Strap
-- Foam Windscreen
-- USB Cable
-- 32 GB SD card
-- User manual - also available on line - see below
+- Beaglebone Wireless
+- Two audio cables
+- Bela Cape
+- SD card
 
 ## Drivers / Manuals
 
 [Manual]
-(https://zoomcorp.com/media/documents/E_Q8.pdf)
+(https://learn.bela.io/get-started-guide/)
 
 ### Capacity and Restrictions
 
 *
--Maximum loan time 5 days
--Total stock: 2
--AAU805415, AAU805482*
+-Maximum loan time 30 days
+-Total stock: 10
+-AAUnumbers*
