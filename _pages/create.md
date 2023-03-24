@@ -3,8 +3,6 @@ layout: category
 title: Create
 author_profile: true
 tags: video-cameras zoom-recorders
-sidebar:
-  nav: "foo"
 ---
 # My create pages
 
