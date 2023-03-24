@@ -29,8 +29,8 @@ fyi:
       url: about/
       children:
         - title: "Terms of Service"
-          url: _pages/tos
+          url: _pages/create
         - title: "Opening Hours"
-          url: _pages/hours
+          url: _pages/ld
         - title: "User Guide"
-          url: _pages/guide
+          url: _pages/smile
