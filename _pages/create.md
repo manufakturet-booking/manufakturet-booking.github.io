@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: category
 title: Create
 author_profile: true
 tags: video-cameras zoom-recorders
