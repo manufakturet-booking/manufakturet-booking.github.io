@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+sidebar: "fyi"
 ---
 # My about pages
 
