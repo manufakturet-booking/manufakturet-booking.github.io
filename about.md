@@ -19,3 +19,7 @@ _This text is in about.md in the root folder_
 -- a breadcrumb
 -- be searchable
 -- have links to about page and the main categories
+
+### custom nav
+** This is a sample custom nav, which is intended to be in the sidebar **
+{% include nav_list nav="foo" %}
