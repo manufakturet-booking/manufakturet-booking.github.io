@@ -30,3 +30,14 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+fyi:
+    - title: "About"
+      url: about/
+      children:
+        - title: "Terms of Service"
+          url: _pages/tos
+        - title: "Opening Hours"
+          url: _pages/hours
+        - title: "User Guide"
+          url: _pages/guide
