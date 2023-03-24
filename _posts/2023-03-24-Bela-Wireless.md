@@ -1,0 +1,32 @@
+---
+categories: create
+tags: video-cameras zoom-recorder
+---
+![Zoom Q8](../../assets/images/equip/zoomq8.png)
+
+
+
+160° wide-angle lens with selectable viewing angles (F2.0/16.6mm). stereo X/Y microphone. Support for five HD video modes, up to 2304 x 1296 pixels (3M HD), as well as two WVGA modes. Frame rates of up to 60fps for capturing fast action video and slow motion playback. Records audio in AAC and WAV formats, up to 24-bit/96k. Up to four tracks of simultaneous audio recording. Two mic/line inputs with XLR/TRS combo connectors, each with selectable phantom power and -20dB pad.
+
+## KIT INCLUDES:
+- Video Camera
+- Battery
+- Lens Cover
+- Lens Hood
+- Strap
+- Foam Windscreen
+- USB Cable
+- 32 GB SD card
+- User manual - also available on line - see below
+
+## Drivers / Manuals
+
+[Manual]
+(https://zoomcorp.com/media/documents/E_Q8.pdf)
+
+### Capacity and Restrictions
+
+*
+-Maximum loan time 5 days
+-Total stock: 2
+-AAU805415, AAU805482*
