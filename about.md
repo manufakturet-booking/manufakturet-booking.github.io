@@ -9,7 +9,7 @@ A test about page.
 
 _This text is in about.md in the root folder_
 
-!It uses the default layout!
+!It uses the home layout!
 
 *** This is possibly the same as index, or an expanded form of index ***
 
