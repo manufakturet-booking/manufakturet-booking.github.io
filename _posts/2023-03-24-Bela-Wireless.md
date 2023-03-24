@@ -19,8 +19,7 @@ The original Bela board has everything you need to start creating beautifully in
 
 ## Drivers / Manuals
 
-[Manual]
-(https://learn.bela.io/get-started-guide/)
+[Manual](https://learn.bela.io/get-started-guide/)
 
 ### Capacity and Restrictions
 
