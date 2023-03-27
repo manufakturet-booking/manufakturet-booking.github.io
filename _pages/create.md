@@ -4,7 +4,7 @@ title: Create
 author_profile: true
 #tags: video-cameras zoom-recorders
 sidebar:
-  nav: "fyi"
+  nav: "main"
 ---
 # My create pages
 stuff
