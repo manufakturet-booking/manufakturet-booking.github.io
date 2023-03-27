@@ -3,6 +3,10 @@ layout: category
 title: Create
 author_profile: true
 tags: video-cameras zoom-recorders
+
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 ---
 # My create pages
 
