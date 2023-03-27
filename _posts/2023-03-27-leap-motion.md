@@ -1,6 +1,6 @@
 ---
 categories: smile
-tags: game controller
+tags: game-controller
 sidebar:
   nav: "smile"
 ---
