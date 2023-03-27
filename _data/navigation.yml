@@ -23,9 +23,3 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-
-fyi:
-    - title: "About"
-      url: about/
-      - title: "Lighting Design"
-        url: _pages/ld/
