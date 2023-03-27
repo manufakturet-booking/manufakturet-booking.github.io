@@ -4,8 +4,8 @@ title: Create
 author_profile: true
 tags: video-cameras zoom-recorders
 
-toc: true
----
+sidebar:
+  nav: "fyi"
 # My create pages
 stuff
 
