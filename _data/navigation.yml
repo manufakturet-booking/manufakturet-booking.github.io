@@ -16,29 +16,8 @@ main:
   - title: "Test Create Category"
     url: categories/#create
 # _data/navigation.yml
-foo:
-  - title: "Create"
-    url: /parent-1-page-url/
-    children:
+create:
       - title: "Video Cameras"
         url: /Video-cameras-increate/
       - title: "Zoom Recorders"
         url: /zoom-recorders-in-create/
-
-  - title: "Create"
-    url: /parent-2-page-url/
-    children:
-      - title: "Child Link 1"
-        url: /child-1-page-url/
-      - title: "Child Link 2"
-        url: /child-2-page-url/
-      - title: "Child Link 3"
-        url: /child-3-page-url/
-#  - title: "About"
-#     url: about-md/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
