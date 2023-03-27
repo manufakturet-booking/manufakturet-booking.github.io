@@ -17,15 +17,15 @@ main:
     url: categories/#create
 # _data/navigation.yml
 foo:
-  - title: "Parent Link 1"
+  - title: "Create"
     url: /parent-1-page-url/
     children:
-      - title: "Child Link 1"
-        url: /child-1-page-url/
-      - title: "Child Link 2"
-        url: /child-2-page-url/
+      - title: "Video Cameras"
+        url: /Video-cameras-increate/
+      - title: "Zoom Recorders"
+        url: /zoom-recorders-in-create/
 
-  - title: "Parent Link 2"
+  - title: "Create"
     url: /parent-2-page-url/
     children:
       - title: "Child Link 1"
