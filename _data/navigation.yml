@@ -15,6 +15,11 @@ main:
     url: https://www.manufakturet.create.aau.dk/
   - title: "Test Create Category"
     url: categories/#create
+fyi:
+  - title: "About"
+      url: about/
+      - title: "Lighting Design"
+        url: _pages/ld/
 #  - title: "About"
 #     url: about-md/
   # - title: "Sample Posts"
