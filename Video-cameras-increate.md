@@ -1,6 +1,6 @@
 ---
 title: "Video Cameras"
-layout: tag
+layout: tags
 author_profile: true
 sidebar:
   nav: "create"
