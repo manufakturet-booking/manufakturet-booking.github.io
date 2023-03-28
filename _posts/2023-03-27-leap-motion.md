@@ -1,8 +1,6 @@
 ---
 categories: smile
 tags: game-controller
-sidebar:
-  nav: "smile"
 ---
 ![Leap Motion Controller](../../assets/images/equip/leap.jpg)
 
