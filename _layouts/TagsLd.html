@@ -3,7 +3,7 @@ layout: archive
 ---
 
 {{ content }}
-{% for category in site.ld %}
+{% for tag in site.ld %}
 {% assign tags_max = 0 %}
 {% for tag in site.tags %}
   {% if tag[1].size > tags_max %}
