@@ -107,7 +107,7 @@ analytics:
 author:
   name             : "CREATE"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "This sidebar should be visible on all pages showing a collapsible menu"
+  bio              : "This sidebar should be visible on all pages showing location and contact info"
   location         : "AAU CPH"
   email            :
   links:
