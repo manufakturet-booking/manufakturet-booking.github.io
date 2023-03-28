@@ -1,7 +1,7 @@
 ---
 layout: Category
 title: Lighting Design
-taxonomy: ld
+categories: ld
 ---
 
 ## THIS EQUIPMENT IS ONLY FOR STUDENTS OF LIGHTING DESIGN
