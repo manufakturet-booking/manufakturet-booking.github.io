@@ -2,8 +2,6 @@
 layout: category
 title: Create
 author_profile: true
-categorie: create
-#tags: video-cameras zoom-recorders
 sidebar:
   nav: "create"
 ---
