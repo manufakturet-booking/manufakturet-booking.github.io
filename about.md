@@ -4,4 +4,8 @@ title: About
 author_profile: true
 sidebar: "fyi"
 ---
-tag
+# How to borrow equipment
+
+# Terms of Use
+
+# Opening Hours
