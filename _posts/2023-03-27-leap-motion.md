@@ -17,6 +17,6 @@ The Leap Motion Controller is an optical hand tracking module that captures the 
 
 ### Capacity and Restrictions
 
--Maximum loan time 5 days
--Total stock: 2
--AAU805415, AAU805482*
+- Maximum loan time 5 days
+- Total stock: 2
+- AAU805415, AAU805482*
