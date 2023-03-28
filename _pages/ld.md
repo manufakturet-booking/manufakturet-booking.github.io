@@ -1,5 +1,5 @@
 ---
-layout: TagsLd
+layout: categories
 title: Lighting Design
 
 ---
