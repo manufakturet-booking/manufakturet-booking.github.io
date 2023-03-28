@@ -3,7 +3,7 @@ layout: archive
 ---
 
 {{ content }}
-
+{% for post in site.categories.create %}
 {% assign tags_max = 0 %}
 {% for tag in site.tags %}
   {% if tag[1].size > tags_max %}
@@ -40,4 +40,5 @@ layout: archive
       </section>
     {% endif %}
   {% endfor %}
+{% endfor %}
 {% endfor %}
