@@ -1,6 +1,9 @@
 ---
-layout: categories
+layout: Category
 title: Lighting Design
+permalink: /categories/ld/
+taxonomy: ld
+---
 
 ---
 
