@@ -1,6 +1,7 @@
 ---
-layout: tags
+layout: TagsLd
 title: Lighting Design
+
 ---
 ## THIS EQUIPMENT IS ONLY FOR STUDENTS OF LIGHTING DESIGN
 
