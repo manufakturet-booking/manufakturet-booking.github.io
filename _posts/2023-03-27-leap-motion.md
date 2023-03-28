@@ -4,7 +4,7 @@ tags: game-controller
 sidebar:
   nav: "smile"
 ---
-![Leap Motion Controller](../../assets/images/equip/leap)
+![Leap Motion Controller](../../assets/images/equip/leap.jpg)
 
 The Leap Motion Controller is an optical hand tracking module that captures the movements of your hands with unparalleled accuracy. From XR to touchless kiosks, the Leap Motion Controller makes interaction with digital content natural and effortless.
 
