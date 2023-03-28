@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Samsung Media Inovation label
+title: Samsung Media Inovation lab
 subtitle: SMILE
 taxonomy: smile
 author_profile: true
