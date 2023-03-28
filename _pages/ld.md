@@ -2,6 +2,7 @@
 layout: category
 title: Lighting Design
 taxonomy: ld
+author_profile: true
 ---
 
 ## THIS EQUIPMENT IS ONLY FOR STUDENTS OF LIGHTING DESIGN
