@@ -23,7 +23,6 @@ The original Bela board has everything you need to start creating beautifully in
 
 ### Capacity and Restrictions
 
-*
--Maximum loan time 30 days
--Total stock: 10
--AAUnumbers*
+- Maximum loan time 30 days
+- Total stock: 10
+- AAUnumbers
