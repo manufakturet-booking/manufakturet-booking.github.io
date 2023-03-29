@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: tagsCreate
 title: Create
 taxonomy: create
 author_profile: true
