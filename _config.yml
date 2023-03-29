@@ -293,5 +293,5 @@ defaults:
       share: false #true
       related: true
 # Collections
- collections:
-   - create
+# collections:
+#   - create
