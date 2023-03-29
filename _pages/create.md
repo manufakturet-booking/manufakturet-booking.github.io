@@ -1,5 +1,5 @@
 ---
-layout: tagsCreate
+layout: test
 title: Create
 taxonomy: create
 author_profile: true
