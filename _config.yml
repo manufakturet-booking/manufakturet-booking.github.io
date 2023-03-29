@@ -292,6 +292,3 @@ defaults:
       comments: # true
       share: false #true
       related: true
-
- collections:
-   create:
