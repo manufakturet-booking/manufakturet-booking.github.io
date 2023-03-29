@@ -2,7 +2,7 @@
 categories: ld
 tags: dmx-controller dmx light-control
 ---
-![DDC-12 LCD DMX Controller](../../assets/images/equip/ld/1.png)
+![DDC-12 LCD DMX Controller](../../assets/images/equip/ld/1.webp)
 
 12 Channel DMX Controller
 
@@ -16,7 +16,6 @@ tags: dmx-controller dmx light-control
 [Manual](https://images.static-thomann.de/pics/atg/atgdata/document/manual/c_258125_v3_r1_en_online.pdf)
 
 ### Capacity and Restrictions
-
 
 - Maximum loan time 5 days
 - Total stock: 7
