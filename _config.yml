@@ -61,7 +61,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : true # true, false (default)
 search                   : true # true, false (default)
-search_full_content      : false # true, false (default)
+search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 lunr:
   search_within_pages    : true # true, false (default)
@@ -287,7 +287,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: false
       comments: # true
       share: false #true
