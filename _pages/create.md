@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: posts
 title: Create
 taxonomy: create
 author_profile: true
