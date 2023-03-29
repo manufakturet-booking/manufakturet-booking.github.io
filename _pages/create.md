@@ -1,5 +1,5 @@
 ---
-layout: test
+layout: category
 title: Create
 taxonomy: create
 author_profile: true
