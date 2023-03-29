@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: archive
 title: Lighting Design
 taxonomy: ld
 author_profile: true
