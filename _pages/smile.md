@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: categories
 title: Samsung Media Inovation lab
 subtitle: SMILE
 taxonomy: smile
