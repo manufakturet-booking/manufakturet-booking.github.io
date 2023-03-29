@@ -17,6 +17,7 @@ tags: dmx-controller dmx light-control
 
 ### Capacity and Restrictions
 
+
 - Maximum loan time 5 days
 - Total stock: 7
 - AAU - CPH0640
