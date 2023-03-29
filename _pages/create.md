@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: archive-taxonomy
 title: Create
 taxonomy: create
 author_profile: true
