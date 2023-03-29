@@ -1,5 +1,5 @@
 ---
-layout: test #category
+layout: category
 title: Lighting Design
 taxonomy: ld
 author_profile: true
