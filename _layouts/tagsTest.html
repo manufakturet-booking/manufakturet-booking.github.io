@@ -36,7 +36,7 @@ layout: archive
           requires category conditional statement
           {% for post in tag.last %}
               {% include archive-single.html type=entries_layout %}
-                    {% if post.category == ld %}
+                    {% if post.last.category == ld %}
                     conditional text
                     {% endif %}
           {% endfor %}
