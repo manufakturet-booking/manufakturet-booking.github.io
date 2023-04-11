@@ -4,12 +4,7 @@ layout: archive
 // Built on tags.html
 {{ content }}
 
-{% assign visible = false %}
-{% for post in site.posts %}
-   {% if post.category == 'ld' %}
-      {% assign visible = true %}
-   {% endif %}
-{% endfor %}
+
 
 
 {% assign tags_max = 0 %}
@@ -40,23 +35,13 @@ layout: archive
       <section id="{{ tag[0] | slugify | downcase }}" class="taxonomy__section">
         <h2 class="archive__subtitle"> {{ tag[0] }}</h2>
         <div class="entries-{{ entries_layout }}">
-{% if visible %}
+{% for post in tag.last %}
+{% include archive-single.html type=entries_layout %}
+{% if post.category == 'ld' %}
           <h5 style="color:red">immediately after entries layout div</h5>
           requires category conditional statement
 {% endif %}
-
-
-
-
-          {% for post in tag.last %}
-
-          {% if post.category == 'ld' %}
-          conditional text
-          {% endif %}
-
-              {% include archive-single.html type=entries_layout %}
-
-          {% endfor %}
+{% endfor %}
         </div>
         <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
       </section>
