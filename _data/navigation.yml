@@ -14,7 +14,8 @@ main:
   - title: "Manufakturet"
     url: https://www.manufakturet.create.aau.dk/
   - title: "Test Create Category"
-    url: pages/testPage/                  #create
+    url: pages/testPage/
+      #create
 # _data/navigation.yml
 create:
       - title: "Video Cameras"
