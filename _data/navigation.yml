@@ -6,7 +6,7 @@ main:
     url: about/
     description: "Terms of Service, Opening Hours and User Guide"
   - title: "Equipment Listing"
-    url: _pages/equipmentlisting/
+    url: _pages/equipmentListing/
   - title: "Manufakturet"
     url: https://www.manufakturet.create.aau.dk/
   - title: "Test Create Category"
