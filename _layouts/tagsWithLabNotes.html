@@ -1,12 +1,7 @@
 ---
 layout: archive
 ---
-// Built on tags.html
 {{ content }}
-
-
-
-
 {% assign tags_max = 0 %}
 {% for tag in site.tags %}
   {% if tag[1].size > tags_max %}
@@ -43,7 +38,7 @@ layout: archive
               {% endif %}
               {% if post.category == 'smile' %}
               <h5 style="color:red">Smile</h5>
-              Conditional Statement for Samsung Media Innovation Lab
+              smile-text
           {% endif %}
 
 {% include archive-single.html type=entries_layout %}
