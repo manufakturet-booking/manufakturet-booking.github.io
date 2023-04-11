@@ -34,9 +34,13 @@ layout: archive
         <div class="entries-{{ entries_layout }}">
           <h5 style="color:red">immediately after entries layout div</h5>
           requires category conditional statement
-          {% if post.category == ld %}
+
+
+          {% if post.category == 'ld' %}
           conditional text
           {% endif %}
+
+
           {% for post in tag.last %}
               {% include archive-single.html type=entries_layout %}
 
