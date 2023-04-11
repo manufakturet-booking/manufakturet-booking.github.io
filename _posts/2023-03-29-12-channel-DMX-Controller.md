@@ -1,5 +1,5 @@
 ---
-categories: ld
+category: ld
 tags: dmx-controller dmx light-control
 ---
 ![DDC-12 LCD DMX Controller](../../assets/images/equip/ld/1.webp)
