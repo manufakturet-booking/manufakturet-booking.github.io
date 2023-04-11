@@ -4,7 +4,7 @@ author_profile: true
 ---
 {% assign visible = false %}
 {% for post in site.posts %}
-   {% if post.category == 'ld' %}
+   {% if post.category == 'ld2' %}
       {% assign visible = true %}
    {% endif %}
 {% endfor %}
