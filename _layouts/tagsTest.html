@@ -30,13 +30,13 @@ layout: archive
   {% for tag in site.tags %}
     {% if tag[1].size == i %}
       <section id="{{ tag[0] | slugify | downcase }}" class="taxonomy__section">
-        <h2 class="archive__subtitle"> this is archive subtitle {{ tag[0] }}</h2>
+        <h2 class="archive__subtitle"> {{ tag[0] }}</h2>
         <div class="entries-{{ entries_layout }}">
-          <h5>immediately after entries layout div</h5>
+          <h5 style="color:red">immediately after entries layout div</h5>
+          requires category conditional statement
           {% for post in tag.last %}
-          Within post in tag.last loop
-            {% include archive-single.html type=entries_layout %}
-            Within post in tag.last loop - after archive-single.html
+              {% include archive-single.html type=entries_layout %}
+
           {% endfor %}
         </div>
         <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
