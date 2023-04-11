@@ -36,11 +36,19 @@ layout: archive
         <h2 class="archive__subtitle"> {{ tag[0] }}</h2>
         <div class="entries-{{ entries_layout }}">
 {% for post in tag.last %}
-{% include archive-single.html type=entries_layout %}
+
 {% if post.category == 'ld' %}
-          <h5 style="color:red">immediately after entries layout div</h5>
-          requires category conditional statement
+<h5 style="color:red">Lighting Design</h5>
+Conditional Statement for Lighing Design
+          {% else if post.category == 'smile'%}
+          <h5 style="color:red">Smile</h5>
+          Conditional Statement for Samsung Media Innovation Lab
 {% endif %}
+
+{% include archive-single.html type=entries_layout %}
+
+
+
 {% endfor %}
         </div>
         <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
