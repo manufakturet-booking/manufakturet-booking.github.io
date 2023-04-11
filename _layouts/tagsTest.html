@@ -34,11 +34,12 @@ layout: archive
         <div class="entries-{{ entries_layout }}">
           <h5 style="color:red">immediately after entries layout div</h5>
           requires category conditional statement
+          {% if post.category == ld %}
+          conditional text
+          {% endif %}
           {% for post in tag.last %}
               {% include archive-single.html type=entries_layout %}
-                    {% if post.last.category == ld %}
-                    conditional text
-                    {% endif %}
+
           {% endfor %}
         </div>
         <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
