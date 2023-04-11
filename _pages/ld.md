@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: tags
 title: Lighting Design
 # taxonomy: ld
 # author_profile: true
