@@ -1,7 +1,6 @@
 ---
-layout: tagsTest
+layout: tagsWithLabNotes
 title: Lighting Design
-# taxonomy: ld
 author_profile: true
 ---
 
