@@ -33,7 +33,7 @@ layout: archive
         <h2 class="archive__subtitle"> {{ tag[0] }}</h2>
         <div class="entries-{{ entries_layout }}">
           {% for post in tag.last %}   <h5 style="color:red">immediately after entries layout div</h5>
-            requires category conditional statement {$ endif}
+            requires category conditional statement {$ endif %}
           {% if post.category == ld}
               {% include archive-single.html type=entries_layout %}
 
