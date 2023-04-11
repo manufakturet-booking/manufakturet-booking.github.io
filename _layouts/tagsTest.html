@@ -36,7 +36,9 @@ layout: archive
           requires category conditional statement
           {% for post in tag.last %}
               {% include archive-single.html type=entries_layout %}
-
+                    {% if post.category == ld %}
+                    conditional text
+                    {% endif %}
           {% endfor %}
         </div>
         <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
