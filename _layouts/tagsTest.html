@@ -40,7 +40,8 @@ layout: archive
           {% if post.category == 'ld' %}
             <h5 style="color:red">Lighting Design</h5>
               Conditional Statement for Lighing Design
-              {% else if post.category == 'smile' %}
+              {% endif %}
+              {% if post.category == 'smile' %}
               <h5 style="color:red">Smile</h5>
               Conditional Statement for Samsung Media Innovation Lab
           {% endif %}
