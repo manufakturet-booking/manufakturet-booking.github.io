@@ -1,15 +1,8 @@
 ---
 layout: archive
 ---
-
+// Built on tags.html
 {{ content }}
-
-
-{% for post in site.posts %}
-   {% if post.category == 'ld' %}
-
-
-
 
 
 {% assign tags_max = 0 %}
@@ -62,7 +55,4 @@ layout: archive
       </section>
     {% endif %}
   {% endfor %}
-{% endfor %}
-
-{% endif %}
 {% endfor %}
