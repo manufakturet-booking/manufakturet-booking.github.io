@@ -1,5 +1,5 @@
 ---
-layout: tags
+layout: tagsTest
 title: Lighting Design
 # taxonomy: ld
 # author_profile: true
