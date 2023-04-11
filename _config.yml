@@ -292,6 +292,3 @@ defaults:
       comments: # true
       share: false #true
       related: true
-
-# Lab specifics
- smile-text: "BEFORE BORROWING SAMSUNG ITEMS FROM THE SMILE LAB, YOU MUST FIRST FILL OUT <a href ="http://tinyurl.com/SamsungBooking", target= "blank">THIS FORM</href> ... and the loan has to be approved by <a href ="mailto:hsf@create.aau.dk?subject=Loan from Booking System"> Henrik Schønau Fog</href>"

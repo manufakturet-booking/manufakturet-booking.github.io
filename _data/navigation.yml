@@ -5,20 +5,9 @@ main:
   - title: "About"
     url: about/
     description: "Terms of Service, Opening Hours and User Guide"
-  - title: "All of Create"
-    url: _pages/create/
-  - title: "Lighting Design"
-    url: _pages/ld/
-  - title: "SMILE"
-    url: _pages/smile/
+  - title: "Equipment Listing"
+    url: _pages/equipmentlisting/
   - title: "Manufakturet"
     url: https://www.manufakturet.create.aau.dk/
   - title: "Test Create Category"
     url: _pages/testPage/
-      #create
-# _data/navigation.yml
-create:
-      - title: "Video Cameras"
-        url: /Video-cameras-increate/
-      - title: "Zoom Recorders"
-        url: /zoom-recorders-in-create/
