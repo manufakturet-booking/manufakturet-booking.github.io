@@ -4,6 +4,13 @@ layout: archive
 // Built on tags.html
 {{ content }}
 
+{% assign visible = false %}
+{% for post in site.posts %}
+   {% if post.category == 'ld' %}
+      {% assign visible = true %}
+   {% endif %}
+{% endfor %}
+
 
 {% assign tags_max = 0 %}
 {% for tag in site.tags %}
@@ -33,10 +40,10 @@ layout: archive
       <section id="{{ tag[0] | slugify | downcase }}" class="taxonomy__section">
         <h2 class="archive__subtitle"> {{ tag[0] }}</h2>
         <div class="entries-{{ entries_layout }}">
-
+{% if visible %}
           <h5 style="color:red">immediately after entries layout div</h5>
           requires category conditional statement
-
+{$ endif $}
 
 
 
