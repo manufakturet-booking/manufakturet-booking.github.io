@@ -1,5 +1,5 @@
 ---
-category: smile
+category: ld
 tags: game-controller
 ---
 ![Leap Motion Controller](../../assets/images/equip/leap.jpg)
