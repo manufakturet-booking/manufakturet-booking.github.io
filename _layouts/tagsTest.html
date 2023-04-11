@@ -32,13 +32,10 @@ layout: archive
       <section id="{{ tag[0] | slugify | downcase }}" class="taxonomy__section">
         <h2 class="archive__subtitle"> {{ tag[0] }}</h2>
         <div class="entries-{{ entries_layout }}">
-          {% for post in tag.last %}
-          {% if post.category == ld}
           <h5 style="color:red">immediately after entries layout div</h5>
-            requires category conditional statement
-            {$ endif %}
+          requires category conditional statement
+          {% for post in tag.last %}
               {% include archive-single.html type=entries_layout %}
-
 
           {% endfor %}
         </div>
