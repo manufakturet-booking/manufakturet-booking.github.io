@@ -1,5 +1,5 @@
 ---
-categories: create
+category: create
 tags: development-boards bela beaglebone
 ---
 ![Zoom Q8](../../assets/images/equip/bela.png)
