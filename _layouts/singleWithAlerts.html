@@ -39,7 +39,7 @@ layout: default
       <section class="page__content e-content" itemprop="text">
 
 
-  <p>There are {{ page.quantity }} in circulation</p>
+  <p {% if page.quantity == 0 %} class="empty" {% endif %}>There are {{ page.quantity }} in circulation</p>
 
               {% if page.category == 'ld' %}
               <div class="postAlert">
