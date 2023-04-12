@@ -31,18 +31,18 @@ layout: archive
         <h2 class="archive__subtitle"> {{ tag[0] }}</h2>
         <div class="entries-{{ entries_layout }}">
 {% for post in tag.last %}
-
+    <div class="alert">
           {% if post.category == 'ld' %}
             <h5 style="color:red">Lighting Design</h5>
               Conditional Statement for Lighing Design
               {% endif %}
               {% if post.category == 'smile' %}
-              <div class="alert">
+
               <h5 style="color:red">Samsung Media Innovation Lab Only</h5>
               <p>BEFORE BORROWING SAMSUNG ITEMS FROM THE SMILE LAB, YOU MUST FIRST FILL OUT <a href="http://tinyurl.com/SamsungBooking" target = blank> THIS FORM </a>
-              ... and the loan has to be approved by <a href = "mailto:hsf@create.aau.dk?subject=Loan from Booking Office">Henrik Schønau Fog</a></p></div>
+              ... and the loan has to be approved by <a href = "mailto:hsf@create.aau.dk?subject=Loan from Booking Office">Henrik Schønau Fog</a></p>
           {% endif %}
-
+</div>
 {% include archive-single.html type=entries_layout %}
 
 {% endfor %}
