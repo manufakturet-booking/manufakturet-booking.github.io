@@ -8,6 +8,13 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-div.alert {
-  font-size: 0.6em;
+div.alert h5{
+  font-size: 0.5em;
+  font-weight: 800;
+  color: red;
+  }
+  div.alert p{
+    font-size: 0.4em;
+    font-weight: 300;
+    font-style: italic;
 }
