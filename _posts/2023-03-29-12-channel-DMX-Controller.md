@@ -2,6 +2,7 @@
 category: ld
 tags: dmx-controller dmx light-control
 quantity: 7
+maxLoan: 7 days
 ---
 ![DDC-12 LCD DMX Controller](../../assets/images/equip/ld/1.webp)
 

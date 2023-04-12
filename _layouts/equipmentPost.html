@@ -41,6 +41,11 @@ layout: default
 {% if page.quantity %}
   <p {% if page.quantity == 0 %} class="empty" {% endif %}>There are {{ page.quantity }} in circulation</p>
 {% endif %}
+{% if page.maxLoan %}
+  <p>Maximum loan duration: {{ page.maxLoan }}.</p>
+{% endif %}
+
+
               {% if page.category == 'ld' %}
               <div class="postAlert">
                 <span>Lighting Design Only</span>
