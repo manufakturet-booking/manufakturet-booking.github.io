@@ -19,7 +19,10 @@ div.alert h5{
     font-style: italic;
 }
 
-div.postAlert{border-style: double;border-radius: 5px;}
+div.postAlert{
+  border-style: double;
+  border-radius: 5px;
+  padding: 3px;}
 div.postAlert h5{
   font-size: 0.7em;
   font-weight: 800;
