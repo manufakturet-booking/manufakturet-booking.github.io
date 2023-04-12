@@ -37,7 +37,24 @@ layout: default
       {% endunless %}
 
       <section class="page__content e-content" itemprop="text">
-        CONTENT
+
+
+        
+        <div class="alert">
+              {% if post.category == 'ld' %}
+                <h5>Lighting Design Only</h5>
+                  <p>If you are not a Lighting Design Student and wish to use any of this equipment you should contact <a href="mailto:art@create.aau.dk?subject=Loan of Lighting Design Equipment">Arthur van der Zaag</a></p>
+                  {% endif %}
+                  {% if post.category == 'smile' %}
+
+                  <h5>Samsung Media Innovation Lab Only</h5>
+                  <p>BEFORE BORROWING SAMSUNG ITEMS FROM THE SMILE LAB, YOU MUST FIRST FILL OUT <a href="http://tinyurl.com/SamsungBooking" target = blank> THIS FORM </a>
+                  ... and the loan has to be approved by <a href = "mailto:hsf@create.aau.dk?subject=Loan from Booking Office">Henrik Schønau Fog</a></p>
+              {% endif %}
+        </div>
+
+
+
         {% if page.toc %}
           <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
             <nav class="toc">
