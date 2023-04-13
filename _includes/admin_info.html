@@ -3,9 +3,13 @@
 {% assign aaunumbers_sorted = page.aaunumbers | sort_natural %}
 
 
-  <span itemprop="keywords">
+<ul>
   {% for aaunumbers_word in aaunumbers_sorted %}
-  {{ aaunumbers_word }}{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
+  <li>
+  {{ aaunumbers_word }}</li>{% unless forloop.last %}{% endunless %}
   {% endfor %}
-  </span>
+</ul>
+
+
+
 {% endif %}
