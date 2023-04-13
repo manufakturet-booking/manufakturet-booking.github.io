@@ -1,11 +1,11 @@
 {% if  page.aaunumbers %}
-{% assign aaunumbers_list = page.aaunumbers %}
+{% assign aauIds = aaunumbers | split: ',' %}
 
 
 <ul>
-  {% for aaunumbers in page.aaunumbers %}
+  {% for aauIds in page.aaunumbers %}
   before
-  {{ aaunumbers }}after{% unless forloop.last %}{% endunless %}
+  {{ aauIds }}after{% unless forloop.last %}{% endunless %}
   {% endfor %}
 </ul>
 
