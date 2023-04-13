@@ -10,8 +10,12 @@
 
 {% assign fruits = \["orange", "apple", "peach"] %}
 {% assign fruits = "orange,apple,peach" | split: ',' %}
-{% for fruit in fruits %}
-  {{ fruit }}
-{% endfor %}
+<ul>
+  {% for fruit in fruits %}
+  <li>{{ fruit }}</li>
+
+  {% endfor %}
+</ul>
+
 
 {% endif %}
