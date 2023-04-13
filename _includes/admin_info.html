@@ -1,10 +1,9 @@
 {% if  page.aaunumbers %}
-  <p>admin info goes here</p>
-{% assign aaunumbers_sorted = page.aaunumbers | sort_natural %}
+{% assign aaunumbers_list = page.aaunumbers %}
 
 
 <ul>
-  {% for aaunumbers_word in aaunumbers_sorted %}
+  {% for aaunumbers_word in aaunumbers_list %}
   before
   {{ aaunumbers_word }}after{% unless forloop.last %}{% endunless %}
   {% endfor %}
