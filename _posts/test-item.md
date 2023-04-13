@@ -3,18 +3,27 @@ category: test # ld = lighting Design, smile = Samsung lab, create = everything 
 tags: testtag1 testtag2 # add tags here, space delimited, as many as you want
 quantity: 7 # How many are in circulation? (in the booking office + known to be lent out)
 maxLoan: 7 days #
-title: test item # This should be concise, clear, unique and informative, further information can be listed below
 ids: AAU-CPH0640 AAU-CPH0642 AAU-CPH0641 AAU-CPH0639 AAU-CPH0638 AAU-CPH0643
 ---
 ![DDC-12 LCD DMX Controller](../../assets/images/equip/ld/1.webp)
+// The First line should be a link to an image, jpg, png webbp all work, I have not tested others.
+// The format should be ![Alternate image text](../../assets/images/equip/category/filename)
+// We will have to upload the images to the relevant folders
 
+//Under the image comes the text, first comes the description
+// The description can be simple, and short, but it must assume that the reader knows little about the equipment or the fields of study related to it. This text is important because it not only describes the item to the reader, but is included in the search engine servicing the site.
 12 Channel DMX Controller
+
+// There will also be a list of contents, formatted as below
 
 ## KIT INCLUDES:
 - DMX Controller
 - Manual
 - Power Supply
 
+// Finally there will be links to any relevant files - manuals, drivers, even research that has used the equipment
 ## Drivers / Manuals
 
 [Manual](https://images.static-thomann.de/pics/atg/atgdata/document/manual/c_258125_v3_r1_en_online.pdf)
+
+// Finally, and most important: The md file name should be concise, clear, unique and informative. This name is used as the title of the equipment listed in the catalog. Name it so anyone will know what it is, not just the person who is borrowing it for the third time.
