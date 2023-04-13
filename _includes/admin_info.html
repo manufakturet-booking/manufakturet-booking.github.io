@@ -1,6 +1,6 @@
 {% if  page.aaunumbers %}
 
-{% assign numbers = \[aaunumbers] %}
+{% assign numbers = \[page.aaunumbers] %}
 {% assign nums = aaunumbers | split: ',' %}
 <ul>
   {% for num in nums %}
