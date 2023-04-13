@@ -5,8 +5,8 @@
 
 <ul>
   {% for aaunumbers_word in aaunumbers_sorted %}
-  <li>
-  {{ aaunumbers_word }}</li>{% unless forloop.last %}{% endunless %}
+  before
+  {{ aaunumbers_word }}after{% unless forloop.last %}{% endunless %}
   {% endfor %}
 </ul>
 
