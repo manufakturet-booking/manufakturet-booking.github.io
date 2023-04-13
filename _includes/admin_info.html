@@ -2,13 +2,16 @@
 {% assign aauIds = aaunumbers | split: ',' %}
 
 
-<ul>
+
   {% for aauIds in page.aaunumbers %}
   before
   {{ aauIds }}after{% unless forloop.last %}{% endunless %}
   {% endfor %}
-</ul>
 
-
+{% assign fruits = \["orange", "apple", "peach"] %}
+{% assign fruits = "orange,apple,peach" | split: ',' %}
+{% for fruit in fruits %}
+  {{ fruit }}
+{% endfor %}
 
 {% endif %}
