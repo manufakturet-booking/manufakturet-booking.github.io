@@ -1,12 +1,14 @@
 {% if  page.aaunumbers %}
-{% assign aauIds = aaunumbers | split: ',' %}
 
+{% assign numbers = \[aaunumbers] %}
+{% assign nums = aaunumbers | split: ',' %}
+<ul>
+  {% for num in nums %}
+  <li>{{ num }}</li>
 
-
-  {% for aauIds in page.aaunumbers %}
-  before
-  {{ aauIds }}after{% unless forloop.last %}{% endunless %}
   {% endfor %}
+</ul>
+
 
 {% assign fruits = \["orange", "apple", "peach"] %}
 {% assign fruits = "orange,apple,peach" | split: ',' %}
