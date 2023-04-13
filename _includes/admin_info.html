@@ -1,7 +1,7 @@
 {% if  page.aaunumbers %}
 
 
-{% assign nums = page.aaunumbers | split: ',' %}
+{% assign nums = page.aaunumbers | split: ' ' %}
 <ul>
   {% for num in nums %}
   <li>{{ num }}</li>
@@ -10,14 +10,6 @@
 </ul>
 
 
-{% assign fruits = \["orange", "apple", "peach"] %}
-{% assign fruits = "orange,apple,peach" | split: ',' %}
-<ul>
-  {% for fruit in fruits %}
-  <li>{{ fruit }}</li>
-
-  {% endfor %}
-</ul>
 
 
 {% endif %}
