@@ -6,7 +6,7 @@
 <ul>
   {% for page.aaunumbers %}
   before
-  {{ aaunumbers }}after{% unless forloop.last %}{% endunless %}
+  {{ page.aaunumbers }}after{% unless forloop.last %}{% endunless %}
   {% endfor %}
 </ul>
 
