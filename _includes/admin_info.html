@@ -3,9 +3,9 @@
 
 
 <ul>
-  {% for aaunumbers_word in aaunumbers_list %}
+  {% for aaunumbers in page.aaunumbers %}
   before
-  {{ aaunumbers_word }}after{% unless forloop.last %}{% endunless %}
+  {{ aaunumbers }}after{% unless forloop.last %}{% endunless %}
   {% endfor %}
 </ul>
 
