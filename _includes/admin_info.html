@@ -4,7 +4,7 @@
 
 
   <span itemprop="keywords">
-  {% for aaunumbers_word in tags_sorted %}
+  {% for aaunumbers_word in aaunumbers_sorted %}
   {{ aaunumbers_word }}{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
   {% endfor %}
   </span>
