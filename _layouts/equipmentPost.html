@@ -41,11 +41,12 @@ layout: default
 {% if page.quantity %}
 {% include quantity.html %}
 {% endif %}
-
-
+{% include admin_info.html %}
 {% if page.maxLoan %}
   <p>Maximum loan duration: {{ page.maxLoan }}.</p>
 {% endif %}
+
+
               {% if page.category == 'ld' %}
               <div class="postAlert">
                 <span>Lighting Design Only</span>
@@ -62,7 +63,7 @@ layout: default
                     <br>
               {% endif %}
 
-{% include admin_info.html %}
+
 
 
         {% if page.toc %}
