@@ -39,6 +39,7 @@ layout: default
       <section class="page__content e-content" itemprop="text">
 
 {% if page.quantity %}
+
   <p {% if page.quantity == 0 %} class="empty" {% endif %}>
     There
     {% if page.quantity == 1 %}
@@ -48,6 +49,8 @@ layout: default
     {% endif %}
     {{ page.quantity }} in circulation</p>
 {% endif %}
+
+
 {% if page.maxLoan %}
   <p>Maximum loan duration: {{ page.maxLoan }}.</p>
 {% endif %}
