@@ -1,3 +1,4 @@
+{% if page.quantity %}
 <p {% if page.quantity == 0 %} class="empty" {% endif %}>
   There
   {% if page.quantity == 1 %}
@@ -6,3 +7,4 @@
   are
   {% endif %}
   {{ page.quantity }} in circulation</p>
+{% endif %}
