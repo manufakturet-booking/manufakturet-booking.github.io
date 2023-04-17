@@ -1,4 +1,5 @@
-
+{% if page.aaunumbers or page.quantity or page.maxLoan %}
+<div class = "adminsection"> {% endif %}
 {% include quantity.html %}
 {% if  page.aaunumbers %}
 {% assign nums = page.aaunumbers | split: ' ' %}
@@ -9,3 +10,5 @@
 {% if page.maxLoan %}
   <p>Maximum loan duration: {{ page.maxLoan }}.</p>
 {% endif %}
+{% if page.aaunumbers or page.quantity or page.maxLoan %}
+</div> {% endif %}
