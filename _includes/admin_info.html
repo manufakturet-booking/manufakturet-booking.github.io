@@ -4,3 +4,6 @@
 <span class="aaunumbers">{{ num }}</span>&nbsp
   {% endfor %}
 {% endif %}
+{% if page.maxLoan %}
+  <p>Maximum loan duration: {{ page.maxLoan }}.</p>
+{% endif %}
