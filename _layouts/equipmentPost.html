@@ -39,15 +39,7 @@ layout: default
       <section class="page__content e-content" itemprop="text">
 
 {% if page.quantity %}
-
-  <p {% if page.quantity == 0 %} class="empty" {% endif %}>
-    There
-    {% if page.quantity == 1 %}
-    is
-    {% else %}
-    are
-    {% endif %}
-    {{ page.quantity }} in circulation</p>
+{% include quantity.html %}
 {% endif %}
 
 
