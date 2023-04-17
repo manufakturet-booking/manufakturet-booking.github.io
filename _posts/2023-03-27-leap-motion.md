@@ -2,6 +2,7 @@
 category: smile
 tags: game-controller
 aaunumbers: AAU805415 AAU805482
+quantity: 1
 ---
 ![Leap Motion Controller](../../assets/images/equip/leap.jpg)
 
