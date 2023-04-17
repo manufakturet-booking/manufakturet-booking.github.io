@@ -1,15 +1,6 @@
 {% if  page.aaunumbers %}
-
-
 {% assign nums = page.aaunumbers | split: ' ' %}
-
   {% for num in nums %}
 <span class="aaunumbers">{{ num }}</span>&nbsp
-
   {% endfor %}
-
-
-
-
-
 {% endif %}
