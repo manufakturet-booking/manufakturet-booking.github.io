@@ -1,7 +1,7 @@
 {% assign author = page.author | default: page.authors[0] | default: site.author %}
 {% assign author = site.data.authors[author] | default: author %}
 
-Opening hours: {{ author.bs.hours }} <br>
+Opening hours: {{ bs.hours }} <br>
 
 Contact info:   {{author.email1}}
 
