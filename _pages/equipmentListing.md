@@ -1,5 +1,5 @@
 ---
 layout: tagsWithLabNotes
 title: Equipment Listing
-author_profile: true
+booking_sidebar: true
 ---
