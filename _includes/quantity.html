@@ -1,10 +1,10 @@
 {% if page.quantity %}
-<p {% if page.quantity == 0 %} class="empty" {% endif %}>
+<h5 {% if page.quantity == 0 %} class="empty" {% endif %}>
   There
   {% if page.quantity == 1 %}
   is
   {% else %}
   are
   {% endif %}
-  {{ page.quantity }} in circulation</p>
+  {{ page.quantity }} in circulation</h>
 {% endif %}
