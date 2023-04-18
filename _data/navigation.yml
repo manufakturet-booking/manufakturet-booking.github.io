@@ -9,5 +9,3 @@ main:
     url: _pages/equipmentListing/
   - title: "Manufakturet"
     url: https://www.manufakturet.create.aau.dk/
-  - title: "Test Create Category"
-    url: _pages/testPage/
