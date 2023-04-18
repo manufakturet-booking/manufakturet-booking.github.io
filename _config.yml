@@ -29,7 +29,7 @@ teaser                   :  # path of fallback teaser image, e.g. "/assets/image
 logo                     : "/assets/images/aau.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 howto                    : "This is how you borrow equipment"
-terms                    : "By using the Medialogy Booking System you agree with the following rules:
+terms                    : "By using the Medialogy Booking System you agree with the following rules...
   -  You are personally responsible for all borrowed equipment.
   -  Loan of equipment is free - no deposit fee is required
   -  Equipment should be picked up and returned to the booking room inside Manufakturet, FKJ 12, 2450 København SV
