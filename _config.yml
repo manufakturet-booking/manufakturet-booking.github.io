@@ -105,10 +105,9 @@ analytics:
 
 # Site Author
 author:
-  sidebartext      : "This is a <em> test </em>"
   name             : "CREATE"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : sidebartext #"This sidebar should be visible on all pages showing location and contact info"
+  bio              : "Does <h3> html </h3> work here?"
   location         : "AAU CPH"
   email            :
   links:
