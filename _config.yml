@@ -105,6 +105,8 @@ analytics:
 
 # Site Author
 author:
+  hours: "Monday, Wednesday, Friday 10:00 - 14:00"
+
   name             : "CREATE"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "This sidebar should be visible on all pages showing location and contact info"
@@ -131,8 +133,6 @@ author:
       # url: "https://instagram.com/"
 
 
-bs:
-    hours: "Monday, Wednesday, Friday 10:00 - 14:00"
 
 
 
