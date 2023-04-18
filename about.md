@@ -7,5 +7,5 @@ author_profile: true
 {{site.howto}}
 
 # Terms of Use
-
+{{site.terms}}
 # Opening Hours
