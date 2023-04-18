@@ -109,7 +109,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "This sidebar should be visible on all pages showing location and contact info"
   location         : "AAU CPH"
-  email            :
+  email1            : "test@email.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
