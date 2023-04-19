@@ -63,3 +63,17 @@ div.adminsection{
   div.adminsection p{
   margin-bottom: 0.5em;
     }
+
+#resp-table {
+    width: 100%;
+    display: table;
+}
+#resp-table-body{
+    display: table-row-group;
+}
+.resp-table-row{
+    display: table-row;
+}
+.table-body-cell{
+  display: table-cell;
+}
