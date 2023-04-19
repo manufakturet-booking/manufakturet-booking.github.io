@@ -1,12 +1,10 @@
 {% assign author = page.author | default: page.authors[0] | default: site.author %}
 {% assign author = site.data.authors[author] | default: author %}
 
-<div itemscope itemtype="https://schema.org/Person" class="h-card">
+<div itemscope itemtype="https://schema.org/OpeningHoursSpecification" class="h-card">
 
-<p>Opening hours: {{ author.hours }}</p>
+<p class = "opens">Opening hours: {{ author.hours }}</p>
 
 <p>Contact info:   {{author.email1}} <br></p>
 
 <p>Location: {{author.location}}</p>
-
-</div>
