@@ -15,6 +15,7 @@
 {% for day in odays %}
 {% assign count = amount | plus:1 %}
 {{day}}: {{ohours[count]}}<br>
+{{count}}
 {% endfor %}
 
 </div>
