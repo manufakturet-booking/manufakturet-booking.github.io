@@ -15,8 +15,8 @@
 {% for day in odays %}
 
 {{day}}: {{ohours[count]}}<br>
-{% capture count %}{{ count | plus:1 }}{% endcapture %}
-
+{% capture count %} {{ohours[count]}}{{ count | plus:1 }}{% endcapture %}
+<br>
 {% endfor %}
 
 </div>
