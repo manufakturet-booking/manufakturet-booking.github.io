@@ -4,7 +4,6 @@
 {% assign ohours = author.hours | split: '-' %}
 {% assign cnames = author.names | split: ' ' %}
 {% assign cemails = author.emails | split: ' ' %}
-
 <div itemscope itemtype="https://schema.org/Person" class="h-card">
 <span class="sidegroup">
   <h6>Opening Hours</h6>
@@ -15,28 +14,20 @@
   {% assign count = count | plus:1 %}<br>
   {% endfor %}
 </span>
-
 <span class="sidegroup">
 <h6>Contact</h6>
 {% assign count = 0 %}
 {% for name in cnames %}
-<a href="mailto:{{cemails[count]}}?subject=feedback">{{name}}</a>
+<a href="mailto:{{cemails[count]}}?subject=Booking Office Enquiry">{{name}}</a>
 {% assign count = count | plus:1 %}<br>
 {% endfor %}
 </span>
-
 <span class="sidegroup">
 <h6>Location</h6>
+Manufakturet
+Room 0.17 <br>
+Frederikskaj 12, 2450 <br>
+Ground floor <br>
+Aalborg University Copenhagen <br>
 </span>
-
-<p>Contact info:<br>{{author.email1}} <br></p>
-
-<p>Location: {{author.location}}</p>
-
-
-
-
-
-
-
 </div>
