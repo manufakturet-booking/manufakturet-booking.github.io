@@ -1,21 +1,24 @@
 {% assign author = page.author | default: page.authors[0] | default: site.author %}
 {% assign author = site.data.authors[author] | default: author %}
+{% assign count = 0 %}
+{% assign odays = author.days | split: ' ' %}
+{% assign ohours = author.hours | split: '-' %}
 
 <div itemscope itemtype="https://schema.org/Person" class="h-card">
-
-<p>  {% for day in odays %}
+<div itemscope itemtype="https://schema.org/OpeningHoursSpecification" class="OpeningHoursSpecification">
+  {% for day in odays %}
   {{day}}:
   {{ohours[count]}}
   {% assign count = count | plus:1 %}
   {% endfor %}
-</p>
+
+</div>
+
 
 <p>Contact info:<br>{{author.email1}} <br></p>
 
 <p>Location: {{author.location}}</p>
-{% assign count = 0 %}
-{% assign odays = author.days | split: ' ' %}
-{% assign ohours = author.hours | split: '-' %}
+
 
 
 
