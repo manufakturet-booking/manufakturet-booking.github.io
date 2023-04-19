@@ -12,9 +12,17 @@
 {% assign odays = author.days | split: ' ' %}
 {% assign ohours = author.hours | split: '-' %}
 
-{% for day in odays %}
-{{day}}: {{ohours[count]}}<br>
-{% assign count = count | plus:1 %}
+
+
+<div id=“resp-table”>
+<div id=“resp-table-body”>
+{% for day in odays %}<div class=“resp-table-row”>
+<div class=“table-body-cell”>
+{{day}}:</div><div class=“table-body-cell”>{{ohours[count]}}</div>
+{% assign count = count | plus:1 %}</div>
 {% endfor %}
+</div>
+</div>
+
 
 </div>
