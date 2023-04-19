@@ -107,7 +107,8 @@ analytics:
 
 # Site Author
 author:
-  hours            : "Monday - 10:00 14:00 - Tuesday - 10:00 14:00 - Wednesday - 10:00 14:00"
+  hours            : " 10:00 14:00 - 10:00 14:00 - 10:00 14:00"
+  days             : "Monday Wednesday Friday"
   name             : "CREATE"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "This sidebar should be visible on all pages showing location and contact info"
