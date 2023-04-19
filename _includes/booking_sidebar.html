@@ -5,12 +5,14 @@
 {% assign ohours = author.hours | split: '-' %}
 
 <div itemscope itemtype="https://schema.org/Person" class="h-card">
+<div class="hours">
+</div>
 <p>{% for day in odays %}
 {{day}}:
 {{ohours[count]}}
 {% assign count = count | plus:1 %}
 {% endfor %}
-</p>
+</p></div>
 
 
 
