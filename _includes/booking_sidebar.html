@@ -7,7 +7,7 @@
 <div itemscope itemtype="https://schema.org/Person" class="h-card">
 <p>{% for day in odays %}
 {{day}}:
-<div class="right">{{ohours[count]}}</div>
+{{ohours[count]}}
 {% assign count = count | plus:1 %}
 {% endfor %}
 </p>
