@@ -20,10 +20,8 @@
 <h6>Contact</h6>
 {% assign count = 0 %}
 {% for name in cnames %}
-
-<a href="mailto:joe@example.com?subject=feedback">{{name}}</a>
-
-
+<a href="mailto:{{cemails[count]}}?subject=feedback">{{name}}</a>
+{% assign count = count | plus:1 %}<br>
 {% endfor %}
 </span>
 
