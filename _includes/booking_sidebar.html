@@ -8,9 +8,15 @@
 <p>Contact info:<br>{{author.email1}} <br></p>
 
 <p>Location: {{author.location}}</p>
-
+{% assign count = 0 %}
 {% assign odays = author.days | split: ' ' %}
 {% assign ohours = author.hours | split: '-' %}
 
-{{ohours[2]}}
+{% for day in odays %}
+
+{{day}}: {{ohours[amount]}}<br>
+{% capture count %}{{ count | plus:1 }}{% endcapture %}
+
+{% endfor %}
+
 </div>
