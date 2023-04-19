@@ -9,7 +9,8 @@
 
 <p>Location: {{author.location}}</p>
 
+{% assign odays = author.days | split: ' ' %}
 {% assign ohours = author.hours | split: '-' %}
 
-{% for oh in ohours %} {{oh}}: {{oh}} <br> {% endfor %}
+{{ohours[2]}}
 </div>
