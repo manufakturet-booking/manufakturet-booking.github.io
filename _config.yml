@@ -109,11 +109,11 @@ analytics:
 author:
   hours            : " 10:00 14:00 - 10:00 15:00 - 10:00 16:00"
   days             : "Monday Wednesday Friday"
-  name             : "CREATE"
+  names             : "Jesper Peter Bita Steffen"
+  emails            : "jgr@create.aau.dk peter@create.aau.dk rshahr22@student.aau.dk smogel22@student.aau.dk"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "This sidebar should be visible on all pages showing location and contact info"
   location         : "AAU CPH"
-  email1            : "test@email.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
