@@ -2,15 +2,13 @@
 {% assign author = site.data.authors[author] | default: author %}
 
 <div itemscope itemtype="https://schema.org/Person" class="h-card">
-<div itemscope itemtype="https://schema.org/OpeningHoursSpecification" class="OpeningHoursSpecification">
-  {% for day in odays %}
+
+<p>  {% for day in odays %}
   {{day}}:
   {{ohours[count]}}
   {% assign count = count | plus:1 %}
   {% endfor %}
-
-</div>
-
+</p>
 
 <p>Contact info:<br>{{author.email1}} <br></p>
 
