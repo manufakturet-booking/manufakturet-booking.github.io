@@ -10,7 +10,6 @@ aaunumbers: AAU-CPH0640 AAU-CPH0642 AAU-CPH0641 AAU-CPH0639 AAU-CPH0638 AAU-CPH0
   <li>
 
       {{ test.Title }}
-
   </li>
 {% endfor %}
 </ul>
