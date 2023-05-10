@@ -9,8 +9,8 @@ aaunumbers: AAU-CPH0640 AAU-CPH0642 AAU-CPH0641 AAU-CPH0639 AAU-CPH0638 AAU-CPH0
 {% for test in site.data.tests %}
   <li>
 
-      {{ test.Title[0] }}
-    </a>
+      {{ test.Title }}
+
   </li>
 {% endfor %}
 </ul>
