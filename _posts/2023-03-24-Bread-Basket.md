@@ -8,6 +8,7 @@ aaunumbers:  AAU66 AAU67
 ![Bread Basket](bb.png)
 A basket for bread
 ## KIT INCLUDES:
+- a bread basket
 
 ## Drivers / Manuals
 
