@@ -7,7 +7,6 @@ aaunumbers:  AAU8765
 ---
 ![Led underpants](pants.png)
 underpants with Leds, for night time use
-
 ## KIT INCLUDES:
 
 ## Drivers / Manuals

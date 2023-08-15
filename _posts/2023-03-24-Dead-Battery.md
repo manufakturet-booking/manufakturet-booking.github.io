@@ -7,7 +7,6 @@ aaunumbers:  AAU345
 ---
 ![Dead Battery](ping.png)
 Almost dead
-
 ## KIT INCLUDES:
 
 ## Drivers / Manuals
