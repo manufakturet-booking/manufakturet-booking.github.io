@@ -13,5 +13,7 @@ A small piece of plastic housing some circuitry
 -  Another plastic dims
 
 ## Drivers / Manuals
+[getting started](https://uselessinfo.com/how-to-use-a-telephone)
+
 
 ### Capacity and Restrictions:

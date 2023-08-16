@@ -13,5 +13,8 @@ underpants with Leds, for night time use
 - Battery Pack
 
 ## Drivers / Manuals
+[how to useUnderpants](link1.html)
+[bread](link2.html)
+
 
 ### Capacity and Restrictions:

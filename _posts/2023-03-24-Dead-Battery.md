@@ -12,5 +12,8 @@ Almost dead
 - A dead battery
 
 ## Drivers / Manuals
+[battery](link1.html)
+[bread](link2.html)
+
 
 ### Capacity and Restrictions:

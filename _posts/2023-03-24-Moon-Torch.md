@@ -14,5 +14,7 @@ A test item that can shine a light on the back of the moon
 - a carrying case
 
 ## Drivers / Manuals
+[manual](https://peterwilliams.dk/)|[Getting Started](https://youtu.be/gr54EEoJqHM)
+
 
 ### Capacity and Restrictions:

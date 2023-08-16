@@ -12,5 +12,8 @@ A basket for bread
 - a bread basket
 
 ## Drivers / Manuals
+[how to use a bread basket](link1.html)
+[bread](link2.html)
+
 
 ### Capacity and Restrictions:

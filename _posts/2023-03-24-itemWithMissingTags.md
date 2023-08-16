@@ -12,5 +12,7 @@ a fake item
 - nothing
 
 ## Drivers / Manuals
+[a blank link](blank.html)
+
 
 ### Capacity and Restrictions:
