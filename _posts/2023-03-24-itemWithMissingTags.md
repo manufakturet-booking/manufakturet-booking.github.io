@@ -15,5 +15,5 @@ a fake item
 [a blank link](blank.html)
 
 
-### Capacity and Restrictions:
 
+### Capacity and Restrictions:
