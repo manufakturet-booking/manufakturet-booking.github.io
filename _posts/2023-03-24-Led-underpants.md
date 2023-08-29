@@ -10,7 +10,7 @@ aaunumbers:  AAU8765
 underpants with Leds, for night time use
 ## KIT INCLUDES:
 -     underpants
-- Battery Pack
+-Battery Pack
 
 ## Drivers / Manuals
 [how to useUnderpants](link1.html)
