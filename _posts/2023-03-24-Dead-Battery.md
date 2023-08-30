@@ -9,7 +9,7 @@ aaunumbers:  AAU345
 
 Almost dead
 ## KIT INCLUDES:
-- A dead battery
+-  A dead battery
 
 ## Drivers / Manuals
 [battery](link1.html)

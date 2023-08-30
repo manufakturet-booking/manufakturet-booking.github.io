@@ -9,7 +9,7 @@ aaunumbers:  AAU#3 AAU77 AAUDD1
 
 A small piece of plastic housing some circuitry
 ## KIT INCLUDES:
-- A plastic dims 
+-  A plastic dims 
 -  Another plastic dims
 
 ## Drivers / Manuals
