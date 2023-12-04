@@ -5,7 +5,7 @@ author_profile: true
 ---
 By using the Booking system you confirm that you have read and understood Terms of use. 
 
-== Under no circumstances are students allowed to enter the booking room without a member of the booking staff present. ==
+==Under no circumstances are students allowed to enter the booking room without a member of the booking staff present.==
 
 The equipment in this booking system is available to students and employees from The Department of Architecture, Design, and Media Technology (CREATE),
 with certain restrictions - see below.
