@@ -2,7 +2,8 @@
 layout: categories
 title: howto
 taxonomy: create
-# author_profile: true
+permalink: /howto/
+author_profile: true
 # sidebar:
 #   nav: "create"
 
