@@ -6,9 +6,10 @@ author_profile: true
 # sidebar:
 #   nav: "create"
 ---
-First read the terms of service
+First read the terms of service.
+By using the Booking system you confirm that you have read and understood Terms of service. 
 
-Borrowing Equipment
+## Borrowing Equipment
 Browse this katalog to find the items that you want to borrow
 
 Note the category that the items are lsited in (SMILE, Lighting, All of MTC) and take the relevant restrictions into account (see below)
@@ -24,7 +25,10 @@ The staff member will ask you for the following information:
 		How long you want each item - end of week, end of next week, end of month, end of next month, end of semester
 		Your borrower ID: The user name part of your student or staff email (The part that precedes @*.aau.dk)
 -------------------------
-Returning equipment
+## Returning equipment
+
+If you become aware that you can not return equipment on time, contact Manufakturet staff immediately
+See the terms of use for more information.
 
 Always try to contact a member of the booking staff before returning equipment. Make sure that the equipment being returned is:
 	working, complete, packed in the same way that you borrowed it and where applicable, batteries have been removed.
