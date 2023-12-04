@@ -12,11 +12,11 @@ with certain restrictions - see below.
 
 By using the Medialogy Booking System you agree with the following rules:
 
-    - You are personally responsible for all borrowed equipment.
+    * You are personally responsible for all borrowed equipment.
 
-    - Loan of equipment is free - no deposit fee is required.
+    * Loan of equipment is free - no deposit fee is required.
 
-    - Equipment should be picked up and returned to the booking room inside Manufakturet, FKJ 12, 2450 København SV
+    * Equipment should be picked up and returned to the booking room inside Manufakturet, FKJ 12, 2450 København SV
 
     * Equipment can be picked up and returned only during open hours
     * Your booking can be always cancelled
