@@ -31,8 +31,8 @@ By using the Booking system you confirm that you have read and understood the [T
 -------------------------
 ## Returning equipment
 
-If you become aware that you can not return equipment on time, contact Manufakturet staff immediately
-See the terms of use for more information.
+1. If you become aware that you can not return equipment on time, contact Manufakturet staff immediately
+See the [terms of use](/_pages/terms) for more information.
 
 Always try to contact a member of the booking staff before returning equipment. Make sure that the equipment being returned is:
 	working, complete, packed in the same way that you borrowed it and where applicable, batteries have been removed.
