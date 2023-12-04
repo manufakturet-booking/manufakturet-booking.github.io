@@ -5,9 +5,9 @@ main:
   - title: "About"
     url: about/
     description: "Terms of Service, Opening Hours and User Guide"
+    - subtitle: "Test sub page"
+      url: _pages/testPage/
   - title: "Equipment Listing"
     url: _pages/equipmentListing/
-    - subtitle: "Test sub page"
-    url: _test/
   - title: "Manufakturet"
     url: https://www.manufakturet.create.aau.dk/
