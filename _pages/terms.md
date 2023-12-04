@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Terms of Service
+title: terms
 permalink: /terms/
 author_profile: true
 ---
