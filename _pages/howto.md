@@ -7,7 +7,7 @@ author_profile: true
 #   nav: "create"
 ---
 First read the terms of service
-----------------
+
 Borrowing Equipment
 Browse this katalog to find the items that you want to borrow
 
