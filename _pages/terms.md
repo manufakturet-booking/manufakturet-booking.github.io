@@ -10,7 +10,7 @@ Under no circumstances are students allowed to enter the booking room without a 
 The equipment in this booking system is available to students and employees from The Department of Architecture, Design, and Media Technology (CREATE),
 with certain restrictions - see below.
 
-By using the Medialogy Booking System you agree with the following rules
+By using the Medialogy Booking System you agree with the following rules:
 
 You are personally responsible for all borrowed equipment.
 Loan of equipment is free - no deposit fee is required
