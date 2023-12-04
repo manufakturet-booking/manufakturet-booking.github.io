@@ -3,6 +3,7 @@ layout: tag
 title: Terms Of Service
 author_profile: true
 ---
+<a href = "#top"></a>
 By using the Booking system you confirm that you have read and understood Terms of use. 
 
 The equipment in this booking system is available to students and employees from The Department of Architecture, Design, and Media Technology (CREATE),
@@ -31,4 +32,4 @@ Equipment listed in the SMILE category is only available with specific permissio
 Students and staff who have returned equipment late, or still have equipment passed the due return date will be banned from bowworing equipment until *****?
 
 
-	
+{{site.top}}
