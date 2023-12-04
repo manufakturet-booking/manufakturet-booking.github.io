@@ -5,14 +5,12 @@ author_profile: true
 ---
 By using the Booking system you confirm that you have read and understood Terms of use. 
 
-**Under no circumstances are students allowed to enter the booking room without a member of the booking staff present.**
-
 The equipment in this booking system is available to students and employees from The Department of Architecture, Design, and Media Technology (CREATE),
-with certain restrictions - see below.
+[with certain restrictions - see below](_pages/terms##restrictions).
 
 By using the Medialogy Booking System you agree with the following rules:
 
-- You are personally responsible for all borrowed equipment.
+- **Under no circumstances are students allowed to enter the booking room without a member of the booking staff present.**
 - Loan of equipment is free - no deposit fee is required
 - Equipment should be picked up and returned to the booking room inside Manufakturet, FKJ 12, 2450 København SV
 <!-- - Equipment can be picked up and returned only during open hours -->
@@ -25,7 +23,7 @@ By using the Medialogy Booking System you agree with the following rules:
 
 
 ______
-Restrictions
+## Restrictions
 
 Equipment listed in the lighting design category is only available to Students or staff from lighting design unless permission is specifically obtained from ***?
 
