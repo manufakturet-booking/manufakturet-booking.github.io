@@ -9,7 +9,7 @@ author_profile: true
 <a href = "#top"></a>
 **First read the terms of service.**
 
-By using the Booking system you confirm that you have read and understood the [Terms of service](https://manufakturet-booking.github.io/_pages/terms/). 
+By using the Booking system you confirm that you have read and understood the [Terms of service](/terms/). 
 
 **Under no circumstances are students allowed to enter the booking room without a member of the booking staff present.**
 
