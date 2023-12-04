@@ -2,8 +2,8 @@
 main:
 #  - title: "Quick-Start Guide"
 #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: about/
+  - title: "How To"
+    url: -pages/howto/
     description: "Terms of Service, Opening Hours and User Guide"
   - title: "Equipment Listing"
     url: _pages/equipmentListing/
