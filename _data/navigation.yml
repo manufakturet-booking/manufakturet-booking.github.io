@@ -5,6 +5,8 @@ main:
   - title: "About"
     url: about/
     description: "Terms of Service, Opening Hours and User Guide"
+  - title: "Terms of Service"
+    url: _pages/terms/
   - title: "Equipment Listing"
     url: _pages/equipmentListing/
   - title: "Manufakturet"
