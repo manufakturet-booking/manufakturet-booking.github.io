@@ -7,6 +7,7 @@ main:
     description: "How to borrow and return equipment"
   - title: "Terms of Service"
     url: _pages/terms/
+    description: "Terms of Service"
   - title: "Equipment Listing"
     url: _pages/equipmentListing/
   - title: "Manufakturet"
