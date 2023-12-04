@@ -1,7 +1,6 @@
 ---
 layout: tag
-title: terms
-permalink: /terms/
+title: Terms Of Service
 author_profile: true
 ---
 Under no circumstances are students allowed to enter the booking room without a member of the booking staff present.
