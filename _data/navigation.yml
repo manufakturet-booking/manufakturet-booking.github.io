@@ -8,4 +8,4 @@ main:
   - title: "Equipment Listing"
     url: _pages/equipmentListing/
   - title: "Manufakturet"
-    url: <a href=https://www.manufakturet.create.aau.dk/>Manufakturet</a>
+    url: <a href="https://www.manufakturet.create.aau.dk/" target="_blank">Manufakturet</a>
