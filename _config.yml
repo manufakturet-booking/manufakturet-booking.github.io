@@ -28,7 +28,7 @@ repository               : "manufakturet-booking/manufakturet-booking.github.io"
 teaser                   :  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/aau.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-howto                    : "This is how you borrow equipment"
+top                      : "[Back to top](#top)"
 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
