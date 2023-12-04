@@ -16,18 +16,18 @@ By using the Booking system you confirm that you have read and understood the [T
 ## Borrowing Equipment
 1. Browse this catalog to find the items that you want to borrow
 
-2. Note the category that the items are lsited in (SMILE, Lighting, All of MTC) and take the relevant restrictions into account [(see terms of service)](/_pages/terms#restriction)
+2. Note the category that the items are lsited in (SMILE, Lighting, All of MTC) and take the relevant restrictions into account [(see terms of service)](/_pages/terms#restrictions)
 
-Locate the Equipment booking board in Manufakturet, making sure that staff are present to complete your booking before removing any tags from the board.
+3. Locate the Equipment booking board in Manufakturet, making sure that staff are present to complete your booking before removing any tags from the board.
 
-Here you can see if the equipment is physically available for lending out, and if it has been booked.
+4. Use the Equipment booking board to see if the equipment is physically available for lending out, and if it has been booked.
 
-Take the tags for the equipment that you want to borrow to a member of the booking staff.
+5. Take the tags for the equipment that you want to borrow to a member of the booking staff.
 
-The staff member will ask you for the following information:
-		Whether you have obtained any necassary permissions for lending the equipment and meet any other requirements
-		How long you want each item - end of week, end of next week, end of month, end of next month, end of semester
-		Your borrower ID: The user name part of your student or staff email (The part that precedes @*.aau.dk)
+6. The staff member will ask you for the following information:
+	- Whether you have obtained any necassary permissions for lending the equipment and meet any other requirements
+	- How long you want each item - end of week, end of next week, end of month, end of next month, end of semester
+	- Your borrower ID: The user name part of your student or staff email (The part that precedes @*.aau.dk)
 -------------------------
 ## Returning equipment
 
