@@ -6,7 +6,7 @@ author_profile: true
 By using the Booking system you confirm that you have read and understood Terms of use. 
 
 The equipment in this booking system is available to students and employees from The Department of Architecture, Design, and Media Technology (CREATE),
-[with certain restrictions - see below](_pages/terms##restrictions).
+[with certain restrictions - see below](https://manufakturet-booking.github.io/_pages/terms/## Restrictions).
 
 By using the Medialogy Booking System you agree with the following rules:
 
