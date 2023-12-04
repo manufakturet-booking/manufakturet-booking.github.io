@@ -1,6 +1,6 @@
 ---
-layout: categories
-title: howto
+layout: tag
+title: How To use the Booking System
 taxonomy: create
 permalink: /howto/
 author_profile: true
