@@ -6,7 +6,7 @@ author_profile: true
 By using the Booking system you confirm that you have read and understood Terms of use. 
 
 The equipment in this booking system is available to students and employees from The Department of Architecture, Design, and Media Technology (CREATE),
-[with certain restrictions - see below](https://manufakturet-booking.github.io/_pages/terms/##-Restrictions).
+[with certain restrictions - see below](#restrictions).
 
 By using the Medialogy Booking System you agree with the following rules:
 
@@ -20,8 +20,9 @@ By using the Medialogy Booking System you agree with the following rules:
 - The person who provides their borrower ID for a transaction bears full responsibility for the borrowed equipment.
 - If the equipment is not returned within 14 days of the original return date, the borrower has to pay for the equipment. The bill to pay for the equipment can also be sent to the student after graduation.
 ______
-
+<a href="#restrictions"></a>
 ## Restrictions
+
 
 Equipment listed in the lighting design category is only available to Students or staff from lighting design unless permission is specifically obtained from ***?
 
