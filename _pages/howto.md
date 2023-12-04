@@ -9,14 +9,14 @@ author_profile: true
 <a href = "#top"></a>
 **First read the terms of service.**
 
-By using the Booking system you confirm that you have read and understood the [Terms of service](_pages/terms/). 
+By using the Booking system you confirm that you have read and understood the [Terms of service](https://manufakturet-booking.github.io/_pages/terms/). 
 
 **Under no circumstances are students allowed to enter the booking room without a member of the booking staff present.**
 
 ## Borrowing Equipment
 1. Browse this catalog to find the items that you want to borrow
 
-2. Note the category that the items are lsited in (SMILE, Lighting, All of MTC) and take the relevant restrictions into account [(see terms of service)](_pages/terms#restriction)
+2. Note the category that the items are lsited in (SMILE, Lighting, All of MTC) and take the relevant restrictions into account [(see terms of service)](https://manufakturet-booking.github.io/_pages/terms#restriction)
 
 Locate the Equipment booking board in Manufakturet, making sure that staff are present to complete your booking before removing any tags from the board.
 
