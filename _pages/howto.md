@@ -6,8 +6,9 @@ permalink: /howto/
 author_profile: true
 # sidebar:
 #   nav: "create"
-
 ---
+First read the terms of service
+
 Under no circumstances are students allowed to enter the booking room without a member of the booking staff present.
 
 Late returns will result in the borrower being temporarily unable to borrow further equipment
