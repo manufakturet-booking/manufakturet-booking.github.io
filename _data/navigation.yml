@@ -7,5 +7,6 @@ main:
     description: "Terms of Service, Opening Hours and User Guide"
   - title: "Equipment Listing"
     url: _pages/equipmentListing/
+    - subtitle: url: _test/
   - title: "Manufakturet"
     url: https://www.manufakturet.create.aau.dk/
