@@ -3,10 +3,10 @@ main:
 #  - title: "Quick-Start Guide"
 #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "How To"
-    url: _pages/howto/
-    description: "Terms of Service, Opening Hours and User Guide"
-    - title: "Terms of Use"
     url: _pages/terms/
+    description: "Terms of Service, Opening Hours and User Guide"
+#  - title: "Terms of Use"
+#    url: _pages/terms/
   - title: "Equipment Listing"
     url: _pages/equipmentListing/
   - title: "Manufakturet"
