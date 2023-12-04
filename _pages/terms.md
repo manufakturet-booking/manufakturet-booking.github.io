@@ -12,16 +12,19 @@ with certain restrictions - see below.
 
 By using the Medialogy Booking System you agree with the following rules:
 
-    1. You are personally responsible for all borrowed equipment.
-    2. Loan of equipment is free - no deposit fee is required
-    3. Equipment should be picked up and returned to the booking room inside Manufakturet, FKJ 12, 2450 København SV
-    4. Equipment can be picked up and returned only during open hours
-    5. Your booking can be always cancelled
-    6. All bookings that were not finalized before "loan date" will be cancelled
-    7. Your account can be blocked if you do not return items on time
-    8. If you cannot return equipment on time - write an e-mail to peter@create.aau.dk, or jgr@create.aau.dk with short explanation, i.e. "I am sick" or "Something happened and I cannot". Let us also know when you could possibly return the equipment
-    9. The person who signs the booking request form is responsible for the whole group.
-    10. If the equipment is not returned on time, the student will receive email/SMS reminders, and if it is still not returned within 14 days of the original return date, the student has to pay for the equipment. A bill is automatically generated to the Accounting department. This procedure is written into the contract. The bill to pay for the equipment can also be sent to the student after graduation.
+    - You are personally responsible for all borrowed equipment.
+    
+    - Loan of equipment is free - no deposit fee is required.
+
+    - Equipment should be picked up and returned to the booking room inside Manufakturet, FKJ 12, 2450 København SV
+
+    - Equipment can be picked up and returned only during open hours
+    - Your booking can be always cancelled
+    - All bookings that were not finalized before "loan date" will be cancelled
+    - Your account can be blocked if you do not return items on time
+    - If you cannot return equipment on time - write an e-mail to peter@create.aau.dk, or jgr@create.aau.dk with short explanation, i.e. "I am sick" or "Something happened and I cannot". Let us also know when you could possibly return the equipment
+    - The person who signs the booking request form is responsible for the whole group.
+    - If the equipment is not returned on time, the student will receive email/SMS reminders, and if it is still not returned within 14 days of the original return date, the student has to pay for the equipment. A bill is automatically generated to the Accounting department. This procedure is written into the contract. The bill to pay for the equipment can also be sent to the student after graduation.
 
 
 ## Restrictions
