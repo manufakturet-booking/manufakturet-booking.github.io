@@ -24,7 +24,7 @@ ______
 ## Restrictions
 
 
-Equipment listed in the lighting design category is only available to Students or staff from lighting design unless permission is specifically obtained from <a href="mailto:{{ldMail}}" subject = "Lighting Equipment"> {{site.ldContact}}</a>
+Equipment listed in the lighting design category is only available to Students or staff from lighting design unless permission is specifically obtained from <a href="mailto:ldMail" subject = "Lighting Equipment"> {{site.ldContact}}</a>
 
 Equipment listed in the SMILE category is only available with specific permission from <a href = "mailto:hsf@create.aau.dk" subject = "SMILE Equipment">Henrik Schønau Fog</a>, and after this form has been filled out.
 
