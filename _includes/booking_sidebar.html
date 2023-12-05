@@ -5,15 +5,15 @@
 {% assign cnames = author.names | split: ' ' %}
 {% assign cemails = author.emails | split: ' ' %}
   <div class="author__content">
-<span class="sidegroup">
-  <h6>Opening Hours</h6>
+<!-- <span class="sidegroup">
+ <h6>Opening Hours</h6>
   {% assign count = 0 %}
   {% for day in odays %}
   {{day}}:<div class="hours">
   {{ohours[count]}}</div>
   {% assign count = count | plus:1 %}<br>
   {% endfor %}
-</span>
+</span>-->
 <span class="sidegroup">
 <h6>Contact</h6>
 {% assign count = 0 %}
