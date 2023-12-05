@@ -33,7 +33,9 @@ By using the Booking system you confirm that you have read and understood the [T
 	- Whether you have obtained any necassary permissions for lending the equipment and meet any other requirements
 	- How long you want each item - end of week, end of next week, end of month, end of next month, end of semester
 	- Your borrower ID: The user name part of your student or staff email (This is the first part, preceding @student.aau.dk or @create.aau.dk)
+
 -------------------------
+
 ## Returning equipment
 
 1. If you become aware that you can not return equipment on time, contact Manufakturet staff immediately
