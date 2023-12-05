@@ -24,9 +24,9 @@ ______
 ## Restrictions
 
 
-Equipment listed in the lighting design category is only available to Students or staff from lighting design unless permission is specifically obtained from <a href="{{ldMail}}" subject = "Lighting Equipment"> {{site.ldContact}}</a>
+Equipment listed in the lighting design category is only available to Students or staff from lighting design unless permission is specifically obtained from <a href="mailto:{{ldMail}}" subject = "Lighting Equipment"> {{site.ldContact}}</a>
 
-Equipment listed in the SMILE category is only available with specific permission from <a href = "hsf@create.aau.dk" subject = "SMILE Equipment">Henrik Schønau Fog</a>, and after this form has been filled out.
+Equipment listed in the SMILE category is only available with specific permission from <a href = "mailto:hsf@create.aau.dk" subject = "SMILE Equipment">Henrik Schønau Fog</a>, and after this form has been filled out.
 
 Students and staff who have returned equipment late, or still have equipment passed the due return date will be banned from borrowing equipment until *****?
 
