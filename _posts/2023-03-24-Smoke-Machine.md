@@ -12,7 +12,7 @@ KSM1750 MKIIProfessional smoke machine Fast warm up time1750w heater / 2.5 litre
 -  Smoke Machine
 
 ## Drivers / Manuals
-[manual][/assets/files/ksm1750_mkii.pdf)
+[manual](/assets/files/ksm1750_mkii.pdf)
 
 
 
