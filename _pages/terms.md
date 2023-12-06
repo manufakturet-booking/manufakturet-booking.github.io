@@ -19,7 +19,9 @@ By using the Medialogy Booking System you agree with the following rules:
 - If you become aware that you cannot return equipment on time you should inform us immediately
 - The person who provides their borrower ID for a transaction bears full responsibility for the borrowed equipment
 - If the equipment is not returned within 14 days of the original return date, the borrower has to pay for the equipment. The bill to pay for the equipment can also be sent to the student after graduation
+  <img src ="/assets/images/keyring.gif">
 ______
+
 <a href="#restrictions"></a>
 ## Restrictions
 
