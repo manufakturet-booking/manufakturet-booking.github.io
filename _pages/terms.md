@@ -17,8 +17,7 @@ By using the Medialogy Booking System you agree with the following rules:
 - Your booking may be cancelled without notice
 - Failure to return items on time can cause significant problems for other users, you may be barred from future use of booking equiupment
 - If you become aware that you cannot return equipment on time you should inform us immediately
-- The person who provides their borrower ID for a transaction bears full responsibility for the borrowed equipment
-- If the equipment is not returned within 14 days of the original return date, the borrower has to pay for the equipment. The bill to pay for the equipment can also be sent to the student after graduation
+- The person who provides their borrower ID for a transaction bears full responsibility for the borrowed equipment and is liable for the cost of repair or replacement in the event of loss or damage
 
 ______
 
