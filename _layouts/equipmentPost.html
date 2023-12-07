@@ -17,7 +17,11 @@ author_profile: true
     {% include breadcrumbs.html %}
   {% endunless %}
 {% endif %}
+<!-- This is the page for individual posts
 
+TODO
+
+Place a color coded version of postAlert for each department -->
 <div id="main" role="main">
   {% include sidebar.html %}
 
@@ -42,12 +46,17 @@ author_profile: true
 
 
 
+        {% if page.category == 'create' %}
+        <div class="postAlert">
+          <span>All of Create</span>
+            <p>This equipment is available to everyone associated with the Department of Architecture, Design, and Media Technology (CREATE).</p>
 
-
-
+            </div>
+                <br>
+            {% endif %}
               {% if page.category == 'ld' %}
               <div class="postAlert">
-                <span>Lighting Design Only this is here</span>
+                <span>Lighting Design Only</span>
                   <p>If you are not a Lighting Design Student and wish to use any of this equipment you should contact <a href="mailto:art@create.aau.dk?subject=Loan of Lighting Design Equipment">Arthur van der Zaag</a></p>
                       </div>
                       <br>

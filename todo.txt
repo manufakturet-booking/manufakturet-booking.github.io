@@ -1,0 +1,2 @@
+Add color coded versions of postAlert.css, code them into equipmentpost.html
+Change category and categories in text to departments

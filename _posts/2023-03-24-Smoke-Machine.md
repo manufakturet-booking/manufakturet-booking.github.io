@@ -1,5 +1,5 @@
 ---
-category:  ld
+category:  create
 tags: Stage-Equipment
 quantity: 1
 maxLoan: 1 week
