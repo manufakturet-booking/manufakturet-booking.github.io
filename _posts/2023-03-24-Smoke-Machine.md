@@ -7,7 +7,7 @@ aaunumbers:  AAUTemp1
 ---
 ![Smoke Machine](/assets/images/equip/ksm_dmx1750_hi.png)
 
-KSM1750 MKII Professional smoke machine. -  Wireless remote control.  - Adjustable hanging bracket.  - Smoke Fluid Required
+KSM1750 MKII Professional smoke machine.  - Wireless remote control.  - Adjustable hanging bracket.  - Smoke Fluid Required
 ## KIT INCLUDES:
 -  Smoke Machine
 
