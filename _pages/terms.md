@@ -6,6 +6,8 @@ author_profile: true
 <a href = "#top"></a>
 By using the Booking system you confirm that you have read and understood Terms of use. 
 
+<img align="right" src="/assets/images/terms.png">
+
 The equipment in this booking system is available ([with certain restrictions](#restrictions)) to students and employees from The Department of Architecture, Design, and Media Technology (CREATE).
 
 By using the Medialogy Booking System you agree with the following rules:
