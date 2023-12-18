@@ -9,6 +9,8 @@ author_profile: true
 <a href = "#top"></a>
 **First read the terms of service.**
 
+![student borrowing](/assets/images/howto.png)
+
 By using the Booking system you confirm that you have read and understood the [Terms of service](/_pages/terms/). 
 
 **Under no circumstances are students allowed to enter the booking room without a member of the booking staff present.**
