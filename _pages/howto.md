@@ -9,7 +9,7 @@ author_profile: true
 <a href = "#top"></a>
 **First read the terms of service.**
 
-<img align="rigth" src="/assets/images/howto.png">
+<img align="right" src="/assets/images/howto.png">
 
 By using the Booking system you confirm that you have read and understood the [Terms of service](/_pages/terms/). 
 
