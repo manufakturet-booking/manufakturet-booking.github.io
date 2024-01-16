@@ -43,7 +43,14 @@ Place a color coded version of postAlert for each department -->
 
       <section class="page__content e-content" itemprop="text">
 
+        if page.category == 'staff' %}
+        <div class="postAlert">
+          <span>All of Create</span>
+            <p>This equipment is <u>ONLY AVAILABLE FOR STAFF</u>.</p>
 
+            </div>
+                <br>
+            {% endif %}
 
 
         {% if page.category == 'create' %}
