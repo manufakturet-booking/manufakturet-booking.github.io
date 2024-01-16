@@ -11,6 +11,7 @@ underpants with Leds, for night time use
 ## KIT INCLUDES:
 -  underpants
 - Battery Pack
+- Manual
 
 ## Drivers / Manuals
 [how to useUnderpants](link1.html)
