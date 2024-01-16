@@ -1,5 +1,5 @@
 ---
-category:  create
+category:  staff
 tags: underwear
 quantity: 1
 maxLoan: 1 month

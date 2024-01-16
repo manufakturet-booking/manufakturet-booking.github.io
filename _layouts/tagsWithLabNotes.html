@@ -42,6 +42,11 @@ layout: archive
               <p>BEFORE BORROWING SAMSUNG ITEMS FROM THE SMILE LAB, YOU MUST FIRST FILL OUT <a href="http://tinyurl.com/SamsungBooking" target = blank> THIS FORM </a>
               ... and the loan has to be approved by <a href = "mailto:hsf@create.aau.dk?subject=Loan from Booking Office">Henrik Schønau Fog</a></p>
           {% endif %}
+          {% if post.category == 'smile' %}
+
+          <h5>STAFF ONLY</h5>
+          <p>This equipment is not available for students
+             {% endif %}
 </div>
 {% include archive-single.html type=entries_layout %}
 
