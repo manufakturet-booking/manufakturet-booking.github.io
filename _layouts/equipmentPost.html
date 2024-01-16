@@ -54,6 +54,17 @@ Place a color coded version of postAlert for each department -->
             </div>
                 <br>
             {% endif %}
+            <!-- New section -->
+            {% if page.category == 'staff' %}
+            <div class="postAlert">
+              <span>Staff Only</span>
+                <p>This equipment is for staff use only.</p>
+    
+                </div>
+                    <br>
+                {% endif %}
+
+            <!-- eof new section -->
               {% if page.category == 'ld' %}
               <div class="postAlert">
                 <span>Lighting Design Only</span>
