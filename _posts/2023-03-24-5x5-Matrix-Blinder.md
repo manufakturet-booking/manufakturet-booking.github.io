@@ -5,7 +5,8 @@ quantity: 1
 maxLoan: 1 week
 aaunumbers:  AAU805499
 ---
-![5x5 Matrix Blinder](/assets/images/equip/5x5Stairville.png)
+<p width=80%>
+![5x5 Matrix Blinder](/assets/images/equip/5x5Stairville.png)</p>
 
 Stairville 5x5 (25 x 3W LEDs - warm white) - master/slave music control - Dimensions (W x H x D): 450 x 450 x 115 mm - Weight: 10.2 kg
 ## KIT INCLUDES:
