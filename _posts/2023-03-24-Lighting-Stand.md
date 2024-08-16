@@ -1,6 +1,6 @@
 ---
 category:  ld
-tags: Lights
+tags: Lighting-Accesories
 quantity: 4
 maxLoan: 1 week
 aaunumbers:  AAU803770 AAU803771 AAU803772 AAU803773
