@@ -1,9 +1,9 @@
 ---
 category:  ld
 tags: Lights
-quantity: 5
+quantity: 1
 maxLoan: 2 weeks
-aaunumbers:  AAUX24011 AAUX24010 AAUX24009 AAUX24008 AAU803768
+aaunumbers:  AAU803768
 ---
 ![Strip Light](https://www.adj.com/media/catalog/product/cache/917b0029e95d178a879e6b7f6e3a9b4e/m/e/megatribarled-2.jpg)
 

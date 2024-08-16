@@ -1,9 +1,9 @@
 ---
 category:  create
 tags: Development-Boards
-quantity: 5
+quantity: 4
 maxLoan: End of Semester
-aaunumbers:  AAU809072 AAU809068 AAU809066 AAU809057 AAU809055
+aaunumbers:  AAU809057 AAU809066 AAU809068 AAU809072
 ---
 ![Bela Wireless](/assets/images/equip/belaW.png)
 
