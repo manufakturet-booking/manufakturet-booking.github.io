@@ -1,6 +1,6 @@
 ---
 category:  create
-tags: Camera Accesories
+tags: Camera-Accesories
 quantity: 2
 maxLoan: 2 Weeks
 aaunumbers:  AAUX24013 AAUX24012

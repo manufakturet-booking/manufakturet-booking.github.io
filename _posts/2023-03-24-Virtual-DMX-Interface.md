@@ -1,6 +1,6 @@
 ---
 category:  ld
-tags: Lighting Accesories
+tags: Lighting-Accesories
 quantity: 7
 maxLoan: 2 Weeks
 aaunumbers:  AAU-CPH0637 AAU-CPH0636 AAU-CPH0635 AAU-CPH0633 AAU-CPH0632 AAU-CPH0631 AAU-CPH0630

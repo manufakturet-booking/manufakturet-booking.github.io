@@ -1,6 +1,6 @@
 ---
 category:  create
-tags: Tools Measuring
+tags: Measuring-Tools
 quantity: 2
 maxLoan: 1 Week
 aaunumbers:  AAU104783 AAU104782

@@ -1,6 +1,6 @@
 ---
 category:  ld
-tags: Tools Measuring
+tags: Measuring-Tools
 quantity: 2
 maxLoan: 2 weeks
 aaunumbers:  AAU-CPH0645 AAU-CPH0644

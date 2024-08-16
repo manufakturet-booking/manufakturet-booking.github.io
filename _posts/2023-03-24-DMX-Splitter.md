@@ -1,6 +1,6 @@
 ---
 category:  ld
-tags: Lighting Accesories
+tags: Lighting-Accesories
 quantity: 1
 maxLoan: 1 Month
 aaunumbers:  AAU809159

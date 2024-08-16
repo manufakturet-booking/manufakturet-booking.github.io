@@ -1,6 +1,6 @@
 ---
 category:  create
-tags: DAW Controller
+tags: DAW-Controller
 quantity: 1
 maxLoan: 2 Months
 aaunumbers:  AAU805472
