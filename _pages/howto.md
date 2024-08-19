@@ -25,7 +25,8 @@ By using the Booking system you confirm that you have read and understood the [T
 
 3. Locate the Equipment booking board in the CreaTech Lab, making sure that staff are present to complete your booking before removing any tags from the board
 
-<img src="../assets/images/borrowingBoard.png" alt="booking board">
+<img src="../assets/images/borrowingBoard.png" alt="booking board"  style="border-radius: 20px;">
+
 
 4. If there are no tags for your desired item on the board they are all currently lent out.
 
