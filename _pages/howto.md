@@ -26,12 +26,11 @@ By using the Booking system you confirm that you have read and understood the [T
 
 2. Check any [category restrictions](/_pages/terms#restrictions) for the items you are interested in borrowing (Eg., SMILE or Lighting Design)
 
-3. Go to the Equipment booking board in the CreaTech Lab. Ensure staff are present before removing any tags. <img src=“…/…/assets/images/borrowingBoard.png” alt=“booking board” width=“300” style=“margin: 10px; padding: 10px; border-radius: 20px;”>
-
+3. Go to the Equipment booking board in the CreaTech Lab. Ensure staff are present before removing any tags. <img src=“…/…/assets/images/borrowingBoard.png” alt=“booking-board” width=“300” style=“margin: 10px padding: 10px; border-radius: 20px;”>
 
 4. If there are no tags for your desired item on the board they are all currently lent out.
 
-5. Tags hanging behind a reserved note have been prebooked for a particular future date. You may still borrow them, but it is imperative that they are returned BEFORE the prebooked date
+5. Tags hanging behind a reserved note have been prebooked for a future date. You may still borrow them, but must return them before the prebooked date
 
 6. Take the tags for the equipment that you want to borrow to a member of the booking staff
 
