@@ -22,13 +22,11 @@ By using the Booking system you confirm that you have read and understood the [T
 
 # You will need a smartphone to borrow equipment
 
-1. Browse this <a href="/_pages/equipmentListing.md/">catalog</a> to find the items that you want to borrow
+1. Browse the <a href="/_pages/equipmentListing.md/">catalog</a> to find the items that you want to borrow
 
-2. Note any [category restrictions](/_pages/terms#restrictions) displayed for the items you are interested in borrowing *N.B SMILE or Lighting Design*
+2. Check any [category restrictions](/_pages/terms#restrictions) for the items you are interested in borrowing (Eg., SMILE or Lighting Design)
 
-3. Locate the Equipment booking board in the CreaTech Lab, making sure that staff are present to complete your booking before removing any tags from the board
-
-<img src="../../assets/images/borrowingBoard.png" alt="booking board" width="300" style="margin: 10p" style="padding: 10px" style="border-radius: 20px;">
+3. Go to the Equipment booking board in the CreaTech Lab. Ensure staff are present before removing any tags. <img src=“…/…/assets/images/borrowingBoard.png” alt=“booking board” width=“300” style=“margin: 10px; padding: 10px; border-radius: 20px;”>
 
 
 4. If there are no tags for your desired item on the board they are all currently lent out.
@@ -45,6 +43,8 @@ By using the Booking system you confirm that you have read and understood the [T
 	- Your email address
 	- A list of all AAU numbers for the equipment you are borrowing
 	- Your intended return date
+
+10. Once you have sent that email you may borrow the equipment.
 
 -------------------------
 
