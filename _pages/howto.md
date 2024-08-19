@@ -66,6 +66,7 @@ and that you report any issues with the equipment
 	- Your AAU email
 	- Equipment AAU number/s
 	- Any issues with the equipment
+	<img src="../../assets/images/dropOff.png" alt="Equipment Drop Off Point" width="300" style="margin: 10p" style="padding: 10px" style="border-radius: 20px;">
 
 {{site.top}}
 
