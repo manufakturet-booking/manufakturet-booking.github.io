@@ -49,23 +49,22 @@ By using the Booking system you confirm that you have read and understood the [T
 
 ## Returning equipment
 
-1. If you become aware that you can not return equipment on time, contact the CreaTech Lab staff immediately
+1. If you realize you can’t return equipment on time, please contact the CreaTech Lab staff immediately. 
 See the [terms of use](/_pages/terms) for more information
 
-2. Always try to contact a member of the booking staff before returning equipment. Make sure that the equipment being returned is:
-	- working
-	- complete
-	- packed in the same way that you borrowed it
-	- where applicable, batteries have been removed
+2. Always try to contact a booking staff member before returning equipment. Ensure the equipment is:
+	- Working
+	- Complete
+	- Packed as it was when borrowed
+	- Batteries removed, if applicable
 
-3. When returning equipment directly to booking staff, make sure that they know your borrower ID, that the ID number of the equipment is readable,
-and that you report any issues with the equipment.
+3. When returning equipment directly to booking staff, make sure that they know your email address and the AAU number/s of the returned items,
+and that you report any issues with the equipment
 
-4. If no staff are present you may place your equipment on the returns counter next to the booking office. Make sure that you write the following information 
-in the returns book otherwise we cannot register the return of your equipment:
+4. If no staff are present, place your equipment at the drop-off point next to the booking office. Scan the QR code and include the following information in the returns email:
 	- Date
-	- Your borrower ID
-	- Equipent ID (typically starting AAU)
+	- Your AAU email
+	- Equipment AAU number/s
 	- Any issues with the equipment
 
 {{site.top}}
