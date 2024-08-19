@@ -19,13 +19,16 @@ By using the Booking system you confirm that you have read and understood the [T
 
 
 ## Borrowing Equipment
+
+# You will need a smartphone to borrow equipment
+
 1. Browse this <a href="/_pages/equipmentListing.md/">catalog</a> to find the items that you want to borrow
 
 2. Note any [category restrictions](/_pages/terms#restrictions) displayed for the items you are interested in borrowing *N.B SMILE or Lighting Design*
 
 3. Locate the Equipment booking board in the CreaTech Lab, making sure that staff are present to complete your booking before removing any tags from the board
 
-<img src="../../assets/images/borrowingBoard.png" alt="booking board" width="300" style="margin: 10p"  style="padding: 10px; style="border-radius: 20px;">
+<img src="../../assets/images/borrowingBoard.png" alt="booking board" width="300" style="margin: 10p" style="padding: 10px" style="border-radius: 20px;">
 
 
 4. If there are no tags for your desired item on the board they are all currently lent out.
@@ -34,10 +37,14 @@ By using the Booking system you confirm that you have read and understood the [T
 
 6. Take the tags for the equipment that you want to borrow to a member of the booking staff
 
-7. The staff member will ask you for the following information:
-	- Whether you have obtained any necassary permissions for lending the equipment and meet any other requirements
-	- How long you want each item - end of week, end of next week, end of month, end of next month, end of semester
-	- Your borrower ID: The user name part of your student or staff email (This is the first part, preceding @student.aau.dk or @create.aau.dk)
+7. The staff member will ask whether you have obtained any necessary permissions for lending the equipment and meet any other requirements
+
+8. The staff member will find the equipment for you and ask you to scan the QR code in the booking room. This will generate an email for you to edit.
+
+9. The staff member will ensure that you have entered all the necessary information in the email:
+	- Your email address
+	- A list of all AAU numbers for the equipment you are borrowing
+	- Your intended return date
 
 -------------------------
 
