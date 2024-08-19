@@ -26,24 +26,24 @@ By using the Booking system you confirm that you have read and understood the [T
 
 2. Check any [category restrictions](/_pages/terms#restrictions) for the items you are interested in borrowing (Eg., SMILE or Lighting Design)
 
-3. Go to the Equipment booking board in the CreaTech Lab. Ensure staff are present before removing any tags. <img src=“…/…/assets/images/borrowingBoard.png” alt=“booking-board” width=“300” style=“margin: 10px padding: 10px; border-radius: 20px;”>
+3. Go to the Equipment booking board in the CreaTech Lab. Ensure staff are present before removing any tags. <img src="../../assets/images/borrowingBoard.png" alt="booking board" width="300" style="margin: 10p" style="padding: 10px" style="border-radius: 20px;">
 
 4. If there are no tags for your desired item on the board they are all currently lent out.
 
 5. Tags hanging behind a reserved note have been prebooked for a future date. You may still borrow them, but must return them before the prebooked date
 
-6. Take the tags for the equipment that you want to borrow to a member of the booking staff
+6. Take the tags to a member of the booking staff
 
-7. The staff member will ask whether you have obtained any necessary permissions for lending the equipment and meet any other requirements
+7. The staff member will verify any necessary permissions and requirements
 
-8. The staff member will find the equipment for you and ask you to scan the QR code in the booking room. This will generate an email for you to edit.
+8. The staff member will locate the equipment and ask you to scan the QR code in the booking room to generate an email.
 
-9. The staff member will ensure that you have entered all the necessary information in the email:
+9. You must ensure this email includes:
 	- Your email address
 	- A list of all AAU numbers for the equipment you are borrowing
 	- Your intended return date
 
-10. Once you have sent that email you may borrow the equipment.
+10. Send the email to complete the borrowing process.
 
 -------------------------
 
