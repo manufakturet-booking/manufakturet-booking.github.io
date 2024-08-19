@@ -14,7 +14,7 @@ By using the Medialogy Booking System you agree with the following rules:
 
 - **Under no circumstances are students allowed to enter the booking room without a member of the booking staff present**
 - Loan of equipment is free - no deposit fee is required
-- Equipment should be picked up and returned either to a member of the booking staff, or to the Ewuipment Drop Off Point, directly outside the booking room (0.17) which is located inside the Manufakturet, FKJ 12, 2450 København SV
+- Equipment should be picked up and returned either to a member of the booking staff, or to the equipment drop off point directly outside the booking room (0.17). This is located inside the Manufakturet, FKJ 12, 2450 København SV
 <!-- - Equipment can be picked up and returned only during open hours -->
 - Your booking may be cancelled without notice
 - Failure to return items on time can cause significant problems for other users, you may be barred from future use of booking equiupment

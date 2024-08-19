@@ -23,7 +23,7 @@ By using the Booking system you confirm that you have read and understood the [T
 
 2. Note any [category restrictions](/_pages/terms#restrictions) displayed for the items you are interested in borrowing *N.B SMILE or Lighting Design*
 
-3. Locate the Equipment booking board in Manufakturet, making sure that staff are present to complete your booking before removing any tags from the board
+3. Locate the Equipment booking board in the CreaTech Lab, making sure that staff are present to complete your booking before removing any tags from the board
 
 4. If there are no tags for your desired item on the board they are all currently lent out.
 
@@ -40,7 +40,7 @@ By using the Booking system you confirm that you have read and understood the [T
 
 ## Returning equipment
 
-1. If you become aware that you can not return equipment on time, contact Manufakturet staff immediately
+1. If you become aware that you can not return equipment on time, contact the CreaTech Lab staff immediately
 See the [terms of use](/_pages/terms) for more information
 
 2. Always try to contact a member of the booking staff before returning equipment. Make sure that the equipment being returned is:
