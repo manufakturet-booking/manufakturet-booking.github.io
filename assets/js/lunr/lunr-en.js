@@ -7,6 +7,7 @@ var idx = lunr(function () {
   this.field('excerpt')
   this.field('categories')
   this.field('tags')
+  this.field('aaunumbers');   // added to search AAU numbers
   this.ref('id')
 
   this.pipeline.remove(lunr.trimmer)
@@ -17,8 +18,9 @@ var idx = lunr(function () {
       excerpt: store[item].excerpt,
       categories: store[item].categories,
       tags: store[item].tags,
+      aaunumbers: store[item].aaunumbers,  // added to search AAU numbers
       id: item
-    })
+      })
   }
 });
 
