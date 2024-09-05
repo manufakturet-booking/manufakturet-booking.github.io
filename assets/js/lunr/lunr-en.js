@@ -3,14 +3,14 @@ layout: none
 ---
 
 var idx = lunr(function () {
-  this.field('title');
-  this.field('excerpt');
-  this.field('categories');
-  this.field('tags');
-  this.field('aaunumbers'); // Add this line
-  this.ref('id');
+  this.field('title')
+  this.field('excerpt')
+  this.field('categories')
+  this.field('tags')
+  this.field('aaunumbers');   // added to search AAU numbers
+  this.ref('id')
 
-  this.pipeline.remove(lunr.trimmer);
+  this.pipeline.remove(lunr.trimmer)
 
   for (var item in store) {
     this.add({
@@ -18,9 +18,9 @@ var idx = lunr(function () {
       excerpt: store[item].excerpt,
       categories: store[item].categories,
       tags: store[item].tags,
-      aaunumbers: store[item].aaunumbers, // Add this line
+      aaunumbers: store[item].aaunumbers,  // added to search AAU numbers
       id: item
-    });
+      })
   }
 });
 
@@ -30,38 +30,45 @@ $(document).ready(function() {
     var query = $(this).val().toLowerCase();
     var result =
       idx.query(function (q) {
-        query.split(lunr.tokenizer.separator).forEach(function (term) {
-          if (term.startsWith("aau")) {
-            // Exact match for aaunumbers
-            q.term(term, { fields: ['aaunumbers'], boost: 200 });
-          } else {
-            q.term(term, { boost: 100 });
-            if(query.lastIndexOf(" ") != query.length-1){
-              q.term(term, { usePipeline: false, wildcard: lunr.Query.wildcard.TRAILING, boost: 10 });
-            }
-            if (term != ""){
-              q.term(term, { usePipeline: false, editDistance: 1, boost: 1 });
-            }
+        query.split(lunr.tokenizer.separator).forEach(function (term) {  
+          q.term(term, { boost: 100 })
+          if(query.lastIndexOf(" ") != query.length-1){
+            q.term(term, {  usePipeline: false, wildcard: lunr.Query.wildcard.TRAILING, boost: 10 })
           }
-        });
+          if (term != ""){
+            q.term(term, {  usePipeline: false, editDistance: 1, boost: 1 })
+          }
+        })
       });
     resultdiv.empty();
     resultdiv.prepend('<p class="results__found">'+result.length+' {{ site.data.ui-text[site.locale].results_found | default: "Result(s) found" }}</p>');
     for (var item in result) {
       var ref = result[item].ref;
-      var searchitem = '<div class="list__item">'+
-        '<article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">'+
-          '<h2 class="archive__item-title" itemprop="headline">'+
-            '<a href="'+store[ref].url+'" rel="permalink">'+store[ref].title+'</a>'+
-          '</h2>';
       if(store[ref].teaser){
-        searchitem += '<div class="archive__item-teaser">'+
-          '<img src="'+store[ref].teaser+'" alt="">'+
+        var searchitem =
+          '<div class="list__item">'+
+            '<article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">'+
+              '<h2 class="archive__item-title" itemprop="headline">'+
+                '<a href="'+store[ref].url+'" rel="permalink">'+store[ref].title+'</a>'+
+              '</h2>'+
+              '<div class="archive__item-teaser">'+
+                '<img src="'+store[ref].teaser+'" alt="">'+
+              '</div>'+
+              '<p class="archive__item-excerpt" itemprop="description">'+store[ref].excerpt.split(" ").splice(0,20).join(" ")+'...</p>'+
+            '</article>'+
           '</div>';
       }
-      searchitem += '<p class="archive__item-excerpt" itemprop="description">'+store[ref].excerpt.split(" ").splice(0,20).join(" ")+'...</p>'+
-        '</article>'+
-      '</div>';
+      else{
+    	  var searchitem =
+          '<div class="list__item">'+
+            '<article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">'+
+              '<h2 class="archive__item-title" itemprop="headline">'+
+                '<a href="'+store[ref].url+'" rel="permalink">'+store[ref].title+'</a>'+
+              '</h2>'+
+              '<p class="archive__item-excerpt" itemprop="description">'+store[ref].excerpt.split(" ").splice(0,20).join(" ")+'...</p>'+
+            '</article>'+
+          '</div>';
+      }
       resultdiv.append(searchitem);
     }
   });
