@@ -30,7 +30,9 @@ $(document).ready(function() {
     var query = $(this).val().toLowerCase();
     var result =
       idx.query(function (q) {
-        query.split(lunr.tokenizer.separator).forEach(function (term) {
+        query.split(lunr.tokenizer.separator).forEach(function (term) {  // Editted section
+          q.term(term, { fields: ['aaunumbers'], boost: 200 });
+          } else {  // eof editted section
           q.term(term, { boost: 100 })
           if(query.lastIndexOf(" ") != query.length-1){
             q.term(term, {  usePipeline: false, wildcard: lunr.Query.wildcard.TRAILING, boost: 10 })
