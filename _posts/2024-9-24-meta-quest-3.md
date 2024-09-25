@@ -5,7 +5,7 @@ quantity: 5
 maxLoan: 2 weeks
 aaunumbers:  AAUX24021 AAUX24022 AAUX24023 AAUX24024 AAUX24025
 ---
-![Meta Quest 3](https://en.wikipedia.org/wiki/Meta_Quest_3#/media/File:Meta_Quest_3_display_unit.jpg)
+![Meta Quest 3](https://th.bing.com/th/id/OIP.nB5CdFuV9bylG0mfv9fryQHaEK?rs=1&pid=ImgDetMain)
 
 VR headset with outside in tracking and in-built headphones
 ## KIT INCLUDES:
