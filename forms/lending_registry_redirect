@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Redirecting...</title>
+    <script type="text/javascript">
+        function redirect() {
+            var uid = new URLSearchParams(window.location.search).get('UID');
+            window.location.href = 'https://forms.office.com/r/your-form-id?UID=' + uid;
+        }
+    </script>
+</head>
+<body onload="redirect()">
+    <p>Redirecting to the form...</p>
+</body>
+</html>
