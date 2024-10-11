@@ -11,7 +11,6 @@ Hand held game controller for Oculus Rift CV1
 ## KIT INCLUDES:
 -  Left and right hand-held motion controllers
 - Oculus sensor and stand
-- √
 
 ## Drivers / Manuals
 []()
