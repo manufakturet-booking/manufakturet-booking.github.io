@@ -15,6 +15,11 @@ Wireless version of the low latency Bela cape - - 8 16-bit analog inputs - 8 16-
 - TWO AUDIO JACK TO JSC CONNECTORS
 - Cardboard Box
 
+{::comment}
+This is a block comment test.
+{:/comment}
+
+
 ## Drivers / Manuals
 []()
 
