@@ -30,6 +30,8 @@ Equipment listed in the lighting design category is only available to Students o
 
 Equipment listed in the SMILE category is only available with specific permission from <a href = "mailto:hsf@create.aau.dk" subject = "SMILE Equipment">Henrik Schønau Fog</a>, and after this form has been filled out.
 
+Other equipment, labeled *staff* is only available with permission from a specified member of staff.
+
 To ensure that all students and staff have access to the equipment they need, we ask that all borrowed items be returned on time. Late returns may result in a temporary suspension of borrowing privileges. This policy helps us maintain fair access to resources for everyone.
 
 
