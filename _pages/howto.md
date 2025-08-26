@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: How To use the Booking System
+title: How To use Borrow Equipment
 taxonomy: create
 author_profile: true
 # sidebar:
