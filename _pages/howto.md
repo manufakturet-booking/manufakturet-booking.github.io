@@ -26,7 +26,7 @@ By using the equipment lending system you confirm that you have read and underst
 
 2. Check any [category restrictions](/_pages/terms#restrictions) for the items you are interested in borrowing (Eg., SMILE or Lighting Design)
 
-# 3. Go to the Equipment booking board in the CreaTech Lab. Ensure staff are present before removing any tags. <img src="../../assets/images/borrowingBoard.png" alt="booking board" width="300" style="margin: 10p" # style="padding: 10px" style="border-radius: 20px;">
+<> 3. Go to the Equipment booking board in the CreaTech Lab. Ensure staff are present before removing any tags. <img src="../../assets/images/borrowingBoard.png" alt="booking board" width="300" style="margin: 10p" # style="padding: 10px" style="border-radius: 20px;">
 
 4. If there are no tags for your desired item on the board they are all currently lent out.
 
