@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: How To use Borrow Equipment
+title: How To Use The Equipment Lending System
 taxonomy: create
 author_profile: true
 # sidebar:
@@ -11,9 +11,9 @@ author_profile: true
 
 <img align="right" src="/assets/images/howto.png">
 
-By using the Booking system you confirm that you have read and understood the [Terms of service](/_pages/terms/). 
+By using the equipment lending system you confirm that you have read and understood the [Terms of service](/_pages/terms/). 
 
-**Under no circumstances are students allowed to enter the booking room without a member of the booking staff present.**
+**Under no circumstances are students allowed to enter the equipment room without a member of the lab staff present.**
 
 -------------------------
 
