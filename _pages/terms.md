@@ -4,22 +4,21 @@ title: Terms Of Service
 author_profile: true
 ---
 <a href = "#top"></a>
-By using the Booking system you confirm that you have read and understood Terms of use. 
+By using the Equipment Lending System you confirm that you have read and understood Terms of use. 
 
 <img align="right" src="/assets/images/terms.png">
 
-The equipment in this booking system is available ([with certain restrictions](#restrictions)) to students and employees from The Department of Architecture, Design, and Media Technology (CREATE).
+The equipment in this Equipment Catalog is available ([with certain restrictions](#restrictions)) to students and employees from The Department of Architecture, Design, and Media Technology (CREATE).
 
 By using the Medialogy Booking System you agree with the following rules:
 
 - **Under no circumstances are students allowed to enter the booking room without a member of the booking staff present**
 - Loan of equipment is free - no deposit fee is required
-- Equipment should be picked up and returned either to a member of the booking staff, or to the equipment drop off point directly outside the booking room (0.17). This is located inside the Manufakturet, FKJ 12, 2450 København SV
+- Equipment should be picked up and returned either to a member of the lab staff, or to the equipment drop off point directly outside the equipment room (0.17). This is located inside the CreaTech Lab, FKJ 12, 2450 Copenhagen SV
 <!-- - Equipment can be picked up and returned only during open hours -->
-- Your booking may be cancelled without notice
-- Failure to return items on time can cause significant problems for other users, you may be barred from future use of booking equiupment
+- Failure to return items on time can cause significant problems for other users, you may be barred from future borrowing of equipment
 - If you become aware that you cannot return equipment on time you should inform us immediately
-- The person who provides their borrower ID for a transaction bears full responsibility for the borrowed equipment and is liable for the cost of repair or replacement in the event of loss or damage
+- The person who provides their e-mail address for a transaction bears full responsibility for the borrowed equipment and is liable for the cost of repair or replacement in the event of loss or damage
 
 ______
 
