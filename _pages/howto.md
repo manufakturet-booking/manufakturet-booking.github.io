@@ -26,19 +26,24 @@ By using the equipment lending system you confirm that you have read and underst
 
 2. Check any [category restrictions](/_pages/terms#restrictions) for the items you are interested in borrowing (Eg., SMILE or Lighting Design)
 
-<> 3. Go to the Equipment booking board in the CreaTech Lab. Ensure staff are present before removing any tags. <img src="../../assets/images/borrowingBoard.png" alt="booking board" width="300" style="margin: 10p" # style="padding: 10px" style="border-radius: 20px;">
+3. You will then need to go to CreaTech Lab. **You will need your mobile phone, and access to your university e-mail**. It is a good idea to email a staff member to make sure that the equipment is available before doing so.
 
-4. If there are no tags for your desired item on the board they are all currently lent out.
+4. The lab is typically staffed between 09:00 and 16:00 Monday to Friday and is periodically booked for teaching and workshops. Be respectful of the activities taking place to minimize disturbance.
 
-5. Tags hanging behind a reserved note have been prebooked for a future date. You may still borrow them, but must return them before the prebooked date
+<!--- 3. Go to the Equipment booking board in the CreaTech Lab. Ensure staff are present before removing any tags. <img src="../../assets/images/borrowingBoard.png" alt="booking board" width="300" style="margin: 10p" # style="padding: 10px" style="border-radius: 20px;">  -->
+
+<!--- 4. If there are no tags for your desired item on the board they are all currently lent out. -->
+
+<!-- 5. Tags hanging behind a reserved note have been prebooked for a future date. You may still borrow them, but must return them before the prebooked date
 
 6. Take the tags to a member of the booking staff
 
-7. The staff member will verify any necessary permissions and requirements
+7. The staff member will verify any necessary permissions and requirements -->
+5. Locate a staff member and show tell them which items you want to borrow. The staff member will find the equipment and ask you to scan the QR code in the lending room to open a registration form.
 
-8. The staff member will locate the equipment and ask you to scan the QR code in the booking room to generate an email.
+6. 
 
-9. You must ensure this email includes:
+6. You must ensure this email includes:
 	- Your email address
 	- A list of all AAU numbers for the equipment you are borrowing
 	- Your intended return date
