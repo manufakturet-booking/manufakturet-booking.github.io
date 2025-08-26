@@ -39,16 +39,14 @@ By using the equipment lending system you confirm that you have read and underst
 6. Take the tags to a member of the booking staff
 
 7. The staff member will verify any necessary permissions and requirements -->
+
 5. Locate a staff member and show tell them which items you want to borrow. The staff member will find the equipment and ask you to scan the QR code in the lending room to open a registration form.
 
-6. 
+6. Read this form carefully!! When filled out correctly it will generate an email with a link to a second form.
 
-6. You must ensure this email includes:
-	- Your email address
-	- A list of all AAU numbers for the equipment you are borrowing
-	- Your intended return date
+7. Read the second form carefully! **Do Not** save this link or reuse the unique ID that it gives you at a later date!
 
-10. Send the email to complete the borrowing process.
+8. Filling out the second form completes the borrowing process.
 
 -------------------------
 
@@ -57,13 +55,13 @@ By using the equipment lending system you confirm that you have read and underst
 1. If you realize you can’t return equipment on time, please contact the CreaTech Lab staff immediately. 
 See the [terms of use](/_pages/terms) for more information
 
-2. Always try to contact a booking staff member before returning equipment. Ensure the equipment is:
+2. Always try to contact a lab staff member before returning equipment. Ensure the equipment is:
 	- Working
 	- Complete
 	- Packed as it was when borrowed
 	- Batteries removed, if applicable
 
-3. When returning equipment directly to booking staff, make sure that they know your email address and the AAU number/s of the returned items,
+3. When returning equipment directly to lab staff, make sure that they know your email address and the AAU number/s of the returned items,
 and that you report any issues with the equipment
 
 4. If no staff are present, place your equipment at the drop-off point next to the booking office. Scan the QR code and include the following information in the returns email:
