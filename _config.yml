@@ -30,6 +30,7 @@ logo                     : "/assets/images/aau.png" # path of logo image to disp
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 top                      : "[Back to top](#top)"
 ldContact                : "LD Contact"
+ldMail                   : "art@create.aau.dk"
 
 
 # breadcrumbs            : false # true, false (default)
