@@ -20,7 +20,7 @@ By using the equipment lending system you confirm that you have read and underst
 
 ## Borrowing Equipment
 
-# You will need a smartphone to borrow equipment
+#### You will need a smartphone to borrow equipment
 
 1. Browse the <a href="/_pages/equipmentListing.md/">catalog</a> to find the items that you want to borrow
 
@@ -30,17 +30,7 @@ By using the equipment lending system you confirm that you have read and underst
 
 4. The lab is typically staffed between 09:00 and 16:00 Monday to Friday and is periodically booked for teaching and workshops. Be respectful of the activities taking place to minimize disturbance.
 
-<!--- 3. Go to the Equipment booking board in the CreaTech Lab. Ensure staff are present before removing any tags. <img src="../../assets/images/borrowingBoard.png" alt="booking board" width="300" style="margin: 10p" # style="padding: 10px" style="border-radius: 20px;">  -->
-
-<!--- 4. If there are no tags for your desired item on the board they are all currently lent out. -->
-
-<!-- 5. Tags hanging behind a reserved note have been prebooked for a future date. You may still borrow them, but must return them before the prebooked date
-
-6. Take the tags to a member of the booking staff
-
-7. The staff member will verify any necessary permissions and requirements -->
-
-5. Locate a staff member and show tell them which items you want to borrow. The staff member will find the equipment and ask you to scan the QR code in the lending room to open a registration form.
+5. Locate a staff member and tell them which items you want to borrow. The staff member will find the equipment and ask you to scan the QR code in the lending room to open a registration form.
 
 6. Read this form carefully!! When filled out correctly it will generate an email with a link to a second form.
 
@@ -59,7 +49,7 @@ See the [terms of use](/_pages/terms) for more information
 	- Working
 	- Complete
 	- Packed as it was when borrowed
-	- Batteries removed, if applicable
+	- Batteries removed and or fully charged, if applicable
 
 3. When returning equipment directly to lab staff, make sure that they know your email address and the AAU number/s of the returned items,
 and that you report any issues with the equipment
