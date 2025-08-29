@@ -1,6 +1,6 @@
 ---
 category:  smile
-tags: LiDAR-Camera
+tags: Video-Camera
 quantity: 1
 maxLoan: 1 week
 aaunumbers:  AAUX24069
