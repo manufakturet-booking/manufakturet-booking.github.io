@@ -1,9 +1,9 @@
 ---
-category:  create
+category:  ld
 tags: Measuring-Tools
-quantity: 2
+quantity: 4
 maxLoan: 1 Week
-aaunumbers:  AAU104783 AAU104782
+aaunumbers:  AAU104783 AAU104782 AAUX24017 AAUX24016
 ---
 ![Luminance Meter](/assets/images/equip/ls-150_luminance_meter.jpg)
 

@@ -1,0 +1,21 @@
+---
+category:  create
+tags: Portable-Recorder
+quantity: 2
+maxLoan: 1 week
+aaunumbers:  AAUX24007 AAUX24006
+---
+![Portable field recorder H4n](https://zoomcorp.com/media/original_images/H4AB_listImage_2.png.880x0_q60_size_canvas_upscale.png)
+
+Zoom H4n. Portable field recorder with adjustable (90  -120 degree) Condenser Microphones - Combination TRS / XLR inputs with phantom power - 4 track capability - USB Audio Interface
+## KIT INCLUDES:
+-  Portable Field Recorder 
+-  Manual 
+-  Protective Case
+
+## Drivers / Manuals
+[Software & Documents](https://zoomcorp.com/en/de/handheld-recorders/handheld-recorders/h4n-pro/h4n-pro-support/)
+
+
+
+### Capacity and Restrictions:

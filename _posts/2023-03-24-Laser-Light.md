@@ -7,7 +7,7 @@ aaunumbers:  AAU802490
 ---
 ![Laser Light](https://www.showtec.co.uk/onlineshop/image/cache/data/51342-228x228.jpg)
 
-Laser for displaying text 3DMX controllable
+Showtec Galactic TXT Laser for displaying text 3DMX controllable
 ## KIT INCLUDES:
 -  Laser light 
 - Keyboard 

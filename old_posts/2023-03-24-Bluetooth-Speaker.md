@@ -5,7 +5,7 @@ quantity: 1
 maxLoan: 2 weeks
 aaunumbers:  AAU805497
 ---
-![Bluetooth Speaker](https://images.samsung.com/is/image/samsung/dk-multiroom-360-sound-speaker-wam5500-wam5500-xe-001-front-black?$330_330_JPG$)
+![Bluetooth Speaker](/assets/images/equip/noImage.jpg)
 
 Hi end bluetooth speaker
 ## KIT INCLUDES:

@@ -1,9 +1,9 @@
 ---
 category:  ld
-tags: Lighting-Accesories
+tags: Lighting-Accessories
 quantity: 7
 maxLoan: 2 Weeks
-aaunumbers:  AAU-CPH0637 AAU-CPH0636 AAU-CPH0635 AAU-CPH0633 AAU-CPH0632 AAU-CPH0631 AAU-CPH0630
+aaunumbers:  AAUCPH0637 AAUCPH0636 AAUCPH0635 AAUCPH0634 AAUCPH0632 AAUCPH0631 AAUCPH0630
 ---
 ![Virtual DMX Interface](https://d1aeri3ty3izns.cloudfront.net/media/40/408320/600/preview.jpg)
 

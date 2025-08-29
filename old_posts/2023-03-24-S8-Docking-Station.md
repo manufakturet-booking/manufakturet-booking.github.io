@@ -1,11 +1,11 @@
 ---
 category:  smile
-tags: Phone Mobile
+tags: Mobile-Phone
 quantity: 3
 maxLoan: 2 weeks
 aaunumbers:  AAU809148 AAU809147 AAU803774
 ---
-![S8 Docking Station](https://images.samsung.com/is/image/samsung/dk-dex-station-ee-mg950tbegww-frontslideopenblack-74874145?$730_584_PNG$)
+![S8 Docking Station](/assets/images/equip/noImage.jpg)
 
 DEX Station.  Connect S8 or S8+ to a keyboard and screen.  Use phones apps, or a windows virtual environment (requires microsoft license)
 ## KIT INCLUDES:

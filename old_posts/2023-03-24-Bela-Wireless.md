@@ -1,9 +1,9 @@
 ---
 category:  create
 tags: Development-Boards
-quantity: 4
+quantity: 5
 maxLoan: End of Semester
-aaunumbers:  AAU809057 AAU809066 AAU809068 AAU809072
+aaunumbers:  AAU809072 AAU809068 AAU809066 AAU809057 AAU809055
 ---
 ![Bela Wireless](/assets/images/equip/belaW.png)
 
@@ -13,7 +13,12 @@ Wireless version of the low latency Bela cape - - 8 16-bit analog inputs - 8 16-
 - MICRO SD CARD
 - USB CABLE
 - TWO AUDIO JACK TO JSC CONNECTORS
-- Cardboard Box
+- CARDBOARD BOX
+
+{::comment}
+This is a block comment test.
+{:/comment}
+
 
 ## Drivers / Manuals
 []()

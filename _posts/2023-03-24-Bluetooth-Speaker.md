@@ -5,9 +5,9 @@ quantity: 1
 maxLoan: 2 weeks
 aaunumbers:  AAU805497
 ---
-![Bluetooth Speaker](/assets/images/equip/noImage.jpg)
+![Bluetooth Speaker](https://m.media-amazon.com/images/I/41A0v5Mp84L.jpg_BO30,255,255,255_UF900,850_SR1910,1000,0,C_QL100_.jpg)
 
-Hi end bluetooth speaker
+Samsung 360 R5 High end bluetooth speaker. Wireless Audio
 ## KIT INCLUDES:
 -  Speaker
 - Power Cable

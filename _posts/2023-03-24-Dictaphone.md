@@ -9,7 +9,8 @@ aaunumbers:  AAU805461
 
 Compact audio recorder with stereo microphone
 ## KIT INCLUDES:
--  Audio Recorder
+-  Audio Recorder 
+-  Pedal Control
 
 ## Drivers / Manuals
 [manual](https://download.aws.olympus.eu/consumer/manuals/audio/DM-670_650_MANUAL_EN.pdf)

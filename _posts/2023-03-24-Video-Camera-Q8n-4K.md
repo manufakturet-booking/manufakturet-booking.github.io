@@ -1,0 +1,25 @@
+---
+category:  create
+tags: Video-Camera
+quantity: 1
+maxLoan: 1 week
+aaunumbers:  AAUX24020
+---
+![Video Camera Q8n-4K](https://zoomcorp.com/media/images/4-Track_inset_3.width-800.png)
+
+Zoom Q8n-4K. Light weight video recorder -  X-Y Condenser Microphones - XLR inputs w Phantom Power - 4 track capable - F2.8/150º wide-angle lens - livestream capable (USB)
+## KIT INCLUDES:
+-  Q8n-4K Handy Video Recorder
+- BT-03 Battery
+- Lens Cover
+- Lens Hood
+- Windscreen
+- USB Cable
+- Quick Guide
+
+## Drivers / Manuals
+[Software & Documents](https://zoomcorp.com/en/de/video-recorders/video-recorders/q8n-4k/q8n-4k-support/)
+
+
+
+### Capacity and Restrictions:

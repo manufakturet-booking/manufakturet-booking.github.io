@@ -1,6 +1,6 @@
 ---
 category:  create
-tags: Camera-Accesories
+tags: Camera-Accessories
 quantity: 4
 maxLoan: 2 Weeks
 aaunumbers:  AAUX24013 AAUX24012 AAU69024 AAU69023
@@ -12,6 +12,8 @@ Sturdy aluminum tripod made by Manfrotto. Max height: 178.5cm (with center colum
 -  Camera Stand
 
 ## Drivers / Manuals
+[Manual](https://www.manua.ls/manfrotto/055xprob/manual)
+
 [manual](https://www.manua.ls/manfrotto/055xprob/manual)
 
 

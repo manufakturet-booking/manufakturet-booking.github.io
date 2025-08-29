@@ -5,7 +5,7 @@ quantity: 1
 maxLoan: 2 weeks
 aaunumbers:  AAU805473
 ---
-![Oculus Rift CV1](https://en.wikipedia.org/wiki/Oculus_Rift_CV1#/media/File:Oculus-Rift-CV1-Headset-Front.jpg)
+![Oculus Rift CV1](/assets/images/equip/cv1.gif)
 
 VR headset with outside in tracking and in-built headphones
 ## KIT INCLUDES:
