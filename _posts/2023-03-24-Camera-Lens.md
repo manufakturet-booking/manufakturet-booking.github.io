@@ -1,6 +1,6 @@
 ---
 category:  create
-tags: Camera-Lens
+tags: Camera-Accessories
 quantity: 1
 maxLoan: 2 weeks
 aaunumbers:  AAU101227
