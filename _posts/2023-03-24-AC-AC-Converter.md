@@ -7,7 +7,7 @@ aaunumbers:  AAU804684
 ---
 ![AC-AC Converter](/assets/images/equip/acac.jpg)
 
-Contact: Lab Staff.  </br> V to 2 x 110V For equipment designed for American power supply voltage. This item is kept in the SMD room.
+#### Contact: Lab Staff #### ####This item is kept in the SMD room.####  V to 2 x 110V For equipment designed for American power supply voltage. 
 ## KIT INCLUDES:
 -  AC-AC Converter
 
