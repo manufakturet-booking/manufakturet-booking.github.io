@@ -1,6 +1,6 @@
 ---
 category:  create
-tags: Mouse
+tags: Computer-Peripherals
 quantity: 3
 maxLoan: 1 week
 aaunumbers:  AAUCPH0654 AAUCPH0656 AAUCPH0658

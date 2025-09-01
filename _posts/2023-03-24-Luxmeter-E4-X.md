@@ -1,6 +1,6 @@
 ---
 category:  ld
-tags: Luxmeter
+tags: Measuring-Tools
 quantity: 1
 maxLoan: 1 week
 aaunumbers:  AAU805247

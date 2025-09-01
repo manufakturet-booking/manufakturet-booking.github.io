@@ -2,7 +2,7 @@
 category:  staff
 tags: Podcast-Studio
 quantity: 1
-maxLoan: 1 week
+maxLoan: 1 day
 aaunumbers:  AAUKIT25002
 ---
 ![Pod Cast Kit](/assets/images/equip/podcast.png)
