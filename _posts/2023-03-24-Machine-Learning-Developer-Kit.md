@@ -7,7 +7,7 @@ aaunumbers:  AAUKIT25001
 ---
 ![Machine Learning Developer Kit](https://developer.download.nvidia.com/embedded/images/jetsonAgxOrin/getting_started/jaodk_1024px.png)
 
-Contact: Cumhur Erkut. For use only in the Augmented Performance Lab. The Jetson AGX Orin is a compact, high-performance developer kit for building AI-powered systems like musical devices, robots, drones, and smart cameras. It runs an NVIDIA-flavor of linux, with a powerful GPU to make fast, on-board training and inference.
+Contact: Cumhur Erkut. <br>For use only in the Augmented Performance Lab. <br>The Jetson AGX Orin is a compact, high-performance developer kit for building AI-powered systems like musical devices, robots, drones, and smart cameras. It runs an NVIDIA-flavor of linux, with a powerful GPU to make fast, on-board training and inference.
 ## KIT INCLUDES:
 -  Jetson AGX Orin Module 
 -  USB Type‑C power adapter 

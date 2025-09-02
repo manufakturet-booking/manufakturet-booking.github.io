@@ -7,7 +7,7 @@ aaunumbers:  AAUKIT25002
 ---
 ![Pod Cast Kit](/assets/images/equip/podcast.png)
 
-Contact: Rolf Nordahl. The podcast room can be used by all students/groups and employees, for example in connection with recording voiceover for project videos or Foley effects for productions. Access to the equipment and room must be agreed in advance and can be used for an agreed and limited period (typically for 1 day, or by appointment).
+Contact: Rolf Nordahl.<br>The podcast room can be used by all students/groups and employees, for example in connection with recording voiceover for project videos or Foley effects for productions. Access to the equipment and room must be agreed in advance and can be used for an agreed and limited period (typically for 1 day, or by appointment).
 ## KIT INCLUDES:
 -  Rode Rodecaster Pro 
 -  Shure SM 7 mic 
