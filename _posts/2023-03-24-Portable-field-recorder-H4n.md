@@ -18,4 +18,3 @@ Zoom H4n. Portable field recorder with adjustable (90  -120 degree) Condenser Mi
 
 
 
-### Capacity and Restrictions:

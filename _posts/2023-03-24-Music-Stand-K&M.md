@@ -16,4 +16,3 @@ Konig & Meyer 'Starline'
 
 
 
-### Capacity and Restrictions:

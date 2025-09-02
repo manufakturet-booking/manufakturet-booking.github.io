@@ -19,4 +19,3 @@ Set of 4 Parabolic 30 W RGB LED lights on a strip. Chip on Board with Mic.
 
 
 
-### Capacity and Restrictions:

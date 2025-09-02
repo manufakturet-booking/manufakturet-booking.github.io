@@ -16,4 +16,3 @@ RØDE microphone boompole
 
 
 
-### Capacity and Restrictions:

@@ -16,4 +16,3 @@ Digital Sound 8922 SPL Measuring Device. Hand device with Condenser-Microphone (
 
 
 
-### Capacity and Restrictions:

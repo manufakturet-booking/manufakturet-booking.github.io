@@ -16,4 +16,3 @@ Sigma EX DC HSM. Fisheye lens, 4.5mm 1:2.8, for Canon EOS 7/7D.
 
 
 
-### Capacity and Restrictions:

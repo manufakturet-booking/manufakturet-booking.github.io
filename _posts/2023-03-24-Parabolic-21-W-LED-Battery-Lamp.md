@@ -16,4 +16,3 @@ Low profile parabolic lamp by ADJ - seven 3 Watt RGB LED's for smooth and rich c
 
 
 
-### Capacity and Restrictions:

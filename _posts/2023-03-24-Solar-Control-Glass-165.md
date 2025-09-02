@@ -16,4 +16,3 @@ Saint-Gobain Glass. COOL-LITE® SKN 165
 
 
 
-### Capacity and Restrictions:

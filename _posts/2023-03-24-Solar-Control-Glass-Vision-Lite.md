@@ -14,4 +14,3 @@ Saint-Gobain Glass. Vision-LITE 66.1 Stadip anti-reflective coated glass
 ## Drivers / Manuals
 [Technical Papers]https://www.saint-gobain-glass.cz/documents/brozura/sgg-stadip-protect-bezpecnostni-vrstvene-sklo-brozura.pdf
 
-### Capacity and Restrictions:

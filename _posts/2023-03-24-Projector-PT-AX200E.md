@@ -16,4 +16,3 @@ Panasonic PT-AX200E LCD projector. 2 x HDMI IN, component video input, a dedicat
 
 
 
-### Capacity and Restrictions:

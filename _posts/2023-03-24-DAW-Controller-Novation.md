@@ -16,4 +16,3 @@ Novation Launch Control XL MK2. 24 x Rotary controls with LED lighting. 8 x Fade
 
 
 
-### Capacity and Restrictions:

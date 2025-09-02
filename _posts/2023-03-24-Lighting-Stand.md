@@ -16,4 +16,3 @@ https://images.static-thomann.de/pics/atg/atgdata/document/manual/186230_c_18623
 
 
 
-### Capacity and Restrictions:

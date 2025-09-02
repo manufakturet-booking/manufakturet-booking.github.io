@@ -18,4 +18,3 @@ EcoFlow RIVER 3: 245Wh LiFePO4 battery, 300W AC output (600W surge), 60-min fast
 
 
 
-### Capacity and Restrictions:

@@ -16,4 +16,3 @@ Insta360 X4. 8K 360 action camera. 8K30fps high quality and detail. 5.7K60fps vi
 
 
 
-### Capacity and Restrictions:

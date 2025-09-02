@@ -20,4 +20,3 @@ Nanlite, Halo 16 LED Ringlight Selfie kit. (3200-5600K)
 
 
 
-### Capacity and Restrictions:

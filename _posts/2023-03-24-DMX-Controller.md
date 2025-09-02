@@ -17,4 +17,3 @@ Stairville DDC-12, 12 Channel mixer - great simple controller for a 12-channel r
 
 
 
-### Capacity and Restrictions:

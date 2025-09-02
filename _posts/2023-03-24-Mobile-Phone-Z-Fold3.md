@@ -16,4 +16,3 @@ Samsung Galaxy Z Fold3: 7.6" foldable AMOLED (120Hz), 6.2" cover display, Snapdr
 
 
 
-### Capacity and Restrictions:

@@ -17,4 +17,3 @@ LS-150 Luminance Meter
 
 
 
-### Capacity and Restrictions:

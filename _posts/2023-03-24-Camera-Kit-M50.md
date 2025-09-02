@@ -24,4 +24,3 @@ Canon M50 MKII, Small camera with Zoom lens. Ideal for Vlogging and Blogging etc
 
 
 
-### Capacity and Restrictions:

@@ -18,4 +18,3 @@ The Exterior 400 Image Projector is for integrating textures, patterns and graph
 
 
 
-### Capacity and Restrictions:

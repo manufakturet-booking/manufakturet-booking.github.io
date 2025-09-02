@@ -21,4 +21,3 @@ Contact: Cumhur Erkut. For use only in the Augmented Performance Lab. The Jetson
 
 
 
-### Capacity and Restrictions:

@@ -21,4 +21,3 @@ ZOOM APH-1n H1n Handy Recorder Accessory Package
 
 
 
-### Capacity and Restrictions:

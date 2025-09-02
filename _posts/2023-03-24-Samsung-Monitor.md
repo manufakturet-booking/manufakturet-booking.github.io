@@ -16,4 +16,3 @@ Samsung 205BW (20in, 1680x1050)
 
 
 
-### Capacity and Restrictions:
