@@ -1,6 +1,6 @@
 ---
 category:  ld
-tags: Measuring-Tools
+tags: Measurement-Instruments
 quantity: 3
 maxLoan: 1 week
 aaunumbers:  AAU68526 AAU69020 IMI00752

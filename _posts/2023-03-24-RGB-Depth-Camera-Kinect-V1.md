@@ -1,11 +1,11 @@
 ---
 category:  create
-tags: Sensor
+tags: Gaze-&-Motion-Tracking
 quantity: 3
 maxLoan: End of Semester
 aaunumbers:  IMI01062 IMI01065 AAUX24014
 ---
-![RGB Depth Camera V1](/assets/images/equip/kinectV1.jpg)
+![RGB Depth Camera Kinect V1](/assets/images/equip/kinectV1.jpg)
 
 Kinect V1. RGB Camera and Depth Camera - Typically used in projects involving 3D motion tracking
 ## KIT INCLUDES:

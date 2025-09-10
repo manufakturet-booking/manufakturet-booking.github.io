@@ -1,6 +1,6 @@
 ---
 category:  staff
-tags: VR-Headset
+tags: Tech Immersive
 quantity: 1
 maxLoan: 1 week
 aaunumbers:  AAU25046

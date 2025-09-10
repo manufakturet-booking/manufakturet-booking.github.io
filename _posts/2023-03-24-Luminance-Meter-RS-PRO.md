@@ -1,6 +1,6 @@
 ---
 category:  ld
-tags: Measuring-Tools
+tags: Measurement-Instruments
 quantity: 2
 maxLoan: 1 Week
 aaunumbers:  AAUX24017 AAUX24016

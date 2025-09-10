@@ -1,6 +1,6 @@
 ---
 category:  create
-tags: VR-Headset
+tags: Tech Immersive
 quantity: 1
 maxLoan: 1 week
 aaunumbers:  AAUKIT25003

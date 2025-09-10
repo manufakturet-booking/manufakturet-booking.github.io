@@ -1,11 +1,11 @@
 ---
 category:  create
-tags: Sensor
+tags: Gaze-&-Motion-Tracking
 quantity: 2
 maxLoan: End of Semester
 aaunumbers:  AAU805245 AAU805244
 ---
-![RGB Depth Camera V2](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Xbox-One-Kinect.jpg/440px-Xbox-One-Kinect.jpg)
+![RGB Depth Camera Kinect V2](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Xbox-One-Kinect.jpg/440px-Xbox-One-Kinect.jpg)
 
 Kinect V2. RGB Camera and Depth Camera - Typically used in projects involving 3D motion tracking
 ## KIT INCLUDES:

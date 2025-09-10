@@ -1,6 +1,6 @@
 ---
 category:  smile
-tags: Phone
+tags: Mobile-Phones-&-Tablets
 quantity: 1
 maxLoan: 2 weeks
 aaunumbers:  AAU8053287

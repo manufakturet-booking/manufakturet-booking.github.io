@@ -1,6 +1,6 @@
 ---
 category:  create
-tags: Controller
+tags: Game-Controller
 quantity: 1
 maxLoan: 1 week
 aaunumbers:  AAUX25072

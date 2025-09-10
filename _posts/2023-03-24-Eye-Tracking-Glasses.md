@@ -1,6 +1,6 @@
 ---
 category:  staff
-tags: Sensor
+tags: Gaze-&-Motion-Tracking
 quantity: 1
 maxLoan: 1 week
 aaunumbers:  AAUX25002

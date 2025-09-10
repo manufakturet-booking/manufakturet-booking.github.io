@@ -1,6 +1,6 @@
 ---
 category:  create
-tags: Measuring-Tools
+tags: Measurement-Instruments
 quantity: 1
 maxLoan: 1 week
 aaunumbers:  AAUX24062

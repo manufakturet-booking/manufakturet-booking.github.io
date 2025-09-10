@@ -1,6 +1,6 @@
 ---
 category:  create
-tags: Video-Camera
+tags: Camera-&-Video-Camera
 quantity: 1
 maxLoan: 1 week
 aaunumbers:  AAUX24020

@@ -1,6 +1,6 @@
 ---
 category:  smile
-tags: Sensor
+tags: Gaze-&-Motion-Tracking
 quantity: 5
 maxLoan: End of Semester
 aaunumbers:  AAU804702 AAU804701 AAU804700 AAU804697 AAU804696

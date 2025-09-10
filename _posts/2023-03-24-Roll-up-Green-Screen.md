@@ -1,6 +1,6 @@
 ---
 category:  create
-tags: Stage-Equipment
+tags: Media-Production-Equipment
 quantity: 1
 maxLoan: 1 week
 aaunumbers:  AAUX24061

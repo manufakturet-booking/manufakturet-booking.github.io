@@ -1,6 +1,6 @@
 ---
 category:  smile
-tags: Mobile-Phone
+tags: Mobile-Phones-&-Tablets
 quantity: 8
 maxLoan: 1 week
 aaunumbers:  AAUX24046 AAUX24049 AAUX25065 AAUX25066 AAUX25067 AAUX25068 AAUX25069 AAUX25070
