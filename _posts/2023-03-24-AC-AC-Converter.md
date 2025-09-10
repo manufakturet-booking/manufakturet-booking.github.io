@@ -1,6 +1,6 @@
 ---
 category:  staff
-tags: Supplies Power Batteries &
+tags: Batteries-&-Power-Supplies
 quantity: 1
 maxLoan: 1 week
 aaunumbers:  AAU804684

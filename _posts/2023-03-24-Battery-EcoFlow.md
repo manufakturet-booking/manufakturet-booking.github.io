@@ -1,6 +1,6 @@
 ---
 category:  ld
-tags: Supplies Power Batteries &
+tags: Batteries-&-Power-Supplies
 quantity: 2
 maxLoan: 1 week
 aaunumbers:  AAUX25015 AAUX25016

@@ -1,6 +1,6 @@
 ---
 category:  create
-tags: Production Media Equipment
+tags: Media-Production-Equipment
 quantity: 2
 maxLoan: 2 Weeks
 aaunumbers:  AAUKIT25005 AAUKIT25004

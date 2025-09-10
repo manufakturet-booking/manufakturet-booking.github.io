@@ -1,6 +1,6 @@
 ---
 category:  smile
-tags: Wireless Audio
+tags: Wireless-Audio
 quantity: 1
 maxLoan: 2 weeks
 aaunumbers:  AAU805497
