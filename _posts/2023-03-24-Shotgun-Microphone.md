@@ -5,14 +5,14 @@ quantity: 1
 maxLoan: 1 week
 aaunumbers:  AAUX25056
 ---
-![Shotgun Microphone](https://edge.rode.com/images/products/variants/57/R
+![Shotgun Microphone](/assets/images/equip/shotgun.png)
 
-RØDE NTG-3 Microphone - a broadcast-quality shotgun microphone built for the most demanding productions that require high-resolution audio. Utilizing RF-bias technology, it offers excellent resistance to moisture and condensation, making it ideal for outdoor use in challenging weather conditions.
+The NTG3 offers broadcast-quality audio with forgiving pickup and excellent off-axis rejection, making it ideal for students working in unpredictable environments or needing to capture clean dialogue on location.<br>It can be connected via XLR to most of our Zoom field recorders and video cameras.
 ## KIT INCLUDES:
 -  NTG3 
--  RM5  
+-  Mic Clip  
 -  Windshield  
--  Rycote Softie
+-  Soft Bag
 
 ## Drivers / Manuals
 [Info](https://rode.com/en/microphones/shotgun/ntg3?variant_sku=NTG3)
