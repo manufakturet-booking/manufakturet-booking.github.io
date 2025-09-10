@@ -1,6 +1,6 @@
 ---
 category:  create
-tags: Tech Immersive
+tags: Immersive-Tech
 quantity: 2
 maxLoan: 2 weeks
 aaunumbers:  AAU805474 AAU805473

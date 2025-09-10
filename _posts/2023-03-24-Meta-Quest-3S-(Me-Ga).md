@@ -1,6 +1,6 @@
 ---
 category:  staff
-tags: Tech Immersive
+tags: Immersive-Tech
 quantity: 1
 maxLoan: 1 week
 aaunumbers:  AAU25046
