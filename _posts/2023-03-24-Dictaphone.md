@@ -1,13 +1,13 @@
 ---
 category:  create
-tags: Portable-Recorder
+tags: Dictaphone
 quantity: 1
 maxLoan: 1 Month
 aaunumbers:  AAU805461
 ---
 ![Dictaphone](/assets/images/equip/olympusD650.png)
 
-Compact audio recorder with stereo microphone
+Compact audio recorder with stereo microphone and pedal control
 ## KIT INCLUDES:
 -  Audio Recorder 
 -  Pedal Control

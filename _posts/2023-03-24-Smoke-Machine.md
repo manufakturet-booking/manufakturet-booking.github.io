@@ -1,6 +1,6 @@
 ---
 category:  create
-tags: Stage-Equipment
+tags: Special-Effects-Device
 quantity: 1
 maxLoan: 1 week
 aaunumbers:  AAUTemp1
