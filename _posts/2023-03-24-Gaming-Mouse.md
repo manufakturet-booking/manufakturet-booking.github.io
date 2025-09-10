@@ -1,6 +1,6 @@
 ---
 category:  create
-tags: Computer-Peripherals
+tags: Mobile-&-Computer-Peripherals
 quantity: 3
 maxLoan: 1 week
 aaunumbers:  AAUCPH0654 AAUCPH0656 AAUCPH0658
@@ -16,3 +16,4 @@ Mionix GQ gaming mouse with built-in heart rate and galvanic skin response senso
 
 
 
+### Capacity and Restrictions:

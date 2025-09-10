@@ -19,3 +19,4 @@ RØDE NTG-3 Microphone - a broadcast-quality shotgun microphone built for the mo
 
 
 
+### Capacity and Restrictions:

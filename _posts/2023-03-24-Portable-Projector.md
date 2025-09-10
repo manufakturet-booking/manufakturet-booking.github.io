@@ -3,7 +3,7 @@ category:  create
 tags: Projector
 quantity: 4
 maxLoan: 2 weeks
-aaunumbers:  AAUX24070 AAUX24071 AAUX24072 AAUX24073
+aaunumbers:  AAUX24071 AAUX24072 AAUX24073 AAUX24070
 ---
 ![Portable-Projector](https://m.media-amazon.com/images/I/71u4IRKLTFL.jpg)
 
@@ -20,3 +20,4 @@ Samsung The Freestyle 2nd Gen Projector: Portable 1080p smart projector with aut
 
 
 
+### Capacity and Restrictions:

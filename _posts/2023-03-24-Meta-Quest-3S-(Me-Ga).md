@@ -19,3 +19,4 @@ Meta Quest 3S: Snapdragon XR2 Gen 2, 8GB RAM, 128/256GB storage, 1832×1920 LCD 
 
 
 
+### Capacity and Restrictions:

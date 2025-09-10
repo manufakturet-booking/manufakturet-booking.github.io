@@ -1,6 +1,6 @@
 ---
 category:  create
-tags: Monitor
+tags: Mobile-&-Computer-Peripherals
 quantity: 1
 maxLoan: 2 weeks
 aaunumbers:  AAU71758
@@ -12,7 +12,8 @@ The Samsung 205BW is a computer monitor from around 2007 with a slightly taller 
 -  Monitor
 
 ## Drivers / Manuals
-[]()
+[Manual](https://archive.org/download/manualsonline-id-6b7197f4-fa8b-2c44-a18c-1a3e949266f9/6b7197f4-fa8b-2c44-a18c-1a3e949266f9.pdf)
 
 
 
+### Capacity and Restrictions:

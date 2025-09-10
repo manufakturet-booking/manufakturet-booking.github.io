@@ -16,3 +16,4 @@ Hagner EC1. A small luxmeter for accurate measurement of illuminance over a rang
 
 
 
+### Capacity and Restrictions:

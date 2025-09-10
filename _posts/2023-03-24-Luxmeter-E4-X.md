@@ -16,3 +16,4 @@ The Hagner E4-X Digital Luxmeter is a precision instrument for measuring illumin
 
 
 
+### Capacity and Restrictions:

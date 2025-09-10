@@ -3,7 +3,7 @@ category:  staff
 tags: VR-Headset
 quantity: 12
 maxLoan: 1 week
-aaunumbers:  AAUX25005 AAUX25006 AAUX25007 AAUX25008 AAUX25009 AAUX25010 AAUX25011 AAUX25012 AAUX25013 AAUX25014 AAU25046 AAU25047
+aaunumbers:  AAUX25005 AAUX25006 AAUX25007 AAUX25008 AAUX25009 AAUX25010 AAUX25011 AAUX25012 AAUX25013 AAUX25014 AAU25047 AAU25046
 ---
 ![Meta Quest 3S](https://www.uploadvr.com/content/images/size/w1200/2024/09/Quest-3S-UploadVR-hero.png)
 
@@ -19,3 +19,4 @@ Meta Quest 3S: Snapdragon XR2 Gen 2, 8GB RAM, 128/256GB storage, 1832×1920 LCD 
 
 
 
+### Capacity and Restrictions:

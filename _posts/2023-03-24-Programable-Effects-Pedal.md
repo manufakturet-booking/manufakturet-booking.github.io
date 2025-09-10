@@ -17,3 +17,4 @@ Effects pedal module for Daisy Seed - Stereo audio 1/4" inputs and outputs - Exp
 
 
 
+### Capacity and Restrictions:

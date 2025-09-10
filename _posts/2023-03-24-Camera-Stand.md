@@ -3,7 +3,7 @@ category:  create
 tags: Camera-Accessories
 quantity: 4
 maxLoan: 2 Weeks
-aaunumbers:  AAUX24013 AAUX24012 AAU69024 AAU69023
+aaunumbers:  AAU69024 AAU69023 AAUX24013 AAUX24012
 ---
 ![Camera Stand](https://camrent.lt/wp-content/uploads/2023/01/CAMRENT_Manfrotto-055prob-stovasfoto-galva-486rc2_4.jpg)
 
@@ -14,7 +14,8 @@ Sturdy aluminum tripod made by Manfrotto. Max height: 178.5cm (with center colum
 ## Drivers / Manuals
 [Manual](https://www.manua.ls/manfrotto/055xprob/manual)
 
-[manual](https://www.manua.ls/manfrotto/055xprob/manual)
+[]()
 
 
 
+### Capacity and Restrictions:

@@ -19,3 +19,4 @@ Stairville 5x5 (25 x 3W LEDs - warm white) - master/slave music control - Dimens
 
 
 
+### Capacity and Restrictions:

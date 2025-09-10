@@ -18,3 +18,4 @@ The Samsung 360R5 (Radiant360 R5) is more than just a Bluetooth speaker — it
 
 
 
+### Capacity and Restrictions:

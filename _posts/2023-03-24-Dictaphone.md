@@ -17,3 +17,4 @@ Compact audio recorder with stereo microphone
 
 
 
+### Capacity and Restrictions:

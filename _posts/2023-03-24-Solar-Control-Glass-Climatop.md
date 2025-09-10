@@ -16,3 +16,4 @@ Saint-Gobain Glass. Climatop Max. Maximum energy-saving glass
 
 
 
+### Capacity and Restrictions:

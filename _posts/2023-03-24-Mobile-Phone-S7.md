@@ -13,3 +13,4 @@ Samsung S7 (2016) 5.1″ QHD display, Snapdragon 820/Exynos 8890 processor, 4 GB
 
 ## Drivers / Manuals
 [Manual](https://ss7.vzw.com/is/content/VerizonWireless/Devices/Samsung/UserGuides/Samsung
+### Capacity and Restrictions:

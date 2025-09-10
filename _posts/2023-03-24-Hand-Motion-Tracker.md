@@ -16,3 +16,4 @@ Leap Motion. Hand and finger motion tracking
 
 
 
+### Capacity and Restrictions:

@@ -16,3 +16,4 @@ Cameo 12 by 12W RGBW Leds with UV - Flicker Free with a refresh rate of 3000Hz -
 
 
 
+### Capacity and Restrictions:

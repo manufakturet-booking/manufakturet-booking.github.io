@@ -12,7 +12,10 @@ Light Tripod with T-bar Height (m) 1,75 m – 3,10 m
 -  Light Stand
 
 ## Drivers / Manuals
-https://images.static-thomann.de/pics/atg/atgdata/document/manual/186230_c_186230_v3_en_online.pdf[manual](https://images.static-thomann.de/pics/atg/atgdata/document/manual/186230_c_186230_v3_en_online.pdf)
+[Manual](https://images.static-thomann.de/pics/atg/atgdata/document/manual/186230_c_186230_v3_en_online.pdf)
+
+[manual](https://images.static-thomann.de/pics/atg/atgdata/document/manual/186230_c_186230_v3_en_online.pdf)
 
 
 
+### Capacity and Restrictions:

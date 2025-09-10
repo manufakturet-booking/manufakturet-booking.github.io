@@ -16,3 +16,4 @@ Stairville 12 by 8W RGBW Parbolic lamp for outdoor use - IP65 (Dust tight, resis
 
 
 
+### Capacity and Restrictions:

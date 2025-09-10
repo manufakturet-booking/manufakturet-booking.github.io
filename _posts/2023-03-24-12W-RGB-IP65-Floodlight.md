@@ -17,3 +17,4 @@ Stairville LED Power-Flood 30W WW IP65 offering high luminosity and energy effic
 
 
 
+### Capacity and Restrictions:

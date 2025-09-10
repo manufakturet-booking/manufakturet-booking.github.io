@@ -1,11 +1,11 @@
 ---
 category:  create
-tags: Audio-Recorder
-quantity: 2
+tags: Media-Production-Equipment
+quantity: 1
 maxLoan: 2 weeks
-aaunumbers:  AAU81565 AAU84206
+aaunumbers:  AAU81565
 ---
-![Field Recorder Zoom H4](https://www.zoom.co.jp/sites/default/files/products/product-shots/zoomH4_HandyRecorder_0.png)
+![Zoom H4 Field Recorder](https://www.zoom.co.jp/sites/default/files/products/product-shots/zoomH4_HandyRecorder_0.png)
 
 The Zoom H4 is a portable audio recorder that captures high-quality stereo sound using built-in X/Y microphones and supports external mic or line inputs via XLR/TRS combo jacks. It's widely used by students, musicians, and filmmakers for field recording, podcasting, and live audio capture.
 ## KIT INCLUDES:
@@ -15,7 +15,6 @@ The Zoom H4 is a portable audio recorder that captures high-quality stereo sou
 ## Drivers / Manuals
 [Manual](https://zoomcorp.com/media/documents/E_H4.pdf)
 
-[Manual](https://zoomcorp.com/media/documents/H4n-manual.pdf)
 
 
-
+### Capacity and Restrictions:

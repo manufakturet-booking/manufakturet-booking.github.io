@@ -16,3 +16,4 @@ Flying Tiger Cph, Dancing Mat for up to two players
 
 
 
+### Capacity and Restrictions:

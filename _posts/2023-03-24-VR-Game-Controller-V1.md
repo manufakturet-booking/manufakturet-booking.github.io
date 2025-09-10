@@ -17,3 +17,4 @@ Oculus Touch V 1. Hand held game controller for Oculus Rift CV1
 
 
 
+### Capacity and Restrictions:

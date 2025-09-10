@@ -19,3 +19,4 @@ The Kapego LED MixIt Set is a siliconized 4m long strip equipped with 480 LEDs, 
 
 
 
+### Capacity and Restrictions:
