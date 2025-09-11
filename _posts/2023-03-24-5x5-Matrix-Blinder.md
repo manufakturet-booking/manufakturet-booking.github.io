@@ -7,7 +7,7 @@ aaunumbers:  AAU805499
 ---
 ![5x5 Matrix Blinder](/assets/images/equip/5x5Stairville.png)
 
-Stairville 5x5 (25 x 3W LEDs - warm white) - master/slave music control - Dimensions (W x H x D): 450 x 450 x 115 mm - Weight: 10.2 kg
+Stairville 5x5 Matrix Blinder with 25 warm white LEDs arranged in a 5x5 grid.<br>Designed for blinder effects, pixel mapping, and dynamic stage visuals.<br>Offers DMX control with multiple channel modes, standalone operation, and built-in programs.<br>Suitable for stage setups and lighting design exercises focused on intensity, rhythm, and visual impact.
 ## KIT INCLUDES:
 -  5 x 5 Blinder
 - Manual
