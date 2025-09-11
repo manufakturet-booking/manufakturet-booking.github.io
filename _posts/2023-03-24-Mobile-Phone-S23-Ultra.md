@@ -16,4 +16,3 @@ Samsung Galaxy S23 Ultra: 6.8" QHD+ Dynamic AMOLED 2X 120Hz, Snapdragon 8 Gen 2 
 
 
 
-### Capacity and Restrictions:

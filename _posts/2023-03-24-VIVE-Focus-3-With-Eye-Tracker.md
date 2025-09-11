@@ -22,4 +22,3 @@ VIVE Focus 3: 2.88" LCD panels (2448 x 2448 per eye), 90Hz refresh rate, 120˚ F
 
 
 
-### Capacity and Restrictions:

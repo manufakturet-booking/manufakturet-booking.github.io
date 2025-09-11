@@ -16,4 +16,3 @@ Samsung Galaxy S23+: 6.6" FHD+ Dynamic AMOLED 2X 120Hz, Snapdragon 8 Gen 2 for G
 
 
 
-### Capacity and Restrictions:

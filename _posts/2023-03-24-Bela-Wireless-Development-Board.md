@@ -20,4 +20,3 @@ Bela Wireless. Wireless version of the low latency Bela cape - - 8 16-bit analog
 
 
 
-### Capacity and Restrictions:

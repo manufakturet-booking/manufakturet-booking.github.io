@@ -22,4 +22,3 @@ Dedolight DLHM4-300E Kit – Compact tungsten lighting kit with focusable beam a
 
 
 
-### Capacity and Restrictions:

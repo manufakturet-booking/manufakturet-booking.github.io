@@ -16,4 +16,3 @@ Chroma Key Background
 
 
 
-### Capacity and Restrictions:

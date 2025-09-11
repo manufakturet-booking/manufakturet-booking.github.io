@@ -18,4 +18,3 @@ Showtec Galactic TXT Laser for displaying text 3DMX controllable
 
 
 
-### Capacity and Restrictions:

@@ -20,4 +20,3 @@ Contact: Rolf Nordahl.<br>The podcast room can be used by all students/groups an
 
 
 
-### Capacity and Restrictions:

@@ -21,4 +21,3 @@ Oculus Rift CV1. VR headset with outside in tracking and in-built headphones
 
 
 
-### Capacity and Restrictions:

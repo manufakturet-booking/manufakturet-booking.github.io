@@ -16,4 +16,3 @@ Sanyo PLC XU106 Projector , 4,500 Lumens, XGA
 
 
 
-### Capacity and Restrictions:

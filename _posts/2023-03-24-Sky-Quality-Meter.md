@@ -18,4 +18,3 @@ Unihedron. The Sky Quality Meter is a compact (3.8 x 2.4 x 1 in) handheld device
 
 
 
-### Capacity and Restrictions:

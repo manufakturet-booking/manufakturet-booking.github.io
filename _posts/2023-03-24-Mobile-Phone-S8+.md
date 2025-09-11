@@ -21,4 +21,3 @@ S8+. Android Phone, released 2017 with Android 7 - Make sure you log out of all 
 
 
 
-### Capacity and Restrictions:

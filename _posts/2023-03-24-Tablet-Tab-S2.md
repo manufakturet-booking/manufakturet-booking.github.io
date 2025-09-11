@@ -16,4 +16,3 @@ Samsung Galaxy Tab S2 (9,7" sAMOLED, Wi-Fi) tablet, android.
 
 
 
-### Capacity and Restrictions:

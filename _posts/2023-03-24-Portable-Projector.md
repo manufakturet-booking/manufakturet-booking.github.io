@@ -20,4 +20,3 @@ Samsung The Freestyle 2nd Gen Projector: Portable 1080p smart projector with aut
 
 
 
-### Capacity and Restrictions:

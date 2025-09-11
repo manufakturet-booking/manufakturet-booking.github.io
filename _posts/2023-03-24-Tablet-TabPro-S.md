@@ -16,4 +16,3 @@ Samsung Galaxy ProTab S, Intel® Core™ m3-6Y30 Processor, Wi-Fi, Win10
 
 
 
-### Capacity and Restrictions:

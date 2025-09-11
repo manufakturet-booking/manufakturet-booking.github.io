@@ -16,4 +16,3 @@ Mipro Wireless Microphone ACT-52H. Handheld UHF wireless microphone transmitter 
 
 
 
-### Capacity and Restrictions:
