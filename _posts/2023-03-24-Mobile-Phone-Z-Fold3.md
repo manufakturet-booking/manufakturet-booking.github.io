@@ -7,7 +7,7 @@ aaunumbers:  AAUX24032 AAUX24033 AAUX24034 AAUX24035
 ---
 ![Mobile Phone Z Fold3](https://fdn2.gsmarena.com/vv/pics/samsung/galaxy-z-fold-3-1.jpg)
 
-Samsung Galaxy Z Fold3: 7.6" foldable AMOLED (120Hz), 6.2" cover display, Snapdragon 888, 12GB RAM, up to 512GB storage, triple 12MP camera, 4400mAh, S Pen support, IPX8.  Make sure you log out of all services before returning this item
+Foldable smartphone featuring a 7.6" main display and 6.2" cover screen. Supports S Pen input on the inner display and includes under-display camera technology. Built with water-resistant (IPX8) construction and Armor Aluminum frame. Suitable for multitasking, app testing, and hybrid workflows where both tablet and phone formats are beneficial. Includes triple rear cameras, stereo speakers, and 5G connectivity.
 ## KIT INCLUDES:
 -  Phone
 
