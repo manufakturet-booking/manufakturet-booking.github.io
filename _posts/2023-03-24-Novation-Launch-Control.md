@@ -1,6 +1,6 @@
 ---
 category:  create
-tags: MIDI Devices Control &
+tags: MIDI-&-Control Devices
 quantity: 1
 maxLoan: 2 Months
 aaunumbers:  AAU805472
