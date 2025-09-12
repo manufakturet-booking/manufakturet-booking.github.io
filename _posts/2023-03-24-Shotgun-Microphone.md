@@ -19,3 +19,4 @@ The NTG3 offers broadcast-quality audio with forgiving pickup and excellent off-
 
 
 
+### Capacity and Restrictions:

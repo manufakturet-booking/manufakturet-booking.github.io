@@ -17,3 +17,4 @@ Kinect V1. RGB Camera and Depth Camera - Typically used in projects involving 3D
 
 
 
+### Capacity and Restrictions:

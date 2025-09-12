@@ -16,3 +16,4 @@ The Sekonic Flashmate L-308S is a compact, handheld digital light meter desi
 
 
 
+### Capacity and Restrictions:

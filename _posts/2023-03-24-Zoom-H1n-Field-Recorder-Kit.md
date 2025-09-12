@@ -18,7 +18,8 @@ Zoom H1n Portable Audio  Recorder Kit – Compact stereo audio recorder with bu
 -  Mic clip adapter
 
 ## Drivers / Manuals
-[Manual](https://zoomcorp.com/en/jp/accessories/accessory-packs-and-windscreens/aph-1n/)
+[Product Detail Page](https://zoomcorp.com/en/us/handheld-recorders/handheld-recorders/h1n-handy-recorder/h1n-support/)
 
 
 
+### Capacity and Restrictions:

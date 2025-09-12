@@ -16,3 +16,4 @@ ViewSonic PS502W: WXGA short throw projector with 3800 lumens, 22,000:1 contrast
 
 
 
+### Capacity and Restrictions:

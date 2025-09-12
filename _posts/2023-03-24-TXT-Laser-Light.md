@@ -18,3 +18,4 @@ RGB laser projector with 300 mW output for displaying animated text, images, and
 
 
 
+### Capacity and Restrictions:

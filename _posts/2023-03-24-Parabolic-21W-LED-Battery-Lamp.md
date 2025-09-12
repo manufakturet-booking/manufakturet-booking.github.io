@@ -16,3 +16,4 @@ The Ultra Go Par7X is a battery-powered RGBW LED fixture with 7 x 4W LEDs and wi
 
 
 
+### Capacity and Restrictions:

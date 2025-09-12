@@ -23,3 +23,4 @@ Zoom Q8 Wide angle video camera with 4 track recording capability and built in X
 
 
 
+### Capacity and Restrictions:

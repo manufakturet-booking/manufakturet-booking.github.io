@@ -16,3 +16,4 @@ Samsung Galaxy S22 Ultra: 6.8" QHD+ 120Hz, Snapdragon 8 Gen 1/Exynos 2200, up to
 
 
 
+### Capacity and Restrictions:

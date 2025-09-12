@@ -12,7 +12,8 @@ Zoom H1n. Portable field recorder with X-Y Condenser Microphones - Adjustable pl
 -  Portable Field Recorder
 
 ## Drivers / Manuals
-[documents & software](https://zoomcorp.com/en/us/handheld-recorders/handheld-recorders/h1n-handy-recorder/h1n-support/)
+[Product Detail Page](https://zoomcorp.com/en/us/handheld-recorders/handheld-recorders/h1n-handy-recorder/h1n-support/)
 
 
 
+### Capacity and Restrictions:

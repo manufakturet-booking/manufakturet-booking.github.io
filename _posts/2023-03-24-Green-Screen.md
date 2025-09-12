@@ -1,13 +1,13 @@
 ---
 category:  create
 tags: Media-Production-Equipment
-quantity: 3
+quantity: 2
 maxLoan: 1 week
-aaunumbers:  AAUX24065 AAUX25055 AAUX24061
+aaunumbers:  AAUX25055 AAUX24061
 ---
-![Green Screen](https://www.terralec.co.uk/Portals/54/product/images/164804_GREENSCREEN1.jpg)
+![Green Screen](/assets/images/equip/green.png)
 
-Chroma Key Background
+A non-reflective green fabric backdrop used for chroma key compositing in video production, virtual sets, and interactive media. Compatible with most video editing and live streaming software, it enables background replacement and layering of digital content.
 ## KIT INCLUDES:
 -  Green Screen
 
@@ -16,3 +16,4 @@ Chroma Key Background
 
 
 
+### Capacity and Restrictions:

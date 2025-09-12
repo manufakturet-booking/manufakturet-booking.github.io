@@ -18,3 +18,4 @@ Compact RGBW LED spotlight with a 15W 4-in-1 LED and narrow beam angle.<br>Inclu
 
 
 
+### Capacity and Restrictions:

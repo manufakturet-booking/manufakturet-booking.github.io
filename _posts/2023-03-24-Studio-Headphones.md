@@ -16,3 +16,4 @@ Beyerdynamic DT 770 PRO Reference headphones for control and monitoring purpose.
 
 
 
+### Capacity and Restrictions:

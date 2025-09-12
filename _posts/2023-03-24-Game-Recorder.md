@@ -16,3 +16,4 @@ The Elgato Game Capture is a compact external device used to record and strea
 
 
 
+### Capacity and Restrictions:

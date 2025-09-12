@@ -13,7 +13,8 @@ The Zoom H4n is an upgraded versiopn of the H4n. A compact and versatile portabl
 - Protective Case
 
 ## Drivers / Manuals
-[Software & Documents](https://zoomcorp.com/en/de/handheld-recorders/handheld-recorders/h4n-pro/h4n-pro-support/)
+[Product Detail Page](https://zoomcorp.com/en/de/handheld-recorders/handheld-recorders/h4n-pro/h4n-pro-support/)
 
 
 
+### Capacity and Restrictions:

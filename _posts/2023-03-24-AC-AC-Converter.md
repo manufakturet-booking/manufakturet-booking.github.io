@@ -16,3 +16,4 @@ Contact: Lab Staff. <br>240 V to 2 x 110V For equipment designed for American po
 
 
 
+### Capacity and Restrictions:

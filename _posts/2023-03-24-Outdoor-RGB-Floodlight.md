@@ -17,3 +17,4 @@ Outdoor-rated LED floodlight with a 30W warm white COB LED.<br>Designed for arch
 
 
 
+### Capacity and Restrictions:

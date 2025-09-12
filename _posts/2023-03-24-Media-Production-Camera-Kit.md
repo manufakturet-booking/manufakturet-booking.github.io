@@ -5,7 +5,7 @@ quantity: 2
 maxLoan: 2 Weeks
 aaunumbers:  AAUKIT25005 AAUKIT25004
 ---
-![Media Production Kit](/assets/images/equip/Canon_EOS_M50_black_06.jpg)
+![Media Production Camera Kit](/assets/images/equip/Canon_EOS_M50_black_06.jpg)
 
 Versatile kit for video and audio recording, suitable for vlogging, interviews, podcasting, and student media projects. Supports good quality image and sound capture in a compact, portable setup.
 ## KIT INCLUDES:
@@ -26,3 +26,4 @@ Versatile kit for video and audio recording, suitable for vlogging, interviews, 
 
 
 
+### Capacity and Restrictions:

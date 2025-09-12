@@ -16,3 +16,4 @@ Projector, Epson EMP-74L, 4,200 lumens White Light and Colour Light Output. Adva
 
 
 
+### Capacity and Restrictions:

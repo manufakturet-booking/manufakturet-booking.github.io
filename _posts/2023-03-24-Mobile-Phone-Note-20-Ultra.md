@@ -16,3 +16,4 @@ Samsung Galaxy Note20 Ultra: 6.9" QHD+ 120Hz, Snapdragon 865+/Exynos 990, up to 
 
 
 
+### Capacity and Restrictions:

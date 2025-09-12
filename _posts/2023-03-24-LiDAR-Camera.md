@@ -16,3 +16,4 @@ Intel® RealSense™ LiDAR Camera L515. Volumetric measurements of objects. Dept
 
 
 
+### Capacity and Restrictions:

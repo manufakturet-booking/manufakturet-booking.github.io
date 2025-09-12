@@ -16,3 +16,4 @@ Light stands for lights indoor and out door filming/shooting.
 
 
 
+### Capacity and Restrictions:

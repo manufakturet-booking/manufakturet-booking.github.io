@@ -22,3 +22,4 @@ Zoom Q8n-4K. Light weight video recorder -  X-Y Condenser Microphones - XLR inpu
 
 
 
+### Capacity and Restrictions:

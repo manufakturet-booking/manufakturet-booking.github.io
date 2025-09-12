@@ -16,3 +16,4 @@ Samsung Galaxy S21 Ultra: 6.8" QHD+ 120Hz, Exynos 2100/Snapdragon 888, up to 16G
 
 
 
+### Capacity and Restrictions:

@@ -16,3 +16,4 @@ A 1-meter RGB LED light bar with 18 bright TRI-color LEDs for smooth color mixin
 
 
 
+### Capacity and Restrictions:

@@ -16,3 +16,4 @@ Samsung Galaxy S23: 6.1" FHD+ 120Hz, Snapdragon 8 Gen 2 (AI powered), 8GB RAM (u
 
 
 
+### Capacity and Restrictions:
