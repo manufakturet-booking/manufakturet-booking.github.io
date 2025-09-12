@@ -7,12 +7,12 @@ aaunumbers:  AAU805298 AAU805299
 ---
 ![Tablet TabPro S](https://images.harlander.com/artikel/1000x1000/samsung-galaxy-tabpro-s-schwarz-windows10-2.jpg)
 
-Samsung Galaxy ProTab S, Intel® Core™ m3-6Y30 Processor, Wi-Fi, Win10
+The Samsung Galaxy TabPro S is a Windows-based tablet with a 12" Super AMOLED display, detachable keyboard, and USB-C connectivity.<br>It runs full desktop applications and is suitable for mobile productivity, media work, and interactive prototyping.<br>Its slim design and touchscreen interface make it useful for presentations and creative coding projects.<br>Win10.
 ## KIT INCLUDES:
 -  Tablet
 
 ## Drivers / Manuals
-[Manual](https://www.samsung.com/us/support/computing/computing-accessories/?modelCode=SM-W703NZKAXAR-R)
+[Manuals, drivers, how to videos and software](https://www.samsung.com/us/support/computing/computing-accessories/?modelCode=SM-W703NZKAXAR-R)
 
 
 
