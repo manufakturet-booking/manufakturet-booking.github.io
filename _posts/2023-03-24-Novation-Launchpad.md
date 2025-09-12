@@ -1,6 +1,6 @@
 ---
 category:  create
-tags: MIDI-&-Control Devices
+tags: MIDI-&-Control-Devices
 quantity: 1
 maxLoan: End of Semester
 aaunumbers:  AAUCPH0367
