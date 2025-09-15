@@ -1,6 +1,6 @@
 ---
 category:  smile
-tags: Mobile-Phones-&-Tablets
+tags: error
 quantity: 4
 maxLoan: 1 week
 aaunumbers:  AAUX24051 AAUX24052 AAUX24053 AAUX24054
@@ -12,7 +12,7 @@ Samsung Galaxy Note20 Ultra: 6.9" QHD+ 120Hz, Snapdragon 865+/Exynos 990, up to 
 -  Phone
 
 ## Drivers / Manuals
-[Manual](https://www.samsung.com/us/business/support/owners/product/galaxy-note20-ultra-5g-t-mobile/)
+[Product Detail Page](https://www.samsung.com/us/business/support/owners/product/galaxy-note20-ultra-5g-t-mobile/)
 
 
 
