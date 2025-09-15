@@ -1,6 +1,6 @@
 ---
 category:  smile
-tags: error
+tags: Mobile-Phones-&-Tablets
 quantity: 1
 maxLoan: 1 week
 aaunumbers:  AAU805394
@@ -15,7 +15,7 @@ Large-format smartphone featuring a 6.3" QHD+ Super AMOLED display with curved e
 -  Box
 
 ## Drivers / Manuals
-[Product Detail Page](https://www.samsung.com/dk/support/model/SM-N950FZKDNEE/)
+[Product Detail Page]()
 
 
 

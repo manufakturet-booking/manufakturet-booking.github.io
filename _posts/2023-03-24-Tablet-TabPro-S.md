@@ -1,9 +1,9 @@
 ---
 category:  smile
-tags: Mobile-Phones-&-Tablets
-quantity: 2
+tags: error Mobile-Phones-&-Tablets
+quantity: 4
 maxLoan: 1 week
-aaunumbers:  AAU805298 AAU805299
+aaunumbers:  AAU802398 AAU802399 AAU805298 AAU805299
 ---
 ![Tablet TabPro S](https://images.harlander.com/artikel/1000x1000/samsung-galaxy-tabpro-s-schwarz-windows10-2.jpg)
 

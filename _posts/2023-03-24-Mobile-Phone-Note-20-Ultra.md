@@ -7,7 +7,7 @@ aaunumbers:  AAUX24051 AAUX24052 AAUX24053 AAUX24054
 ---
 ![Mobile Phone Note 20 Ultra](https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note20-ultra-2.jpg)
 
-Samsung Galaxy Note20 Ultra: 6.9" QHD+ 120Hz, Snapdragon 865+/Exynos 990, up to 12GB RAM & 512GB, 108MP triple camera, 4500mAh, built-in S Pen, IP68.  Make sure you log out of all services before returning this item
+We still don't know which one this is
 ## KIT INCLUDES:
 -  Phone
 
