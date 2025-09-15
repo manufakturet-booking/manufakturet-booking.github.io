@@ -12,7 +12,7 @@ The Samsung Galaxy TabPro S is a Windows-based tablet with a 12" Super AMOLED di
 -  Tablet
 
 ## Drivers / Manuals
-[Manuals, drivers, how to videos and software](https://www.samsung.com/us/support/computing/computing-accessories/?modelCode=SM-W703NZKAXAR-R)
+[Product Detail Page](https://www.samsung.com/us/support/computing/computing-accessories/?modelCode=SM-W703NZKAXAR-R)
 
 
 
