@@ -12,5 +12,8 @@ PROLED DMX PWM DIMMER 4-CHANNEL LED dimmer for four independent LED dimmer circu
 -  Dimmer
 
 ## Drivers / Manuals
-[Getting Started](https://www.proled.com/fileadmin/files/com/downloads/manual/4_4_pwm_dimmers_controls/PROLED
+[Product Detail Page](https://www.proled.com/en-DE/products/controls-power-supplies-accessories/pwm-dimmers-controls/dmx-pwm-dimmer-4-channel/)
+
+
+
 ### Capacity and Restrictions:

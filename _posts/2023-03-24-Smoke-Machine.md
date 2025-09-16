@@ -1,6 +1,6 @@
 ---
 category:  create
-tags: Special-Effects-Device
+tags: Media-Production-Equipment
 quantity: 1
 maxLoan: 1 week
 aaunumbers:  AAUTemp1

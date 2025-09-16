@@ -1,6 +1,6 @@
 ---
 category:  staff
-tags: Lighting-Accessories
+tags: Measurement-Instruments
 quantity: 1
 maxLoan: 1 week
 aaunumbers:  AAUX25017
@@ -14,7 +14,7 @@ Unihedron. The Sky Quality Meter is a compact (3.8 x 2.4 x 1 in) handheld device
 -  Pouch
 
 ## Drivers / Manuals
-[Setup](http://www.unihedron.com/projects/darksky/Instruction_sheet.pdf)
+[Manual](http://www.unihedron.com/projects/darksky/Instruction_sheet.pdf)
 
 
 

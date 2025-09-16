@@ -1,6 +1,6 @@
 ---
 category:  ld
-tags: Lighting-Accessories
+tags: Stands-&-Tripods
 quantity: 5
 maxLoan: 1 week
 aaunumbers:  AAU803770 AAU803771 AAU803772 AAU803773 AAU88144
@@ -13,8 +13,6 @@ Light Tripod with T-bar Height (m) 1,75 m – 3,10 m
 
 ## Drivers / Manuals
 [Manual](https://images.static-thomann.de/pics/atg/atgdata/document/manual/186230_c_186230_v3_en_online.pdf)
-
-[manual](https://images.static-thomann.de/pics/atg/atgdata/document/manual/186230_c_186230_v3_en_online.pdf)
 
 
 
