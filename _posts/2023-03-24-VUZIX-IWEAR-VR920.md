@@ -19,3 +19,4 @@ Vuzix Iwear VR920 headset (2009) The Vuzix iWear VR920 is a PC-powered head-moun
 
 
 
+### Capacity and Restrictions:

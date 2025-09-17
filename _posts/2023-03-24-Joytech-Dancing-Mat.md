@@ -16,3 +16,4 @@ Joytech Playstation 2 Dance Mat Playstation 2 (PS2), for up to two players
 
 
 
+### Capacity and Restrictions:

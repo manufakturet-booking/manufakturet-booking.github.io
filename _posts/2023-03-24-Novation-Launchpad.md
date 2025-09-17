@@ -17,3 +17,4 @@ The Novation Launchpad is a grid-based MIDI controller designed for Ableton Live
 
 
 
+### Capacity and Restrictions:

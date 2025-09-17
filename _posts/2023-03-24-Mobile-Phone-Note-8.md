@@ -19,3 +19,4 @@ Large-format smartphone featuring a 6.3" QHD+ Super AMOLED display with curved e
 
 
 
+### Capacity and Restrictions:

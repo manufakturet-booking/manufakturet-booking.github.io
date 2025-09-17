@@ -17,3 +17,4 @@ Shokz OpenRun Pro – Bone conduction, Bluetooth 5.1, 10h battery, IP55 water-re
 
 
 
+### Capacity and Restrictions:

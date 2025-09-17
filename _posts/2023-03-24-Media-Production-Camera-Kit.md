@@ -26,3 +26,4 @@ Versatile kit for video and audio recording, suitable for vlogging, interviews, 
 
 
 
+### Capacity and Restrictions:

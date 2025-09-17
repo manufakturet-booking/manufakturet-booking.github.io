@@ -16,3 +16,4 @@ The Samsung Galaxy TabPro S is a Windows-based tablet with a 12" Super AMOLED di
 
 
 
+### Capacity and Restrictions:

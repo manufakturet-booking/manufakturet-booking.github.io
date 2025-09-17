@@ -16,3 +16,4 @@ Lightweight, 12"  foldable disc made of translucent fabric for softening direct 
 
 
 
+### Capacity and Restrictions:

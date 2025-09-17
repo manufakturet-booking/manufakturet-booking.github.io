@@ -16,3 +16,4 @@ Elgato Green Screen Collapsible Chroma Key Panel. A portable chroma key panel op
 
 
 
+### Capacity and Restrictions:

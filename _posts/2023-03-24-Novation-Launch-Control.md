@@ -16,3 +16,4 @@ The Launch Control XL MK2 is a USB MIDI controller featuring 24 rotary knobs wit
 
 
 
+### Capacity and Restrictions:

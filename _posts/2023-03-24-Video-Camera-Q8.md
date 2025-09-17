@@ -1,6 +1,6 @@
 ---
 category:  create
-tags: Camera-&-Video-Camera
+tags: Media-Production-Equipment
 quantity: 2
 maxLoan: 1 week
 aaunumbers:  AAU805415 AAUX24020
@@ -19,7 +19,8 @@ Zoom Q8 Wide angle video camera with 4 track recording capability and built in X
 -  User manual
 
 ## Drivers / Manuals
-[Documents & Software](https://zoomcorp.com/en/jp/video-recorders/video-recorders/q8-handy-video-recorder/q8-support/)
+[Product Detail Page](https://zoomcorp.com/en/jp/video-recorders/video-recorders/q8-handy-video-recorder/q8-support/)
 
 
 
+### Capacity and Restrictions:

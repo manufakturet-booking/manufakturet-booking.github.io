@@ -16,3 +16,4 @@ Light Tripod with T-bar Height (m) 1,75 m – 3,10 m
 
 
 
+### Capacity and Restrictions:

@@ -19,3 +19,4 @@ S8+. Android Phone, released 2017 with Android 7<br>Large-format smartphone with
 
 
 
+### Capacity and Restrictions:

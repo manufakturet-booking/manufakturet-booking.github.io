@@ -16,3 +16,4 @@ Samsung DEX Station. Connect S8 or S8+ to a keyboard and screen.  Use phones app
 
 
 
+### Capacity and Restrictions:

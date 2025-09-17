@@ -16,3 +16,4 @@ The Samsung 205BW is a computer monitor from around 2007 with a slightly taller 
 
 
 
+### Capacity and Restrictions:

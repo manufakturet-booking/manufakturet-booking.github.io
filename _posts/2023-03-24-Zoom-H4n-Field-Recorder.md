@@ -16,3 +16,4 @@ The Zoom H4n is a compact and versatile portable audio recorder widely used in m
 
 
 
+### Capacity and Restrictions:

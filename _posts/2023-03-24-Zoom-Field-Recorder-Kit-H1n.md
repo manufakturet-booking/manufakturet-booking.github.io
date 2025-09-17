@@ -22,3 +22,4 @@ Zoom H1n Portable Audio  Recorder Kit – Compact stereo audio recorder with bu
 
 
 
+### Capacity and Restrictions:

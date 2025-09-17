@@ -16,3 +16,4 @@ Samsung Tab S2 is a lightweight Android tablet featuring a 9.7" Super AMOLED dis
 
 
 
+### Capacity and Restrictions:

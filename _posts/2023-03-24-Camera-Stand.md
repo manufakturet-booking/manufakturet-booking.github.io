@@ -18,3 +18,4 @@ Sturdy aluminum tripod made by Manfrotto. Max height: 178.5cm (with center colum
 
 
 
+### Capacity and Restrictions:

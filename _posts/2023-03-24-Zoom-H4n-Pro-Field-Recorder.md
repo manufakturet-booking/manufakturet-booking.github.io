@@ -17,3 +17,4 @@ The Zoom H4n is an upgraded versiopn of the H4n. A compact and versatile portabl
 
 
 
+### Capacity and Restrictions:

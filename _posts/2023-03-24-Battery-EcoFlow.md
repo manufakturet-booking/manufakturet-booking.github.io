@@ -18,3 +18,4 @@ The EcoFlow RIVER 3 is a compact portable power station that provides backup ele
 
 
 
+### Capacity and Restrictions:

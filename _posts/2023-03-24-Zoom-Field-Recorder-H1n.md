@@ -16,3 +16,4 @@ Zoom H1n. Portable field recorder with X-Y Condenser Microphones - Adjustable pl
 
 
 
+### Capacity and Restrictions:

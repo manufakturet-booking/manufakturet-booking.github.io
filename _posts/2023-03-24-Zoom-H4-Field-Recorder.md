@@ -17,3 +17,4 @@ The Zoom H4 is a portable audio recorder that captures high-quality stereo sou
 
 
 
+### Capacity and Restrictions:

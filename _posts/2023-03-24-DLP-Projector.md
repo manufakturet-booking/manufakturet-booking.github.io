@@ -18,3 +18,4 @@ Optoma 4K400STx DLP Projector – 4K UHD, 4000 lumens, short-throw (0.5:1), HDR/
 
 
 
+### Capacity and Restrictions:

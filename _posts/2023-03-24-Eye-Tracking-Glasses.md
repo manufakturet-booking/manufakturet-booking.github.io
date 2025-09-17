@@ -18,3 +18,4 @@ Kexxu Eye v1 Eye Tracking Glasses – Standalone, 2° accuracy, 40 FPS, 6-hour b
 
 
 
+### Capacity and Restrictions:

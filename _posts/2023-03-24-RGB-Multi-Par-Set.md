@@ -19,3 +19,4 @@ Compact LED lighting system with 4 x 30W RGB COB fixtures mounted on a bar.<br>P
 
 
 
+### Capacity and Restrictions:

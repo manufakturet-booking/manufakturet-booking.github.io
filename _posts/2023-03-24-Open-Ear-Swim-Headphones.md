@@ -17,3 +17,4 @@ Shokz OpenSwim Pro – Bone conduction, Bluetooth & MP3 mode, IP68 waterproof, 9
 
 
 
+### Capacity and Restrictions:

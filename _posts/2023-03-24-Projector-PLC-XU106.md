@@ -16,3 +16,4 @@ High-brightness LCD projector with 4500 lumens and XGA resolution. Connectivity 
 
 
 
+### Capacity and Restrictions:

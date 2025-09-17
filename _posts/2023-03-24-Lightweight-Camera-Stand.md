@@ -18,3 +18,4 @@ Velbon Lightweight yet sturdy camera tripod with camera mount and tilt/pan contr
 
 
 
+### Capacity and Restrictions:

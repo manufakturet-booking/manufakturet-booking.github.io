@@ -16,3 +16,4 @@ A non-reflective green fabric backdrop used for chroma key compositing in video 
 
 
 
+### Capacity and Restrictions:

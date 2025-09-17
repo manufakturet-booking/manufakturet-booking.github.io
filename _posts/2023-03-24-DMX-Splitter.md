@@ -16,3 +16,4 @@ Distributes, amplifies and buffers effectively DMX-512 signals.  3 + 5-pin XLR D
 
 
 
+### Capacity and Restrictions:

@@ -16,3 +16,4 @@ Home cinema LCD projector with 2000 lumens brightness and 720p resolution. Offer
 
 
 
+### Capacity and Restrictions:
