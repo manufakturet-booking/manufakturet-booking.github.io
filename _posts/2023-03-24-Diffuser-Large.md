@@ -1,11 +1,11 @@
 ---
 category:  ld
 tags: Lighting-Accessories
-quantity: 13
+quantity: 2
 maxLoan: 1 week
-aaunumbers:  AAU88155 AAU88156 IMI01066 IMI01067 IMI01069 IMI01070 IMI01071 IMI01072 IMI01073 IMI01074 IMI01075 IMI01076 IMI01077
+aaunumbers:  AAU88155 AAU88156
 ---
-![Diffuser](https://www.cineviewstudios.com/wp-content/uploads/2019/09/skylite-rapid-video-bts-image-02.jpg)
+![Diffuser Large](https://www.cineviewstudios.com/wp-content/uploads/2019/09/skylite-rapid-video-bts-image-02.jpg)
 
 Lastolite diffuser, Easy to set up and fold away with aluminium frames
 ## KIT INCLUDES:
