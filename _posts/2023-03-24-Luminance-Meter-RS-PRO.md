@@ -16,4 +16,3 @@ RS PRO. When using this light meter, light levels are measured using the lux sca
 
 
 
-### Capacity and Restrictions:

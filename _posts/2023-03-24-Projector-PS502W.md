@@ -7,7 +7,7 @@ aaunumbers:  AAUX24079 AAUX24080 AAUX24081 AAUX24082
 ---
 ![Projector PS502W](https://www.viewsonic.com/vsAssetFile/global/img/slides/0projector/PS502W/scaled/PS502_LF02_pc_l.jpg)
 
-ViewSonic PS502W: WXGA short throw projector with 3800 lumens, 22,000:1 contrast, up to 20,000-hour lamp life, dual HDMI, and built-in speaker.
+Short-throw DLP projector with 4000 lumens brightness. Dual HDMI, VGA in/out, USB, RS232, and audio ports. Projects large images from short distances.
 ## KIT INCLUDES:
 -  Projector
 
@@ -16,4 +16,3 @@ ViewSonic PS502W: WXGA short throw projector with 3800 lumens, 22,000:1 contrast
 
 
 
-### Capacity and Restrictions:

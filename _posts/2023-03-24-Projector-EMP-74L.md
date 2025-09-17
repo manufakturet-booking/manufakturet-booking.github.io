@@ -7,13 +7,12 @@ aaunumbers:  AAU67072
 ---
 ![Projector EMP-74L](https://www.projektoren-datenbank.com/pdf/images/epson-emp-54-74.jpg)
 
-Projector, Epson EMP-74L, 4,200 lumens White Light and Colour Light Output. Advanced Networking. HDMI.
+Compact XGA projector with 1500 lumens brightness. Offers VGA and S-Video inputs. Suitable for small rooms and interactive whiteboards.
 ## KIT INCLUDES:
 -  Projector
 
 ## Drivers / Manuals
-[Manual](https://www.epson.dk/da_DK/support/sc/epson-emp-74l/s/s471)
+[Product Detail Page](https://www.epson.dk/da_DK/produkter/projector/epson-emp-74l/p/1211)
 
 
 
-### Capacity and Restrictions:

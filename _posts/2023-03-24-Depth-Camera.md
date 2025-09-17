@@ -16,4 +16,3 @@ Intel Realsense SR300 Development Kit. (2016) A compact, USB-connected 3D camera
 
 
 
-### Capacity and Restrictions:

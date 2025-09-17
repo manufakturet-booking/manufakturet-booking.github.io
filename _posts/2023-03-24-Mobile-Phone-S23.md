@@ -16,4 +16,3 @@ Compact flagship smartphone featuring a 6.1" FHD+ Dynamic AMOLED 2X display with
 
 
 
-### Capacity and Restrictions:

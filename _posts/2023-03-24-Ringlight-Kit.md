@@ -20,4 +20,3 @@ Nanlite Halo 16-inch RGBW LED ring light with adjustable color temperature and b
 
 
 
-### Capacity and Restrictions:

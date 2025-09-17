@@ -16,4 +16,3 @@ Mionix GQ gaming mouse with built-in heart rate and galvanic skin response senso
 
 
 
-### Capacity and Restrictions:

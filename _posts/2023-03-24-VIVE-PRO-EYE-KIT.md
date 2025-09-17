@@ -22,4 +22,3 @@ VIVE Pro Eye is a premium VR headset featuring precision eye tracking, professio
 
 
 
-### Capacity and Restrictions:

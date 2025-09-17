@@ -16,4 +16,3 @@ Sigma 4.5mm f/2.8 EX DC HSM Circular Fisheye – Ultra-wide circular fisheye le
 
 
 
-### Capacity and Restrictions:

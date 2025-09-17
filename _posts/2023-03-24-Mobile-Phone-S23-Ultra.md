@@ -16,4 +16,3 @@ Premium flagship smartphone featuring a 6.8" QHD+ Dynamic AMOLED 2X display with
 
 
 
-### Capacity and Restrictions:

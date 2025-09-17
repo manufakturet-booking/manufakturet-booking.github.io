@@ -16,4 +16,3 @@ LED PAR fixture with a 12W RGBWA LED (red, green, blue, white, amber) for extend
 
 
 
-### Capacity and Restrictions:

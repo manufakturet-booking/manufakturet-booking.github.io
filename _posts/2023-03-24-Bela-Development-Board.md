@@ -22,4 +22,3 @@ Bela. Low latency development board - 8 16-bit analog inputs - 8 16-bit analog o
 
 
 
-### Capacity and Restrictions:

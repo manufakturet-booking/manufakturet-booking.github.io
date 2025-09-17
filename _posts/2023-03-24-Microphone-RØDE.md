@@ -16,4 +16,3 @@ RØDE smartLav+ wearable microphone plug into smartphone hedphone. TRRS connecti
 
 
 
-### Capacity and Restrictions:
