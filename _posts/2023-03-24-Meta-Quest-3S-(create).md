@@ -1,21 +1,21 @@
 ---
 category:  create
 tags: Immersive-Tech
-quantity: 5
+quantity: 10
 maxLoan: 1 week
-aaunumbers:  AAUX24021 AAUX24022 AAUX24023 AAUX24024 AAUX24025
+aaunumbers:  AAUX25005 AAUX25006 AAUX25007 AAUX25008 AAUX25009 AAUX25010 AAUX25011 AAUX25012 AAUX25013 AAUX25014
 ---
-![Meta Quest 3 Standard](https://mixed-news.com/en/wp-content/uploads/2024/09/Meta-Quest-3-Hardware-Hero-1200x675.jpg)
+![Meta Quest 3S (create)](https://www.uploadvr.com/content/images/size/w1200/2024/09/Quest-3S-UploadVR-hero.png)
 
 ⚠️  You MUST have permission from your supervisor to borrow this item<br><br>Standalone VR headset with high-resolution display and spatial audio. Supports mixed reality and hand tracking. Ideal for immersive experiences and general VR use.
 ## KIT INCLUDES:
--  Meta quest 3 headset  
+-  Meta quest 3S headset  
 -  2 Controllers  
 -  USB C  
 -  Power adapter
 
 ## Drivers / Manuals
-[Getting Started](https://www.meta.com/da-dk/help/quest/articles/getting-started/getting-started-with-quest-3/)
+[Manual](https://www.manuals.dk/meta/manual-quest-3s)
 
 
 
