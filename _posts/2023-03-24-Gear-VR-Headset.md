@@ -14,8 +14,6 @@ Samsung VR headset - for wearable binocular display - designed for Galaxy phones
 ## Drivers / Manuals
 [Manuals & Software](https://www.samsung.com/us/support/downloads/?model=N0021485&modelCode=SM-R323NBKAXAR)
 
-[Manuals & Software](https://www.samsung.com/us/business/support/owners/product/gear-vr-with-controller-sm-r324/)
-
 
 
 ### Capacity and Restrictions:

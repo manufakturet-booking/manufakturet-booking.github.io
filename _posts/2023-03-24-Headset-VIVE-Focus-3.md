@@ -5,7 +5,7 @@ quantity: 1
 maxLoan: 1 week
 aaunumbers:  AAUX25001
 ---
-![Headset VIVE Focus 3](https://www.vive.com/media/filer_public/vive/product-listing/hero-vive-focus-series.png)
+![Headset VIVE Focus 3](/assets/images/eqip/focus3.png)
 
 ℹ️ The Vive Focus 3 is situated in ME Lab, and cannot be used elsewhere.<br><br>Standalone VR headset with integrated eye tracking and high-resolution LCD displays. Offers wide field of view, smooth refresh rate, and room-scale tracking via onboard cameras. Designed for wireless use with enterprise-grade comfort and performance. Suitable for immersive applications without a PC.
 ## KIT INCLUDES:
@@ -18,7 +18,7 @@ aaunumbers:  AAUX25001
 -  Glasses spacer
 
 ## Drivers / Manuals
-[Setup](https://www.vive.com/us/setup/all-in-one/)
+[Product Detail Page](https://www.vive.com/us/product/vive-focus3/overview/)
 
 
 
