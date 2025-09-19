@@ -5,7 +5,7 @@ quantity: 1
 maxLoan: 1 week
 aaunumbers:  AAUX25001
 ---
-![Headset VIVE Focus 3](/assets/images/eqip/focus3.png)
+![Headset VIVE Focus 3](/assets/images/equip/focus3.png)
 
 ℹ️ The Vive Focus 3 is situated in ME Lab, and cannot be used elsewhere.<br><br>Standalone VR headset with integrated eye tracking and high-resolution LCD displays. Offers wide field of view, smooth refresh rate, and room-scale tracking via onboard cameras. Designed for wireless use with enterprise-grade comfort and performance. Suitable for immersive applications without a PC.
 ## KIT INCLUDES:
