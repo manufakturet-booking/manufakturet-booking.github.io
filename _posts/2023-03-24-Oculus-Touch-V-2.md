@@ -5,7 +5,7 @@ quantity: 1
 maxLoan: 2 weeks
 aaunumbers:  AAU805476
 ---
-![Oculus Touch V 2](https://en.wikipedia.org/wiki/Oculus_Touch#/media/File:Oculus_Touch_Controllers.jpg)
+![Oculus Touch V 2](/assets/images/equip/touch2.png)
 
 Oculus Touch V 2. Hand held game controller for Oculus Rift CV1
 ## KIT INCLUDES:

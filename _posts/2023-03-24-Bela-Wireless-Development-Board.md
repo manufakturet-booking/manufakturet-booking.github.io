@@ -16,7 +16,9 @@ Bela Wireless. Wireless version of the low latency Bela cape - - 8 16-bit analog
 - Cardboard Box
 
 ## Drivers / Manuals
-[Manual](https://learn.bela.io/get-started-guide/quick-start/)
+[Getting Started](https://learn.bela.io/get-started-guide/)
+
+[c++ audio tutorial playlist](https://youtu.be/aVLRUyPBBJk?si=ghINi2E4ENLpe0hF)
 
 
 

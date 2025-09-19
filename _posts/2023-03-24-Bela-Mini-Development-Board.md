@@ -18,6 +18,8 @@ Bela Mini. Mini version of Bela Cape with pocket beaglebone - 16 Digital I/O - 8
 ## Drivers / Manuals
 [Getting Started](https://learn.bela.io/get-started-guide/)
 
+[c++ audio tutorial playlist](https://youtu.be/aVLRUyPBBJk?si=ghINi2E4ENLpe0hF)
+
 
 
 ### Capacity and Restrictions:

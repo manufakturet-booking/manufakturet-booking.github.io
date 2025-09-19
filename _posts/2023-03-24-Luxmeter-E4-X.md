@@ -12,7 +12,7 @@ The Hagner E4-X Digital Luxmeter is a precision instrument for measuring illumin
 -  Luxmeter
 
 ## Drivers / Manuals
-[Manual](https://www.hagner.se/products/detail/3/)
+[Product Detail Page](https://www.hagner.se/products/detail/3/)
 
 
 
