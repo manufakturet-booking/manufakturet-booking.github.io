@@ -12,7 +12,7 @@ Electro-Voice RE20 is a dynamic cardioid microphone commonly used in broadcastin
 -  Microphone
 
 ## Drivers / Manuals
-[Downloads](https://products.electrovoice.com/na/en/re20/)
+[Product Detail Page](https://products.electrovoice.com/na/en/re20/)
 
 
 

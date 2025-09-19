@@ -5,16 +5,16 @@ quantity: 1
 maxLoan: 1 week
 aaunumbers:  AAUX25002
 ---
-![Eye Tracking Glasses](https://kexxu.com/wp-content/uploads/2024/07/KexxuEyeHead.jpg)
+![Eye Tracking Glasses](/assets/images/equip/kexxuEye1.png)
 
-Kexxu Eye v1 Eye Tracking Glasses – Standalone, 2° accuracy, 40 FPS, 6-hour battery, 16-hour storage, 2GB cloud, real-time gaze analysis.
+Wearable eye-tracking glasses designed for real-time gaze analysis in research, design, and sports contexts.<br>Combines scene and pupil cameras with onboard AI to visualize attention and focus.<br>Data is stored locally and analyzed via cloud tools for heat maps, gaze plots, and area-of-interest comparisons.<br>Fully portable and suitable for mobile experiments.
 ## KIT INCLUDES:
 -  Eye tracker glasses 
 -  Power adaptor 
 -  USB cable
 
 ## Drivers / Manuals
-[Getting Started](https://kexxu.com/?v=0ecbf9426bcf)
+[Product Detail Page](https://kexxu.com/?v=0ecbf9426bcf)
 
 
 

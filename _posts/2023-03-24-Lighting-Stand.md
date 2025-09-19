@@ -3,7 +3,7 @@ category:  ld
 tags: Stands-&-Tripods
 quantity: 5
 maxLoan: 1 week
-aaunumbers:  AAU803770 AAU803771 AAU803772 AAU803773 AAU88144
+aaunumbers:  AAU803770 AAU803771 AAU803772 AAU803773 AAUVarious
 ---
 ![Lighting Stand](https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_18/186230/3740847_800.jpg)
 
