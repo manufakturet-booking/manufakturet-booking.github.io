@@ -1,11 +1,11 @@
 ---
 category:  ld
 tags: Stands-&-Tripods
-quantity: 5
+quantity: 4
 maxLoan: 1 week
-aaunumbers:  AAU803770 AAU803771 AAU803772 AAU803773 AAUVarious
+aaunumbers:  AAU803770 AAU803771 AAU803772 AAU803773
 ---
-![Lighting Stand](https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_18/186230/3740847_800.jpg)
+![T-Bar Lighting Stand](https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_18/186230/3740847_800.jpg)
 
 Light Tripod with T-bar Height (m) 1,75 m – 3,10 m
 ## KIT INCLUDES:
