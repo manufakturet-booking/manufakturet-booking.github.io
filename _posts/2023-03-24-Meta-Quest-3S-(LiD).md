@@ -19,4 +19,3 @@ aaunumbers:  AAU25047
 
 
 
-### Capacity and Restrictions:

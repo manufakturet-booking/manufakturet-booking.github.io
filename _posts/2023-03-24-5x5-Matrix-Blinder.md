@@ -19,4 +19,3 @@ Stairville 5x5 Matrix Blinder with 25 warm white LEDs arranged in a 5x5 grid.<br
 
 
 
-### Capacity and Restrictions:

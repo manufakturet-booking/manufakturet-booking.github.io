@@ -10,12 +10,10 @@ aaunumbers:  AAU69024 AAU69023
 Sturdy aluminum tripod made by Manfrotto. Max height: 178.5cm (with center column) Max load: 7kg Weight: 4.2kg<br>Standard 1/4 inch (6.35 mm) thread mount, as found on most cameras, video camers and similar devices.
 ## KIT INCLUDES:
 -  Tripod Stand
+- Bag
 
 ## Drivers / Manuals
-[Manual](https://www.manua.ls/manfrotto/055xprob/manual)
-
 []()
 
 
 
-### Capacity and Restrictions:

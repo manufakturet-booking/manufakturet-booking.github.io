@@ -19,4 +19,3 @@ Similar to Meta Quest 3 but with a lighter build and improved ergonomics. Includ
 
 
 
-### Capacity and Restrictions:

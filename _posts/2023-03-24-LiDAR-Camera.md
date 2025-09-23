@@ -16,4 +16,3 @@ Intel® RealSense™ LiDAR Camera L515. Compact solid-state LiDAR depth camera d
 
 
 
-### Capacity and Restrictions:

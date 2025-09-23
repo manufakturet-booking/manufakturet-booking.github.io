@@ -16,4 +16,3 @@ Mid-sized flagship smartphone featuring a 6.6" FHD+ Dynamic AMOLED 2X display wi
 
 
 
-### Capacity and Restrictions:

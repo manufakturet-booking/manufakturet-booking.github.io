@@ -18,4 +18,3 @@ Lastolite diffuser and reflector.<br>Easy to set up and fold away with aluminium
 
 
 
-### Capacity and Restrictions:

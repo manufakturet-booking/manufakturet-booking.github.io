@@ -18,4 +18,3 @@ The Exterior 400 Image Projector is an outdoor-rated LED image projector designe
 
 
 
-### Capacity and Restrictions:

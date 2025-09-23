@@ -17,4 +17,3 @@ Showtec SC-2412 24-channel Lighting Desk. 48 patchable channels & 2 Aux channels
 
 
 
-### Capacity and Restrictions:

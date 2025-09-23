@@ -16,4 +16,3 @@ Foldable smartphone featuring a 7.6" main display and 6.2" cover screen. Support
 
 
 
-### Capacity and Restrictions:

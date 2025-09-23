@@ -21,4 +21,3 @@ PC-tethered VR headset originally released under the Oculus brand. Features outs
 
 
 
-### Capacity and Restrictions:

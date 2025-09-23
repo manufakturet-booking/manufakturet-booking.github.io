@@ -16,4 +16,3 @@ Stairville 12 x 8W RGBW is a LED wash light with 12 high-power RGBW LEDs (8W eac
 
 
 
-### Capacity and Restrictions:

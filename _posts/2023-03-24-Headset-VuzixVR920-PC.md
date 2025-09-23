@@ -9,9 +9,9 @@ aaunumbers:  IMI00609
 
 Early-generation PC-powered VR headset with 640×480 resolution per eye and 32° horizontal field of view.<br>Features basic 3 DoF head tracking, integrated stereo earphones, and VGA/USB connectivity.<br>Requires wired connection to a computer and is compatible with select stereoscopic PC games.
 ## KIT INCLUDES:
--  VR Glasses 
--  CD 
--  usb 
+-  VR Glasses
+- CD
+- usb
 - vga adapters
 
 ## Drivers / Manuals
@@ -19,4 +19,3 @@ Early-generation PC-powered VR headset with 640×480 resolution per eye and 32°
 
 
 
-### Capacity and Restrictions:

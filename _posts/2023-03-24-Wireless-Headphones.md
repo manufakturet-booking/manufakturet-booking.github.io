@@ -16,4 +16,3 @@ Samsung Level On. Foldable wireless headphones with Active Noise Cancellation an
 
 
 
-### Capacity and Restrictions:

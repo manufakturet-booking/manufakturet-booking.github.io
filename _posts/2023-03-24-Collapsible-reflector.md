@@ -16,4 +16,3 @@ Prolinca Silver Collapsible reflector.
 
 
 
-### Capacity and Restrictions:

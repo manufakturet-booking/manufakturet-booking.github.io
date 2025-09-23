@@ -22,4 +22,3 @@ aaunumbers:  AAUX25001
 
 
 
-### Capacity and Restrictions:

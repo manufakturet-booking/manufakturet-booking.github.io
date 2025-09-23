@@ -16,4 +16,3 @@ Compact XGA projector with 1500 lumens brightness. Offers VGA and S-Video inputs
 
 
 
-### Capacity and Restrictions:

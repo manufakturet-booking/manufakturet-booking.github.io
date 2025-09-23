@@ -16,4 +16,3 @@ KSM1750 MKII Professional smoke machine.  - Wireless remote control.  - Adjustab
 
 
 
-### Capacity and Restrictions:

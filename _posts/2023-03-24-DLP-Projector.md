@@ -18,4 +18,3 @@ Optoma 4K400STx DLP Projector<br><br>A short-throw 4K UHD projector designed for
 
 
 
-### Capacity and Restrictions:

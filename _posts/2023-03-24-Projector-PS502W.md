@@ -16,4 +16,3 @@ Short-throw DLP projector with 4000 lumens brightness. Dual HDMI, VGA in/out, US
 
 
 
-### Capacity and Restrictions:

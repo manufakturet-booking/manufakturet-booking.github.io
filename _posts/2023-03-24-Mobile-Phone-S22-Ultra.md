@@ -16,4 +16,3 @@ High-end smartphone combining flagship performance with integrated stylus functi
 
 
 
-### Capacity and Restrictions:

@@ -16,4 +16,3 @@ Samsung VR headset - for wearable binocular display - designed for Galaxy phones
 
 
 
-### Capacity and Restrictions:

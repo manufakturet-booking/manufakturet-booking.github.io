@@ -22,4 +22,3 @@ Compact 4K video recorder with wide-angle lens and built-in stereo mic capsule.<
 
 
 
-### Capacity and Restrictions:

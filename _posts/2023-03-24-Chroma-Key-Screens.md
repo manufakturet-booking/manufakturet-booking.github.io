@@ -16,4 +16,3 @@ Non-reflective green and blue fabric backdrops used for chroma key compositing i
 
 
 
-### Capacity and Restrictions:

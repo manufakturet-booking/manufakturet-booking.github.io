@@ -16,4 +16,3 @@ Interface for DMXsoft controller software. Turn your Computer or phone into a DM
 
 
 
-### Capacity and Restrictions:

@@ -21,4 +21,3 @@ aaunumbers:  AAUKIT25001
 
 
 
-### Capacity and Restrictions:

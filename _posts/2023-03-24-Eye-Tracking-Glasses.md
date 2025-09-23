@@ -18,4 +18,3 @@ Wearable eye-tracking glasses designed for real-time gaze analysis in research, 
 
 
 
-### Capacity and Restrictions:

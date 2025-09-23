@@ -16,4 +16,3 @@ Compact and durable smartphone featuring a 5.1" Quad HD Super AMOLED display and
 
 
 
-### Capacity and Restrictions:

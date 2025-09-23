@@ -17,4 +17,3 @@ Manfrotto Compact tripod stand.  Max 1.5 Kg. 40 - 131 cm.<br>Standard 1/4 inch (
 
 
 
-### Capacity and Restrictions:

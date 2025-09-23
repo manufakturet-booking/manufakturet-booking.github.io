@@ -22,4 +22,3 @@ Premium PC-tethered VR headset with integrated eye tracking, dual-OLED displays 
 
 
 
-### Capacity and Restrictions:

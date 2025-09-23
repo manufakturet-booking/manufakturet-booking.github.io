@@ -22,4 +22,3 @@ Bela Mini. Mini version of Bela Cape with pocket beaglebone - 16 Digital I/O - 8
 
 
 
-### Capacity and Restrictions:

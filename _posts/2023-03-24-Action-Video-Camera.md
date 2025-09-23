@@ -16,4 +16,3 @@ The Insta360 X4 is a compact action camera that captures immersive 8K 360° vide
 
 
 
-### Capacity and Restrictions:
