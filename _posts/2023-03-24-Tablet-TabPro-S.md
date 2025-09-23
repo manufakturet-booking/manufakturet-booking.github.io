@@ -1,9 +1,9 @@
 ---
 category:  smile
-tags: error Mobile-Phones-&-Tablets
-quantity: 4
+tags: Mobile-Phones-&-Tablets
+quantity: 2
 maxLoan: 1 week
-aaunumbers:  AAU802398 AAU802399 AAU805298 AAU805299
+aaunumbers:  AAU805298 AAU805299
 ---
 ![Tablet TabPro S](https://images.harlander.com/artikel/1000x1000/samsung-galaxy-tabpro-s-schwarz-windows10-2.jpg)
 
@@ -12,8 +12,6 @@ The Samsung Galaxy TabPro S is a Windows-based tablet with a 12" Super AMOLED di
 -  Tablet
 
 ## Drivers / Manuals
-[Product Detail Page](https://products.electrovoice.com/na/en/re20/)
-
 [Product Detail Page](https://www.samsung.com/us/support/computing/computing-accessories/?modelCode=SM-W703NZKAXAR-R)
 
 
