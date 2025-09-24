@@ -3,7 +3,7 @@ category:  create
 tags: Microphone
 quantity: 1
 maxLoan: 1 week
-aaunumbers:  AAU25052
+aaunumbers:  AAUX25052
 ---
 ![Wireless Microphone](https://www.mipro.com.my/file/mipro/mipro_act52h.jpg)
 
