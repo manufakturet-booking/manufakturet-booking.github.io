@@ -26,7 +26,7 @@ By using the equipment lending system you confirm that you have read and underst
 
 2. Check any [category restrictions](/_pages/terms#restrictions) for the items you are interested in borrowing (Eg., SMILE or Lighting Design)
 
-3. You will then need to go to CreaTech Lab. **You will need your mobile phone, and access to your university e-mail**. It is a good idea to email a staff member to make sure that the equipment is available before doing so.
+3. You will then need to go to CreaTech Lab. **You will need your mobile phone, and access to your university e-mail**.
 
 4. The lab is typically staffed between 09:00 and 16:00 Monday to Friday and is periodically booked for teaching and workshops. Be respectful of the activities taking place to minimize disturbance.
 
