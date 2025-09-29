@@ -1,9 +1,9 @@
 ---
 category:  ld
 tags: Lighting-Accessories
-quantity: 6
+quantity: 12
 maxLoan: 1 week
-aaunumbers:  AAUCPH0638 AAUCPH0639 AAUCPH0640 AAUCPH0641 AAUCPH0642 AAUCPH0643
+aaunumbers:  AAUCPH0638 AAUCPH0639 AAUCPH0640 AAUCPH0641 AAUCPH0642 AAUCPH0643 AAUX25075 AAUX25076 AAUX25077 AAUX25078 AAUX25079 AAUX25080
 ---
 ![DMX Controller](https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_25/258125/10221501_800.jpg)
 
