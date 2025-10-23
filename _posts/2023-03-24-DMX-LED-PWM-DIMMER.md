@@ -1,7 +1,7 @@
 ---
 category:  create
 tags: Lighting-Accessories
-quantity: 4
+quantity: 5
 maxLoan: 1 week
 aaunumbers:  AAUX25048 AAUX25049 AAUX25050 AAUX25051 AAUX25102
 ---
