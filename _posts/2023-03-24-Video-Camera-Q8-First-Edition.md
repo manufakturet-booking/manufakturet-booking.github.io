@@ -3,9 +3,9 @@ category:  create
 tags: Media-Production-Equipment
 quantity: 2
 maxLoan: 1 week
-aaunumbers:  AAU805415 AAUX24020
+aaunumbers:  AAU805415 AAU805482
 ---
-![Video Camera Q8](https://zoomcorp.com/media/original_images/Q8_HDMI.png.768x0_q60.png)
+![Video Camera Q8 First Edition](https://zoomcorp.com/media/original_images/Q8_HDMI.png.768x0_q60.png)
 
 Zoom Q8 Wide angle video camera with 4 track recording capability and built in X-Y consdenser mics
 ## KIT INCLUDES:
