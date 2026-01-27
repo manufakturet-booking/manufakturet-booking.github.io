@@ -7,9 +7,10 @@
 <span class="aaunumbers">{{ num }}</span>
   {% endfor %}
 {% endif %}
-{% if page.maxLoan %}</br>
+<!-- Temporarily removed because we pay no attention to it.-->
+<!--  {% if page.maxLoan %}</br>
   Maximum loan duration: {{ page.maxLoan }}.
-{% endif %}
+{% endif %}   -->
 {% if page.aaunumbers or page.quantity or page.maxLoan %}
 </br>
 </div> {% endif %}
