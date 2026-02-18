@@ -1,9 +1,9 @@
 ---
 category:  smile
 tags: Mobile-Phones-&-Tablets
-quantity: 7
+quantity: 6
 maxLoan: 1 week
-aaunumbers:  AAUX24049 AAUX25065 AAUX25066 AAUX25066 AAUX25068 AAUX25069 AAUX25070
+aaunumbers:  AAUX24049 AAUX25065 AAUX25066 AAUX25068 AAUX25069 AAUX25070
 ---
 ![Mobile Phone S21 Ultra 5G](https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s21-ultra-5g-2.jpg)
 
