@@ -1,13 +1,13 @@
 ---
 category:  create
 tags: Stands-&-Tripods
-quantity: 2
+quantity: 3
 maxLoan: 2 Weeks
-aaunumbers:  AAUX24013 AAUX24012
+aaunumbers:  AAUX24012 AAUX24013 AAUX25123
 ---
 ![Lightweight Tripod](/assets/images/equip/velbon.jpg)
 
-Velbon Lightweight yet sturdy tripod with camera mount and tilt/pan control handle<br>Standard 1/4 inch (6.35 mm) thread mount, as found on most cameras, video camers and similar devices.
+Velbon lightweight yet sturdy tripod stand with camera mount and tilt pan control handle<br><br>Standard 6.35 mm thread mount, as found on most cameras, video cameras and similar devices.
 ## KIT INCLUDES:
 -  Stand
 - Camera Mount

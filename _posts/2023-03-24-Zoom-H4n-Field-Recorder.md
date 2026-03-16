@@ -1,9 +1,9 @@
 ---
 category:  create
 tags: Media-Production-Equipment
-quantity: 1
+quantity: 2
 maxLoan: 2 weeks
-aaunumbers:  AAU84206
+aaunumbers:  AAUCPH0593 AAU84206
 ---
 ![Zoom H4n Field Recorder](/assets/images/equip/h4n.png)
 

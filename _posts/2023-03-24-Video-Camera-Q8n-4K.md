@@ -1,9 +1,9 @@
 ---
 category:  create
 tags: Media-Production-Equipment
-quantity: 1
+quantity: 2
 maxLoan: 1 week
-aaunumbers:  AAUX24020
+aaunumbers:  AAUX24020 AAUX25124
 ---
 ![Video Camera Q8n-4K](https://zoomcorp.com/media/images/4-Track_inset_3.width-800.png)
 

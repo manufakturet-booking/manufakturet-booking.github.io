@@ -1,9 +1,9 @@
 ---
 category:  create
 tags: Measurement-Instruments
-quantity: 1
+quantity: 2
 maxLoan: 1 week
-aaunumbers:  AAU802413
+aaunumbers:  AAU802413 AAUX25119
 ---
 ![Thermal Camera](/assets/images/equip/flirc2.png)
 
