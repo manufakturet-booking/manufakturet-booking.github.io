@@ -1,8 +1,8 @@
 ---
 category: create
 tags: Lighting-Accessories
-quantity: 5
-aaunumbers: AAUX25048 AAUX25049 AAUX25050 AAUX25051 AAUX25102
+quantity: 6
+aaunumbers: AAUX25048 AAUX25049 AAUX25050 AAUX25051 AAUX25102 AAUX25141
 ---
 
 ![DMX LED PWM DIMMER](https://www.proled.com/fileadmin/_processed_/7/6/csm_PROLED_DMX-PWM-DIMMER-4-CHANNEL_B02_07_b196634951.png)

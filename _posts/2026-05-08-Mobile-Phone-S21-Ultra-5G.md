@@ -1,8 +1,8 @@
 ---
 category: smile
 tags: Mobile-Phones-&-Tablets
-quantity: 6
-aaunumbers: AAUX24049 AAUX25065 AAUX25066 AAUX25068 AAUX25069 AAUX25070
+quantity: 14
+aaunumbers: AAUX24049 AAUX25065 AAUX25066 AAUX25068 AAUX25069 AAUX25070 AAUX25143 AAUX25144 AAUX25145 AAUX25146 AAUX25147 AAUX25148 AAUX25149 AAUX25150
 ---
 
 ![Mobile Phone S21 Ultra 5G](https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s21-ultra-5g-2.jpg)
