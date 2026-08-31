@@ -18,6 +18,7 @@ Compact 4K video recorder with wide-angle lens and built-in stereo mic capsule.<
 - Windscreen
 - USB Cable
 - Quick Guide
+- 128GB SD card
 
 ## Drivers Manuals
 
