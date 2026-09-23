@@ -5,7 +5,7 @@ quantity: 6
 aaunumbers: AAUX25048 AAUX25049 AAUX25050 AAUX25051 AAUX25102 AAUX25141
 ---
 
-![DMX LED PWM DIMMER](https://www.proled.com/fileadmin/_processed_/7/6/csm_PROLED_DMX-PWM-DIMMER-4-CHANNEL_B02_07_b196634951.png)
+![DMX LED PWM DIMMER]([https://www.proled.com/fileadmin/_processed_/7/6/csm_PROLED_DMX-PWM-DIMMER-4-CHANNEL_B02_07_b196634951.png](https://www.lightpartner.dk/media/catalog/product/cache/a672591da8c21a110053ecb76a547128/9/5/95l500011_1__2.jpg))
 
 PROLED DMX PWM DIMMER 4-CHANNEL LED dimmer for four independent LED dimmer circuits. Controllable by DMX 512 and addressable by DIP switches.
 
