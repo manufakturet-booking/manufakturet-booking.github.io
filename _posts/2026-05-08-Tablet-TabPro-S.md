@@ -1,8 +1,8 @@
 ---
 category: smile
 tags: Mobile-Phones-&-Tablets
-quantity: 2
-aaunumbers: AAU805298 AAU805299
+quantity: 1
+aaunumbers: AAU805299
 ---
 
 ![Tablet TabPro S](https://images.harlander.com/artikel/1000x1000/samsung-galaxy-tabpro-s-schwarz-windows10-2.jpg)
